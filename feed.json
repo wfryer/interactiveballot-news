@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T18:02:14Z",
+ "generatedAt": "2026-11-03T18:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -13,8 +13,8 @@
    "about": "https://www.ncsbe.gov/about",
    "status": {
     "state": "ok",
-    "itemCount": 10,
-    "newest": "2026-11-02T12:00:00Z"
+    "itemCount": 11,
+    "newest": "2026-11-03T12:00:00Z"
    }
   },
   {
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 6,
-    "newest": "2026-11-03T15:58:37Z"
+    "itemCount": 7,
+    "newest": "2026-11-03T17:31:10Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 11,
-    "newest": "2026-11-03T17:31:10Z"
+    "itemCount": 12,
+    "newest": "2026-11-03T18:03:37Z"
    }
   },
   {
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 6,
-    "newest": "2026-11-03T17:59:18Z"
+    "itemCount": 8,
+    "newest": "2026-11-03T18:14:01Z"
    }
   },
   {
@@ -225,6 +225,30 @@
  ],
  "items": [
   {
+   "id": "364347534545",
+   "source": "cardinalpine",
+   "title": "What are we voting for today, Nov. 3, in North Carolina? What’s on the ballot",
+   "url": "https://cardinalpine.com/news/elections/whats-on-the-ballot-north-carolina-voting/",
+   "published": "2026-11-03T18:14:01Z",
+   "summary": "The 2026 midterm general election is today, with 14 North Carolina U.S. House Seats and one U.S. Senate seat up for election. The post What are we voting for today, Nov. 3, in North Carolina? What’s on the ballot appeared first on Cardinal & Pine ."
+  },
+  {
+   "id": "666b9c9c061a",
+   "source": "cardinalpine",
+   "title": "What do I need to vote in NC? ID requirements on Election Day",
+   "url": "https://cardinalpine.com/news/what-do-i-need-to-vote-in-nc-photo-id/",
+   "published": "2026-11-03T18:06:13Z",
+   "summary": "Election Day is here, and North Carolina residents should know what ID is required for voters. The post What do I need to vote in NC? ID requirements on Election Day appeared first on Cardinal & Pine ."
+  },
+  {
+   "id": "42f4df7e21cc",
+   "source": "wunc",
+   "title": "Polls are open for the 2026 Midterms",
+   "url": "https://www.wunc.org/live-updates/midterms-2026-liveblog-cooper-whatley-election-voting",
+   "published": "2026-11-03T18:03:37Z",
+   "summary": "The 2026 Midterms are here. WUNC News has you covered with last minute voting guides and how to track results as they come in tonight."
+  },
+  {
    "id": "f3df901be724",
    "source": "cardinalpine",
    "title": "Roy Cooper looks to flip North Carolina Senate seat by defeating Republican Michael Whatley",
@@ -237,6 +261,14 @@
    "source": "wunc",
    "title": "Federal election monitors present in three NC counties",
    "url": "https://www.wunc.org/2026-11-03/federal-election-monitors-present-in-three-nc-counties",
+   "published": "2026-11-03T17:31:10Z",
+   "summary": "Federal election monitors are present in Alamance, Wake and Mecklenburg counties today. State election officials say their presence is routine and shouldn't alarm voters."
+  },
+  {
+   "id": "0e56131d957c",
+   "source": "wfae",
+   "title": "Federal election monitors present in three NC counties",
+   "url": "https://www.wfae.org/2026-11-03/federal-election-monitors-present-in-three-nc-counties",
    "published": "2026-11-03T17:31:10Z",
    "summary": "Federal election monitors are present in Alamance, Wake and Mecklenburg counties today. State election officials say their presence is routine and shouldn't alarm voters."
   },
@@ -279,6 +311,15 @@
    "url": "https://www.wfae.org/politics/2026-11-03/mooresville-approves-12-month-moratorium-on-new-data-center-projects",
    "published": "2026-11-03T12:23:17Z",
    "summary": "Mooresville is the latest North Carolina community to implement a moratorium on new data center projects.WJZY reports that commissioners voted unanimously Monday night to impose a 12-month pause on new applications for the facilities.Town leaders said they want to find a balance…"
+  },
+  {
+   "id": "387e7e184c37",
+   "source": "ncsbe",
+   "title": "State Board Emergency Meeting (Nov. 3, 2026)",
+   "url": "https://www.ncsbe.gov/news/press-releases/2026/11/03/state-board-emergency-meeting-nov-3-2026",
+   "published": "2026-11-03T12:00:00Z",
+   "summary": "",
+   "dateOnly": true
   },
   {
    "id": "56bda0f57729",
