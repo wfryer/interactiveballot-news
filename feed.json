@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T15:47:09Z",
+ "generatedAt": "2026-11-03T16:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 5,
-    "newest": "2026-11-03T15:32:36Z"
+    "itemCount": 6,
+    "newest": "2026-11-03T15:58:37Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "60b1d2781d26",
+   "source": "wfae",
+   "title": "Election Results: Analysis and insights from the 2026 midterm election",
+   "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-03/election-results-analysis-and-insights-from-the-2026-midterm-election",
+   "published": "2026-11-03T15:58:37Z",
+   "summary": "Voting is complete and the results are in, so what do we know about the midterm elections locally and beyond? From consequential and competitive congressional and state office races to down ballot issues on constitutional amendments and city bond proposals, how did it all pan…"
+  },
   {
    "id": "37d0d6ad59c5",
    "source": "carolinajournal",
