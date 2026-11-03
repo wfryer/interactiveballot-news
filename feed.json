@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T20:02:19Z",
+ "generatedAt": "2026-11-03T20:47:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 8,
-    "newest": "2026-11-03T19:27:55Z"
+    "itemCount": 9,
+    "newest": "2026-11-03T20:31:13Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a0340aabb971",
+   "source": "wfae",
+   "title": "NC extends voting hours at five polling places after technical issues; Results will be delayed",
+   "url": "https://www.wfae.org/politics/2026-11-03/nc-extends-voting-hours-at-five-polling-places-after-technical-issues-results-will-be-delayed",
+   "published": "2026-11-03T20:31:13Z",
+   "summary": "The North Carolina State Board of Elections has extended voting hours at five polling places that opened late Tuesday morning because of computer and printer problems.Two of the affected sites are in Hertford County. The others are in Wilson, Lenoir and Columbus…"
+  },
   {
    "id": "4e57ec4ac167",
    "source": "wfae",
