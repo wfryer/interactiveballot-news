@@ -50,23 +50,6 @@
       ]
     },
     {
-      "id": "uwcip",
-      "name": "Election Rumor Rundown (UW Center for an Informed Public)",
-      "short": "Election Rumor Rundown",
-      "kind": "stream",
-      "type": "University research center",
-      "scope": "National",
-      "description": "Published by the Center for an Informed Public at the University of Washington. Tracks rumors about election processes and procedures in U.S. elections. National in scope, so not every post is about North Carolina.",
-      "homepage": "https://uwcip.substack.com",
-      "about": "https://www.cip.uw.edu/",
-      "fetch": [
-        {
-          "type": "rss",
-          "url": "https://uwcip.substack.com/feed"
-        }
-      ]
-    },
-    {
       "id": "ncnewsline",
       "name": "NC Newsline",
       "short": "NC Newsline",
@@ -132,6 +115,18 @@
       "description": "An election tracker from the John Locke Foundation, a North Carolina policy organization. The page loads its data with JavaScript, so it appears here as a link instead of a feed.",
       "homepage": "https://carolinaelections.com/tracker/66",
       "cta": "Open the tracker"
+    },
+    {
+      "id": "uwcip",
+      "name": "Election Rumor Rundown (UW Center for an Informed Public)",
+      "short": "Election Rumor Rundown",
+      "kind": "tool",
+      "type": "University research center",
+      "scope": "National",
+      "description": "Published by the Center for an Informed Public at the University of Washington. Tracks rumors about election processes and procedures in U.S. elections. National in scope, so not every post is about North Carolina. Its site blocks automated feed readers, so it appears here as a link instead of a feed.",
+      "homepage": "https://uwcip.substack.com",
+      "about": "https://www.cip.uw.edu/",
+      "cta": "Read the rundown"
     },
     {
       "id": "vopropros",
