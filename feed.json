@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T19:32:13Z",
+ "generatedAt": "2026-11-03T20:02:19Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 32,
-    "newest": "2026-11-03T11:01:01Z"
+    "itemCount": 33,
+    "newest": "2026-11-03T19:26:18Z"
    }
   },
   {
@@ -231,6 +231,14 @@
    "url": "https://www.wfae.org/politics/2026-11-03/trump-taxes-and-schools-charlotte-area-voters-weigh-national-and-local-issues-in-tuesday-midterms",
    "published": "2026-11-03T19:27:55Z",
    "summary": "It’s Election Day for the 2026 midterms, and WFAE reporters are talking to voters outside polling stations throughout the region.A record 2.8 million North Carolinians cast their ballots early this year, with long lines reported at the end of the early voting period on Saturday…"
+  },
+  {
+   "id": "cf49d8aa16e2",
+   "source": "ncnewsline",
+   "title": "Election workers, volunteers work to protect and promote the right to vote in NC on Election Day",
+   "url": "https://ncnewsline.com/2026/11/03/election-workers-volunteers-work-to-protect-and-promote-the-right-to-vote-in-nc-on-election-day/",
+   "published": "2026-11-03T19:26:18Z",
+   "summary": "For Ren Pridgeon, 72, working on Election Day is a five-decade tradition. “I have never missed an election,” said Pridgeon with a broad smile. “I worked my first election when I was 22 years old.” Pridgeon was serving as a poll worker Tuesday outside of John Chavis Community…"
   },
   {
    "id": "364347534545",
