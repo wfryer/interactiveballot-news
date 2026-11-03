@@ -1,0 +1,154 @@
+{
+  "settings": {
+    "maxAgeDays": 45,
+    "maxPerSource": 40,
+    "summaryChars": 280
+  },
+  "sources": [
+    {
+      "id": "ncsbe",
+      "name": "NC State Board of Elections",
+      "short": "NCSBE",
+      "kind": "stream",
+      "type": "State agency",
+      "scope": "North Carolina",
+      "description": "The state agency that administers North Carolina elections. Items here are its own official press releases and meeting notices, including Election Day guidance and results announcements.",
+      "homepage": "https://www.ncsbe.gov",
+      "about": "https://www.ncsbe.gov/about",
+      "fetch": [
+        {
+          "type": "links",
+          "url": "https://www.ncsbe.gov/news/recent-press-releases",
+          "link_regex": "/news/press-releases/\\d{4}/\\d{2}/\\d{2}/[^/?#]+",
+          "date_regex": "/news/press-releases/(?P<y>\\d{4})/(?P<m>\\d{2})/(?P<d>\\d{2})/"
+        },
+        {
+          "type": "links",
+          "url": "https://www.ncsbe.gov/",
+          "link_regex": "/news/press-releases/\\d{4}/\\d{2}/\\d{2}/[^/?#]+",
+          "date_regex": "/news/press-releases/(?P<y>\\d{4})/(?P<m>\\d{2})/(?P<d>\\d{2})/"
+        }
+      ]
+    },
+    {
+      "id": "commoncause",
+      "name": "Common Cause North Carolina",
+      "short": "Common Cause NC",
+      "kind": "stream",
+      "type": "Advocacy organization",
+      "scope": "North Carolina",
+      "description": "State chapter of a national democracy reform organization. Covers voting rights, fair maps, election protection and money in politics, and takes public positions on legislation. It describes itself as nonpartisan (a 501(c)(4) organization).",
+      "homepage": "https://www.commoncause.org/north-carolina/",
+      "about": "https://www.commoncause.org/north-carolina/about-us/",
+      "url_regex": "/north-carolina/",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://www.commoncause.org/north-carolina/feed/"
+        },
+        {
+          "type": "links",
+          "url": "https://www.commoncause.org/north-carolina/updates/",
+          "link_regex": "/north-carolina/articles/[^/?#]+/?$"
+        }
+      ]
+    },
+    {
+      "id": "uwcip",
+      "name": "Election Rumor Rundown (UW Center for an Informed Public)",
+      "short": "Election Rumor Rundown",
+      "kind": "stream",
+      "type": "University research center",
+      "scope": "National",
+      "description": "Published by the Center for an Informed Public at the University of Washington. Tracks rumors about election processes and procedures in U.S. elections. National in scope, so not every post is about North Carolina.",
+      "homepage": "https://uwcip.substack.com",
+      "about": "https://www.cip.uw.edu/",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://uwcip.substack.com/feed"
+        }
+      ]
+    },
+    {
+      "id": "ncnewsline",
+      "name": "NC Newsline",
+      "short": "NC Newsline",
+      "kind": "stream",
+      "type": "Nonprofit newsroom",
+      "scope": "North Carolina",
+      "description": "Statewide nonprofit news outlet, an affiliate of States Newsroom. It describes itself as nonpartisan and publishes both news reporting and commentary. Only posts that mention elections or voting are shown here.",
+      "homepage": "https://ncnewsline.com",
+      "keyword_regex": "\\b(?:election\\w*|electoral|electors?|elected|re-?elect\\w*|vot(?:e|es|ed|er|ers|ing)|ballots?|polls?|polling|precincts?|canvass\\w*|absentee|redistrict\\w*|gerrymander\\w*|candidates?|campaigns?|democracy)\\b",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://ncnewsline.com/feed/"
+        }
+      ]
+    },
+    {
+      "id": "carolinapublicpress",
+      "name": "Carolina Public Press",
+      "short": "Carolina Public Press",
+      "kind": "stream",
+      "type": "Nonprofit newsroom",
+      "scope": "North Carolina",
+      "description": "Independent nonprofit newsroom based in Raleigh. It describes its work as in-depth, investigative reporting in a nonprofit, nonpartisan setting, and has staff dedicated to election coverage. Only posts that mention elections or voting are shown here.",
+      "homepage": "https://carolinapublicpress.org",
+      "keyword_regex": "\\b(?:election\\w*|electoral|electors?|elected|re-?elect\\w*|vot(?:e|es|ed|er|ers|ing)|ballots?|polls?|polling|precincts?|canvass\\w*|absentee|redistrict\\w*|gerrymander\\w*|candidates?|campaigns?|democracy)\\b",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://carolinapublicpress.org/feed/"
+        }
+      ]
+    },
+    {
+      "id": "ncelectionslive",
+      "name": "NC Election Live",
+      "short": "NC Election Live",
+      "kind": "tool",
+      "type": "Election tracker",
+      "scope": "North Carolina",
+      "description": "Live, non-partisan tracking of North Carolina's 2026 general election: the daily early-vote tracker, election night anchored to the official count, and the canvass until certification. Sourced to the NC State Board of Elections and downloadable.",
+      "homepage": "https://ncelectionslive.com/",
+      "cta": "Open the tracker"
+    },
+    {
+      "id": "ncsbe-results",
+      "name": "NCSBE Election Results",
+      "short": "NCSBE Results",
+      "kind": "tool",
+      "type": "State agency data tool",
+      "scope": "North Carolina",
+      "description": "The State Board of Elections' official results dashboard, which is where the official count is published on election night.",
+      "homepage": "https://er.ncsbe.gov/",
+      "cta": "Open official results"
+    },
+    {
+      "id": "carolinaelections",
+      "name": "Carolina Elections Tracker (John Locke Foundation)",
+      "short": "John Locke Election Tracker",
+      "kind": "tool",
+      "type": "Think tank data tool",
+      "scope": "North Carolina",
+      "description": "An election tracker from the John Locke Foundation, a North Carolina policy organization. The page loads its data with JavaScript, so it appears here as a link instead of a feed.",
+      "homepage": "https://carolinaelections.com/tracker/66",
+      "cta": "Open the tracker"
+    },
+    {
+      "id": "vopropros",
+      "name": "VoPro Pros",
+      "short": "VoPro Pros",
+      "kind": "tool",
+      "type": "Volunteer organization",
+      "scope": "National",
+      "description": "An all-volunteer, all-virtual voter protection group that formed during the 2020 general election and the 2021 Georgia Senate runoff. Offers voter protection toolkits and ways to volunteer.",
+      "homepage": "https://www.vopropros.com",
+      "about": "https://toolkit.vopropros.com/voting-resources.html",
+      "aboutLabel": "Voter protection toolkits",
+      "cta": "Visit VoPro Pros"
+    }
+  ]
+}

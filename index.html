@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>North Carolina Election News | Interactive Ballot</title>
+  <meta name="description" content="A filterable feed of election updates from North Carolina and election-focused sources, with details about each source. Nonpartisan and experimental.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --navy: #1a2744;
+      --blue: #2c4a8a;
+      --blue-soft: #e8eefb;
+      --accent: #b8321a;
+      --cream: #f5f0e8;
+      --paper: #ffffff;
+      --line: #d3cbb6;
+      --text: #1c1c1c;
+      --muted: #55524a;
+      --focus: #1d5fd1;
+      --chip-on-bg: #1a2744;
+      --chip-on-text: #ffffff;
+      --header-text: #ffffff;
+      --header-sub: rgba(255,255,255,0.78);
+      --link: #1f4bb0;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --navy: #0f1830;
+        --blue: #8fb1f2;
+        --blue-soft: #1b2a4d;
+        --accent: #ff8a70;
+        --cream: #12151c;
+        --paper: #1a1e28;
+        --line: #343a4a;
+        --text: #ecebe6;
+        --muted: #b4b1a6;
+        --focus: #8fb1f2;
+        --chip-on-bg: #8fb1f2;
+        --chip-on-text: #0f1830;
+        --link: #9db9f5;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+
+    body {
+      margin: 0;
+      font-family: 'Source Serif 4', Georgia, serif;
+      background: var(--cream);
+      color: var(--text);
+      line-height: 1.6;
+      font-size: 1.0625rem;
+    }
+    a { color: var(--link); }
+    a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible {
+      outline: 3px solid var(--focus);
+      outline-offset: 2px;
+    }
+    .skip {
+      position: absolute; left: -999px; top: 0; background: var(--paper); color: var(--text);
+      padding: .6rem 1rem; z-index: 10; border: 2px solid var(--focus);
+    }
+    .skip:focus { left: 8px; top: 8px; }
+
+    /* Header */
+    header.site {
+      background: var(--navy);
+      color: var(--header-text);
+      border-bottom: 5px solid var(--accent);
+      padding: 2rem 16px 1.75rem;
+    }
+    .wrap { max-width: 860px; margin: 0 auto; }
+    .back { color: var(--header-sub); font-size: .9rem; text-decoration: none; }
+    .back:hover { text-decoration: underline; color: #fff; }
+    header.site h1 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-weight: 900;
+      font-size: clamp(1.75rem, 5vw, 2.6rem);
+      line-height: 1.15;
+      margin: .6rem 0 .4rem;
+    }
+    header.site p { margin: 0; color: var(--header-sub); max-width: 62ch; }
+    .badges { margin-top: .9rem; display: flex; flex-wrap: wrap; gap: .5rem; }
+    .badge-pill {
+      font-size: .75rem; letter-spacing: .08em; text-transform: uppercase;
+      border: 1px solid rgba(255,255,255,.35); padding: .2rem .65rem; border-radius: 999px; color: var(--header-sub);
+    }
+
+    main { padding: 0 16px 3rem; }
+
+    /* Toolbar */
+    .toolbar {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 1rem;
+      margin: 1.5rem 0 1rem;
+    }
+    .toolbar h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.15rem; margin: 0 0 .15rem;
+    }
+    .hint { margin: 0 0 .75rem; color: var(--muted); font-size: .92rem; }
+    .chips { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; margin: 0; list-style: none; }
+    .chip {
+      font: inherit; font-size: .93rem;
+      border: 1.5px solid var(--line);
+      background: var(--paper);
+      color: var(--text);
+      padding: .4rem .8rem;
+      border-radius: 999px;
+      cursor: pointer;
+      min-height: 44px;
+      display: inline-flex; align-items: center; gap: .45rem;
+      transition: background .15s, border-color .15s;
+    }
+    .chip:hover { border-color: var(--blue); }
+    .chip[aria-pressed="true"] {
+      background: var(--chip-on-bg); color: var(--chip-on-text); border-color: var(--chip-on-bg);
+    }
+    .chip[aria-pressed="true"]::before { content: "\2713"; font-weight: 700; }
+    .chip .n {
+      font-size: .78rem; opacity: .8; font-variant-numeric: tabular-nums;
+    }
+    .search-row { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; margin-top: .9rem; }
+    .search-row label { font-size: .92rem; color: var(--muted); }
+    input[type="search"] {
+      font: inherit; padding: .5rem .75rem; min-height: 44px; flex: 1 1 220px; max-width: 420px;
+      border: 1.5px solid var(--line); border-radius: 6px; background: var(--paper); color: var(--text);
+    }
+    .linkbtn {
+      font: inherit; background: none; border: 0; color: var(--link); text-decoration: underline;
+      cursor: pointer; padding: .5rem; min-height: 44px;
+    }
+
+    .status { color: var(--muted); font-size: .9rem; margin: .25rem 0 1rem; }
+
+    /* Items */
+    .items { list-style: none; margin: 0; padding: 0; display: grid; gap: .75rem; }
+    .item {
+      background: var(--paper); border: 1px solid var(--line); border-left: 5px solid var(--blue);
+      border-radius: 6px; padding: .9rem 1rem 1rem;
+    }
+    .item h3 { margin: 0 0 .3rem; font-size: 1.12rem; line-height: 1.3; font-weight: 600; }
+    .item h3 a { color: var(--text); text-decoration-color: var(--blue); text-underline-offset: 3px; }
+    .item h3 a:hover { color: var(--link); }
+    .meta { display: flex; flex-wrap: wrap; gap: .25rem .75rem; align-items: center; font-size: .88rem; color: var(--muted); }
+    .src-btn {
+      font: inherit; font-size: .88rem; font-weight: 600; color: var(--link);
+      background: var(--blue-soft); border: 0; padding: .15rem .6rem; border-radius: 4px; cursor: pointer;
+      min-height: 32px;
+    }
+    .src-btn:hover { text-decoration: underline; }
+    .summary { margin: .45rem 0 0; font-size: .97rem; color: var(--text); }
+    .more { text-align: center; margin: 1.25rem 0 0; }
+    .btn {
+      font: inherit; padding: .65rem 1.25rem; min-height: 44px; border-radius: 6px; cursor: pointer;
+      background: var(--chip-on-bg); color: var(--chip-on-text); border: 0; font-weight: 600;
+    }
+    .empty {
+      background: var(--paper); border: 1px dashed var(--line); border-radius: 6px; padding: 1.25rem; color: var(--muted);
+    }
+
+    /* Sections */
+    section.block { margin-top: 2.5rem; }
+    section.block > h2 {
+      font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; margin: 0 0 .25rem;
+    }
+    section.block > p.lead { margin: 0 0 1rem; color: var(--muted); max-width: 66ch; }
+    .cards { display: grid; gap: .9rem; grid-template-columns: 1fr; }
+    @media (min-width: 720px) { .cards { grid-template-columns: 1fr 1fr; } }
+    .card {
+      background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 1rem;
+      display: flex; flex-direction: column; gap: .5rem;
+    }
+    .card h3 { margin: 0; font-size: 1.1rem; line-height: 1.3; }
+    .tags { display: flex; flex-wrap: wrap; gap: .4rem; }
+    .tag {
+      font-size: .75rem; letter-spacing: .04em; text-transform: uppercase; border: 1px solid var(--line);
+      padding: .1rem .55rem; border-radius: 4px; color: var(--muted);
+    }
+    .card p { margin: 0; font-size: .97rem; }
+    .card .actions { margin-top: auto; display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: center; padding-top: .35rem; }
+    .small { font-size: .85rem; color: var(--muted); }
+
+    /* Dialog */
+    dialog {
+      max-width: min(560px, calc(100vw - 32px)); width: 100%;
+      border: 2px solid var(--navy); border-radius: 10px; padding: 1.25rem 1.25rem 1rem;
+      background: var(--paper); color: var(--text);
+    }
+    dialog::backdrop { background: rgba(10, 15, 30, .55); }
+    dialog h2 { font-family: 'Playfair Display', Georgia, serif; margin: 0 0 .5rem; font-size: 1.35rem; line-height: 1.25; }
+    dialog .close { float: right; margin: -.4rem -.4rem 0 .5rem; }
+
+    footer.site { border-top: 1px solid var(--line); padding: 1.5rem 16px 2.5rem; color: var(--muted); font-size: .9rem; }
+    footer.site p { margin: 0 0 .6rem; max-width: 70ch; }
+    .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#feed">Skip to the news feed</a>
+
+  <header class="site">
+    <div class="wrap">
+      <a class="back" href="../">&larr; Back to Interactive Ballot</a>
+      <h1>North Carolina Election News</h1>
+      <p>A running feed of updates from election officials, research groups and newsrooms. Filter by source, and tap a source name to see what it is and who runs it.</p>
+      <div class="badges">
+        <span class="badge-pill">Nonpartisan</span>
+        <span class="badge-pill">Experimental</span>
+        <span class="badge-pill">Not affiliated with any campaign or party</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+      <section class="toolbar" aria-labelledby="filter-h">
+        <h2 id="filter-h">Filter by source</h2>
+        <p class="hint">Select one or more sources. With none selected you see everything.</p>
+        <ul class="chips" id="chips" aria-label="Sources"></ul>
+        <div class="search-row">
+          <label for="q">Search titles and summaries</label>
+          <input type="search" id="q" autocomplete="off" placeholder="for example: early voting">
+          <button type="button" class="linkbtn" id="reset" hidden>Clear filters</button>
+        </div>
+      </section>
+
+      <p class="status" id="status" role="status" aria-live="polite">Loading the latest updates&hellip;</p>
+      <section id="feed" aria-label="News feed" tabindex="-1">
+        <ol class="items" id="items"></ol>
+        <div class="more"><button type="button" class="btn" id="more" hidden>Show more</button></div>
+      </section>
+
+      <section class="block" id="sources" aria-labelledby="sources-h">
+        <h2 id="sources-h">About the sources in this feed</h2>
+        <p class="lead">These sources publish items that appear above. Descriptions come from each source's own pages. Inclusion here is not an endorsement, and a source's description is not a rating of its accuracy. Reading across several sources is part of good media literacy.</p>
+        <div class="cards" id="source-cards"></div>
+      </section>
+
+      <section class="block" id="tools" aria-labelledby="tools-h">
+        <h2 id="tools-h">Trackers and tools</h2>
+        <p class="lead">These do not publish a feed we can read, so they are linked here instead. They are useful on Election Day and during the canvass.</p>
+        <div class="cards" id="tool-cards"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site">
+    <div class="wrap">
+      <p id="updated-note"></p>
+      <p>Links go to third-party sites that we do not control. Always confirm voting details with the <a href="https://www.ncsbe.gov" target="_blank" rel="noopener noreferrer">NC State Board of Elections</a> and your <a href="https://vt.ncsbe.gov/BOEInfo/" target="_blank" rel="noopener noreferrer">county board of elections</a>.</p>
+      <p>Interactive Ballot is nonpartisan and experimental. <a href="https://ai.wesfryer.com" target="_blank" rel="noopener noreferrer">AI and media literacy projects by Wes Fryer</a>. The data file behind this page is <a href="feed.json">feed.json</a>.</p>
+    </div>
+  </footer>
+
+  <dialog id="src-dialog" aria-labelledby="dlg-title">
+    <button type="button" class="linkbtn close" id="dlg-close" aria-label="Close source details">Close</button>
+    <div id="dlg-body"></div>
+  </dialog>
+
+  <script>
+  (function () {
+    'use strict';
+
+    // The page looks for feed.json next to itself first. If this folder is served
+    // from a different place than the repository that holds feed.json, the second
+    // address is used. Change it to match your repository.
+    var FEED_URLS = [
+      'feed.json',
+      'https://raw.githubusercontent.com/wfryer/interactiveballot-news/main/feed.json'
+    ];
+    var PAGE_SIZE = 30;
+
+    var state = { feed: null, selected: new Set(), q: '', shown: PAGE_SIZE };
+    var els = {
+      chips: document.getElementById('chips'),
+      items: document.getElementById('items'),
+      status: document.getElementById('status'),
+      more: document.getElementById('more'),
+      q: document.getElementById('q'),
+      reset: document.getElementById('reset'),
+      srcCards: document.getElementById('source-cards'),
+      toolCards: document.getElementById('tool-cards'),
+      dialog: document.getElementById('src-dialog'),
+      dlgBody: document.getElementById('dlg-body'),
+      updated: document.getElementById('updated-note')
+    };
+
+    function h(tag, props) {
+      var el = document.createElement(tag);
+      if (props) Object.keys(props).forEach(function (k) {
+        var v = props[k];
+        if (v == null || v === false) return;
+        if (k === 'class') el.className = v;
+        else if (k === 'text') el.textContent = v;
+        else if (k.indexOf('on') === 0) el.addEventListener(k.slice(2), v);
+        else el.setAttribute(k, v === true ? '' : v);
+      });
+      for (var i = 2; i < arguments.length; i++) {
+        var kid = arguments[i];
+        if (kid == null || kid === false) continue;
+        el.append(kid.nodeType ? kid : document.createTextNode(String(kid)));
+      }
+      return el;
+    }
+
+    function safeUrl(u) {
+      try {
+        var x = new URL(u, location.href);
+        return (x.protocol === 'https:' || x.protocol === 'http:') ? x.href : null;
+      } catch (e) { return null; }
+    }
+    function ext(url, text, cls) {
+      var href = safeUrl(url);
+      if (!href) return null;
+      return h('a', { href: href, target: '_blank', rel: 'noopener noreferrer', class: cls, text: text });
+    }
+
+    // ---------- dates
+    var rtf = (typeof Intl !== 'undefined' && Intl.RelativeTimeFormat) ? new Intl.RelativeTimeFormat('en', { numeric: 'auto' }) : null;
+    function fmtDate(d, opts) { return new Intl.DateTimeFormat(undefined, opts).format(d); }
+    function whenText(item) {
+      var d = new Date(item.published);
+      if (isNaN(d)) return { text: '', full: '' };
+      if (item.dateOnly) {
+        var day = fmtDate(d, { dateStyle: 'medium', timeZone: 'UTC' });
+        return { text: day, full: day };
+      }
+      var full = fmtDate(d, { dateStyle: 'medium', timeStyle: 'short' });
+      var mins = Math.round((Date.now() - d.getTime()) / 60000);
+      var text;
+      if (!rtf || mins >= 60 * 24 * 7) text = fmtDate(d, { dateStyle: 'medium' });
+      else if (mins < 1) text = 'just now';
+      else if (mins < 60) text = rtf.format(-mins, 'minute');
+      else if (mins < 60 * 24) text = rtf.format(-Math.round(mins / 60), 'hour');
+      else text = rtf.format(-Math.round(mins / 60 / 24), 'day');
+      if (item.dateApprox) text = 'first seen ' + text;
+      return { text: text, full: full };
+    }
+
+    // ---------- data
+    function load() {
+      var i = 0;
+      function next() {
+        if (i >= FEED_URLS.length) return Promise.reject(new Error('no feed'));
+        var url = FEED_URLS[i++];
+        return fetch(url, { cache: 'no-cache' })
+          .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+          .then(function (j) { if (!j || !Array.isArray(j.items) || !Array.isArray(j.sources)) throw new Error('bad'); return j; })
+          .catch(next);
+      }
+      return next();
+    }
+
+    function sourceById(id) {
+      return state.feed.sources.find(function (s) { return s.id === id; });
+    }
+    function streamSources() {
+      return state.feed.sources.filter(function (s) { return s.kind === 'stream'; });
+    }
+
+    // ---------- URL state
+    function readUrl() {
+      var p = new URLSearchParams(location.search);
+      var ids = (p.get('source') || '').split(',').filter(Boolean);
+      var valid = new Set(streamSources().map(function (s) { return s.id; }));
+      ids.forEach(function (id) { if (valid.has(id)) state.selected.add(id); });
+      state.q = p.get('q') || '';
+      els.q.value = state.q;
+    }
+    function writeUrl() {
+      var p = new URLSearchParams();
+      if (state.selected.size) p.set('source', Array.from(state.selected).join(','));
+      if (state.q) p.set('q', state.q);
+      var qs = p.toString();
+      try { history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash); } catch (e) {}
+    }
+
+    // ---------- rendering
+    function matches(item) {
+      if (state.selected.size && !state.selected.has(item.source)) return false;
+      if (state.q) {
+        var hay = (item.title + ' ' + (item.summary || '')).toLowerCase();
+        var words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+        for (var i = 0; i < words.length; i++) if (hay.indexOf(words[i]) === -1) return false;
+      }
+      return true;
+    }
+
+    function renderChips() {
+      els.chips.textContent = '';
+      var counts = {};
+      state.feed.items.forEach(function (it) { counts[it.source] = (counts[it.source] || 0) + 1; });
+      var all = h('button', { type: 'button', class: 'chip', 'aria-pressed': String(state.selected.size === 0),
+        onclick: function () { state.selected.clear(); state.shown = PAGE_SIZE; update(); } },
+        'All sources', h('span', { class: 'n', text: String(state.feed.items.length) }));
+      els.chips.append(h('li', null, all));
+      streamSources().forEach(function (s) {
+        var on = state.selected.has(s.id);
+        var b = h('button', { type: 'button', class: 'chip', 'aria-pressed': String(on),
+          onclick: function () {
+            if (state.selected.has(s.id)) state.selected.delete(s.id); else state.selected.add(s.id);
+            state.shown = PAGE_SIZE; update();
+          } }, s.short || s.name, h('span', { class: 'n', text: String(counts[s.id] || 0) }));
+        els.chips.append(h('li', null, b));
+      });
+    }
+
+    function itemNode(it) {
+      var s = sourceById(it.source) || { name: it.source };
+      var w = whenText(it);
+      var link = ext(it.url, it.title);
+      var title = h('h3', null, link || it.title);
+      var srcBtn = h('button', { type: 'button', class: 'src-btn',
+        'aria-label': 'About ' + s.name, onclick: function () { openDialog(it.source); } }, s.short || s.name);
+      var t = w.text ? h('time', { datetime: it.published, title: w.full, text: w.text }) : null;
+      var meta = h('div', { class: 'meta' }, srcBtn, t);
+      var li = h('li', { class: 'item' }, title, meta, it.summary ? h('p', { class: 'summary', text: it.summary }) : null);
+      return li;
+    }
+
+    function renderItems() {
+      var list = state.feed.items.filter(matches);
+      els.items.textContent = '';
+      if (!list.length) {
+        var msg;
+        if (!state.feed.items.length) msg = 'No items yet. The first update runs shortly after this page is set up. Meanwhile, the sources and tools below are all linked.';
+        else msg = 'Nothing matches those filters. Try removing a source or clearing the search.';
+        els.items.append(h('li', { class: 'empty', text: msg }));
+      }
+      list.slice(0, state.shown).forEach(function (it) { els.items.append(itemNode(it)); });
+      var remaining = list.length - state.shown;
+      els.more.hidden = remaining <= 0;
+      if (remaining > 0) els.more.textContent = 'Show more (' + remaining + ' left)';
+
+      var bits = [list.length + (list.length === 1 ? ' update' : ' updates')];
+      if (state.selected.size) {
+        bits.push('from ' + Array.from(state.selected).map(function (id) { return (sourceById(id) || {}).short || id; }).join(', '));
+      }
+      if (state.q) bits.push('matching "' + state.q + '"');
+      els.status.textContent = 'Showing ' + bits.join(' ') + '.';
+      els.reset.hidden = !(state.selected.size || state.q);
+    }
+
+    function statusLine(s) {
+      var st = s.status;
+      if (!st) return '';
+      if (st.state === 'pending') return 'Waiting for first update.';
+      if (st.state === 'error') return 'The most recent check failed' + (st.itemCount ? '; earlier items are still shown.' : '.');
+      return st.itemCount + (st.itemCount === 1 ? ' item' : ' items') + ' in this feed.';
+    }
+
+    function sourceCard(s) {
+      var tags = h('div', { class: 'tags' }, h('span', { class: 'tag', text: s.type }), h('span', { class: 'tag', text: s.scope }));
+      var acts = h('div', { class: 'actions' });
+      if (s.kind === 'stream') {
+        acts.append(h('button', { type: 'button', class: 'linkbtn', onclick: function () {
+          state.selected.clear(); state.selected.add(s.id); state.shown = PAGE_SIZE; update();
+          document.getElementById('feed').scrollIntoView(); document.getElementById('feed').focus({ preventScroll: true });
+        } }, 'Show only these'));
+      }
+      var main = ext(s.homepage, s.cta || 'Visit site');
+      if (main) acts.append(main);
+      var about = s.about ? ext(s.about, s.aboutLabel || 'About') : null;
+      if (about) acts.append(about);
+      return h('article', { class: 'card' }, h('h3', { text: s.name }), tags, h('p', { text: s.description }),
+        s.kind === 'stream' ? h('p', { class: 'small', text: statusLine(s) }) : null, acts);
+    }
+
+    function renderCards() {
+      els.srcCards.textContent = '';
+      els.toolCards.textContent = '';
+      state.feed.sources.forEach(function (s) {
+        (s.kind === 'stream' ? els.srcCards : els.toolCards).append(sourceCard(s));
+      });
+    }
+
+    function openDialog(id) {
+      var s = sourceById(id);
+      if (!s) return;
+      els.dlgBody.textContent = '';
+      var title = h('h2', { id: 'dlg-title', text: s.name });
+      var tags = h('div', { class: 'tags' }, h('span', { class: 'tag', text: s.type }), h('span', { class: 'tag', text: s.scope }));
+      var links = h('p', null, ext(s.homepage, 'Visit site'), s.about ? ' · ' : '', s.about ? ext(s.about, s.aboutLabel || 'About') : null);
+      els.dlgBody.append(title, tags, h('p', { text: s.description }), h('p', { class: 'small', text: statusLine(s) }), links);
+      if (typeof els.dialog.showModal === 'function') els.dialog.showModal(); else els.dialog.setAttribute('open', '');
+      document.getElementById('dlg-close').focus();
+    }
+
+    function update() {
+      writeUrl();
+      renderChips();
+      renderItems();
+    }
+
+    // ---------- events
+    els.q.addEventListener('input', function () {
+      state.q = els.q.value.trim(); state.shown = PAGE_SIZE; writeUrl(); renderItems();
+    });
+    els.reset.addEventListener('click', function () {
+      state.selected.clear(); state.q = ''; els.q.value = ''; state.shown = PAGE_SIZE; update(); els.q.focus();
+    });
+    els.more.addEventListener('click', function () { state.shown += PAGE_SIZE; renderItems(); });
+    document.getElementById('dlg-close').addEventListener('click', function () { els.dialog.close(); });
+    els.dialog.addEventListener('click', function (e) { if (e.target === els.dialog) els.dialog.close(); });
+
+    // ---------- go
+    load().then(function (feed) {
+      state.feed = feed;
+      readUrl();
+      renderCards();
+      update();
+      if (feed.generatedAt) {
+        var d = new Date(feed.generatedAt);
+        els.updated.textContent = 'Feed last updated ' + fmtDate(d, { dateStyle: 'medium', timeStyle: 'short' }) +
+          '. New items are checked for about every 15 minutes and the file only changes when something new appears.';
+      } else {
+        els.updated.textContent = 'The feed has not been populated yet.';
+      }
+    }).catch(function () {
+      els.status.textContent = 'The feed could not be loaded right now. Please try again in a few minutes.';
+      els.items.append(h('li', { class: 'empty', text: 'If this keeps happening, go straight to the NC State Board of Elections at ncsbe.gov.' }));
+    });
+  })();
+  </script>
+</body>
+</html>
