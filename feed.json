@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T04:22:17Z",
+ "generatedAt": "2026-11-03T10:38:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 2,
-    "newest": "2026-11-02T21:20:53Z"
+    "itemCount": 3,
+    "newest": "2026-11-03T09:00:00Z"
    }
   },
   {
@@ -209,6 +209,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a5d27ebc7a03",
+   "source": "wfae",
+   "title": "It's Election Day: How to cast your ballot in 2026",
+   "url": "https://www.wfae.org/politics/2026-11-03/its-election-day-how-to-cast-your-ballot-in-2026",
+   "published": "2026-11-03T09:00:00Z",
+   "summary": "Polls are open in the Carolinas. Here is what you need to know before you head to the ballot box."
+  },
   {
    "id": "e119cdaedde0",
    "source": "wfae",
