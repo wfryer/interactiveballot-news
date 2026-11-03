@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T18:17:10Z",
+ "generatedAt": "2026-11-03T19:32:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 7,
-    "newest": "2026-11-03T17:31:10Z"
+    "itemCount": 8,
+    "newest": "2026-11-03T19:27:55Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4e57ec4ac167",
+   "source": "wfae",
+   "title": "Trump, taxes and schools: Charlotte-area voters weigh national and local issues in Tuesday midterms",
+   "url": "https://www.wfae.org/politics/2026-11-03/trump-taxes-and-schools-charlotte-area-voters-weigh-national-and-local-issues-in-tuesday-midterms",
+   "published": "2026-11-03T19:27:55Z",
+   "summary": "It’s Election Day for the 2026 midterms, and WFAE reporters are talking to voters outside polling stations throughout the region.A record 2.8 million North Carolinians cast their ballots early this year, with long lines reported at the end of the early voting period on Saturday…"
+  },
   {
    "id": "364347534545",
    "source": "cardinalpine",
