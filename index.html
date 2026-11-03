@@ -160,6 +160,38 @@
     }
     .src-btn:hover { text-decoration: underline; }
     .summary { margin: .45rem 0 0; font-size: .97rem; color: var(--text); }
+
+    /* Source tints. Each card and source chip gets --tint and --edge from
+       SOURCE_COLORS in the script. The colors are labels only. Card text uses
+       fixed dark ink here, since the page's text colors flip in dark mode. */
+    .item.tinted {
+      background: var(--tint); border: 1px solid var(--edge); border-left: 6px solid var(--edge);
+    }
+    .item.tinted h3 a { color: #1c2430; text-decoration-color: var(--edge); }
+    .item.tinted h3 a:hover { color: #1f4bb0; }
+    .item.tinted .meta { color: #55524a; }
+    .item.tinted .summary { color: #1c2430; }
+    .item.tinted .src-btn { background: rgba(255,255,255,0.7); border: 1px solid var(--edge); color: #1c2430; }
+    .chip.tinted:not([aria-pressed="true"]) { background: var(--tint); border: 1px solid var(--edge); color: #1c2430; }
+    .chip.tinted:not([aria-pressed="true"]):hover { box-shadow: inset 0 0 0 1px var(--edge); }
+    .chip.tinted:not([aria-pressed="true"]) .n { opacity: 1; }
+    /* Dark mode: tints would need dark text on a dark page, so cards and chips
+       keep the page's normal neutral style there. */
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) .item.tinted {
+        background: var(--paper); border: 1px solid var(--line); border-left: 5px solid var(--blue);
+      }
+      :root:not([data-theme="light"]) .item.tinted h3 a { color: var(--text); text-decoration-color: var(--blue); }
+      :root:not([data-theme="light"]) .item.tinted h3 a:hover { color: var(--link); }
+      :root:not([data-theme="light"]) .item.tinted .meta { color: var(--muted); }
+      :root:not([data-theme="light"]) .item.tinted .summary { color: var(--text); }
+      :root:not([data-theme="light"]) .item.tinted .src-btn { background: var(--blue-soft); border: 0; color: var(--link); }
+      :root:not([data-theme="light"]) .chip.tinted:not([aria-pressed="true"]) {
+        background: var(--paper); border: 1.5px solid var(--line); color: var(--text);
+      }
+      :root:not([data-theme="light"]) .chip.tinted:not([aria-pressed="true"]):hover { box-shadow: none; border-color: var(--blue); }
+      :root:not([data-theme="light"]) .chip.tinted:not([aria-pressed="true"]) .n { opacity: .8; }
+    }
     .more { text-align: center; margin: 1.25rem 0 0; }
     .btn {
       font: inherit; padding: .65rem 1.25rem; min-height: 44px; border-radius: 6px; cursor: pointer;
@@ -405,6 +437,26 @@
       return true;
     }
 
+    // ---------- source colors
+    // Arbitrary labels to tell sources apart at a glance. They carry no rating
+    // and no political meaning. A new source needs one new line here; any
+    // source not listed gets the neutral fallback.
+    var SOURCE_COLORS = {
+      ncsbe:               { tint: '#E3EEF8', edge: '#5B8DB8' },
+      commoncause:         { tint: '#FBF1CF', edge: '#B8921A' },
+      ncnewsline:          { tint: '#E1F2E7', edge: '#4E9A6E' },
+      carolinapublicpress: { tint: '#ECE6F6', edge: '#8570B5' },
+      wfae:                { tint: '#FBE6D9', edge: '#D07A4A' },
+      wunc:                { tint: '#F8E1E6', edge: '#C0607A' },
+      carolinajournal:     { tint: '#EFE7D8', edge: '#9C8050' },
+      cardinalpine:        { tint: '#DCEFEE', edge: '#3B9494' }
+    };
+    var FALLBACK_COLORS = { tint: '#EFEDE6', edge: '#8A8F98' };
+    function colorStyle(id) {
+      var c = Object.prototype.hasOwnProperty.call(SOURCE_COLORS, id) ? SOURCE_COLORS[id] : FALLBACK_COLORS;
+      return '--tint:' + c.tint + ';--edge:' + c.edge;
+    }
+
     function renderChips() {
       els.chips.textContent = '';
       var counts = {};
@@ -415,7 +467,7 @@
       els.chips.append(h('li', null, all));
       streamSources().forEach(function (s) {
         var on = state.selected.has(s.id);
-        var b = h('button', { type: 'button', class: 'chip', 'aria-pressed': String(on),
+        var b = h('button', { type: 'button', class: 'chip tinted', style: colorStyle(s.id), 'aria-pressed': String(on),
           onclick: function () {
             if (state.selected.has(s.id)) state.selected.delete(s.id); else state.selected.add(s.id);
             state.shown = PAGE_SIZE; update();
@@ -433,7 +485,7 @@
         'aria-label': 'About ' + s.name, onclick: function () { openDialog(it.source); } }, s.short || s.name);
       var t = w.text ? h('time', { datetime: it.published, title: w.full, text: w.text }) : null;
       var meta = h('div', { class: 'meta' }, srcBtn, t);
-      var li = h('li', { class: 'item' }, title, meta, it.summary ? h('p', { class: 'summary', text: it.summary }) : null);
+      var li = h('li', { class: 'item tinted', style: colorStyle(it.source) }, title, meta, it.summary ? h('p', { class: 'summary', text: it.summary }) : null);
       return li;
     }
 
@@ -596,9 +648,11 @@
       if (feed.generatedAt) {
         var d = new Date(feed.generatedAt);
         els.updated.textContent = 'Feed last updated ' + eastern(d) +
-          '. New items are checked for about every 15 minutes and the file only changes when something new appears.';
+          '. New items are checked for about every 15 minutes and the file only changes when something new appears.' +
+          ' Source colors are only labels. They carry no rating and no political meaning.';
       } else {
-        els.updated.textContent = 'The feed has not been populated yet.';
+        els.updated.textContent = 'The feed has not been populated yet.' +
+          ' Source colors are only labels. They carry no rating and no political meaning.';
       }
     }).catch(function () {
       els.status.textContent = 'The feed could not be loaded right now. Please try again in a few minutes.';
