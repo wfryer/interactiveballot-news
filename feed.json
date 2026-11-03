@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T21:32:17Z",
+ "generatedAt": "2026-11-03T23:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 33,
-    "newest": "2026-11-03T19:26:18Z"
+    "itemCount": 34,
+    "newest": "2026-11-03T23:11:35Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2023e83d7ee6",
+   "source": "ncnewsline",
+   "title": "Black, Hispanic, Asian early voter turnout in North Carolina outpaces 2022 midterms",
+   "url": "https://ncnewsline.com/2026/11/03/black-hispanic-asian-early-voter-turnout-in-north-carolina-outpaces-2022-midterms/",
+   "published": "2026-11-03T23:11:35Z",
+   "summary": "Black voters in North Carolina turned out for early voting at a higher rate than white voters in this year’s midterm election, reversing a trend from recent cycles, according to an analysis by the Southern Coalition for Social Justice. About 39% of registered Black voters cast…"
+  },
   {
    "id": "4c5eb5603743",
    "source": "carolinajournal",
