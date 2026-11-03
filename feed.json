@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T21:02:10Z",
+ "generatedAt": "2026-11-03T21:17:14Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -103,10 +103,9 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "error",
-    "itemCount": 11,
-    "newest": "2026-11-03T15:39:25Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
+    "state": "ok",
+    "itemCount": 12,
+    "newest": "2026-11-03T20:55:19Z"
    }
   },
   {
@@ -225,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4c5eb5603743",
+   "source": "carolinajournal",
+   "title": "Lawmakers respond to Stein appeal of election appointment ruling",
+   "url": "https://www.carolinajournal.com/lawmakers-respond-to-stein-appeal-of-election-appointment-ruling/",
+   "published": "2026-11-03T20:55:19Z",
+   "summary": "North Carolina’s top legislative leaders “do not oppose” the state Supreme Court taking up Gov. Josh Stein’s appeal of a lower court ruling on state elections board appointments. But top lawmakers disagree with Stein about the case’s ultimate outcome. The post Lawmakers respond…"
+  },
   {
    "id": "a0340aabb971",
    "source": "wfae",
