@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T04:05:03Z",
+ "generatedAt": "2026-11-03T04:17:37Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -40,7 +40,7 @@
    "kind": "stream",
    "type": "Nonprofit newsroom",
    "scope": "North Carolina",
-   "description": "Statewide nonprofit news outlet, an affiliate of States Newsroom. It describes itself as nonpartisan and publishes both news reporting and commentary. Only posts that mention elections or voting are shown here.",
+   "description": "Statewide nonprofit news outlet, an affiliate of States Newsroom. It describes itself as nonpartisan and publishes both news reporting and commentary. Only posts that mention elections or voting are shown here. Stories republished from the national States Newsroom wire are left out, so this feed stays focused on North Carolina.",
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
