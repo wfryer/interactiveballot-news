@@ -137,6 +137,23 @@
       ]
     },
     {
+      "id": "cardinalpine",
+      "name": "Cardinal & Pine",
+      "short": "Cardinal & Pine",
+      "kind": "stream",
+      "type": "Publication of a news network",
+      "scope": "North Carolina",
+      "description": "North Carolina news site owned and operated by COURIER, which describes itself as a pro-democracy news network. It describes its journalism as independent and point of view, and does not call itself nonpartisan. It says it takes no funding from parties, candidates or campaigns. Only posts that mention elections or voting are shown here.",
+      "homepage": "https://cardinalpine.com",
+      "keyword_regex": "\\b(?:election\\w*|electoral|electors?|elected|re-?elect\\w*|vot(?:e|es|ed|er|ers|ing)|ballots?|polls?|polling|precincts?|canvass\\w*|absentee|redistrict\\w*|gerrymander\\w*|candidates?|campaigns?|democracy)\\b",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://cardinalpine.com/feed/"
+        }
+      ]
+    },
+    {
       "id": "ncelectionslive",
       "name": "NC Election Live",
       "short": "NC Election Live",
