@@ -85,6 +85,57 @@
       ]
     },
     {
+      "id": "wfae",
+      "name": "WFAE",
+      "short": "WFAE",
+      "kind": "stream",
+      "type": "Public radio newsroom",
+      "scope": "North Carolina",
+      "description": "Charlotte's NPR member station. Reports on elections, local government and early voting in the Charlotte region. Only posts that mention elections or voting are shown here.",
+      "homepage": "https://www.wfae.org",
+      "keyword_regex": "\\b(?:election\\w*|electoral|electors?|elected|re-?elect\\w*|vot(?:e|es|ed|er|ers|ing)|ballots?|polls?|polling|precincts?|canvass\\w*|absentee|redistrict\\w*|gerrymander\\w*|candidates?|campaigns?|democracy)\\b",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://www.wfae.org/politics.rss"
+        }
+      ]
+    },
+    {
+      "id": "wunc",
+      "name": "WUNC",
+      "short": "WUNC",
+      "kind": "stream",
+      "type": "Public radio newsroom",
+      "scope": "North Carolina",
+      "description": "North Carolina public radio from Chapel Hill and an NPR member. Covers state politics and the 2026 election. Only posts that mention elections or voting are shown here.",
+      "homepage": "https://www.wunc.org",
+      "keyword_regex": "\\b(?:election\\w*|electoral|electors?|elected|re-?elect\\w*|vot(?:e|es|ed|er|ers|ing)|ballots?|polls?|polling|precincts?|canvass\\w*|absentee|redistrict\\w*|gerrymander\\w*|candidates?|campaigns?|democracy)\\b",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://www.wunc.org/politics.rss"
+        }
+      ]
+    },
+    {
+      "id": "carolinajournal",
+      "name": "Carolina Journal",
+      "short": "Carolina Journal",
+      "kind": "stream",
+      "type": "Publication of a policy organization",
+      "scope": "North Carolina",
+      "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
+      "homepage": "https://www.carolinajournal.com",
+      "keyword_regex": "\\b(?:election\\w*|electoral|electors?|elected|re-?elect\\w*|vot(?:e|es|ed|er|ers|ing)|ballots?|polls?|polling|precincts?|canvass\\w*|absentee|redistrict\\w*|gerrymander\\w*|candidates?|campaigns?|democracy)\\b",
+      "fetch": [
+        {
+          "type": "rss",
+          "url": "https://www.carolinajournal.com/category/politics/feed/"
+        }
+      ]
+    },
+    {
       "id": "ncelectionslive",
       "name": "NC Election Live",
       "short": "NC Election Live",
@@ -141,6 +192,39 @@
       "about": "https://toolkit.vopropros.com/voting-resources.html",
       "aboutLabel": "Voter protection toolkits",
       "cta": "Visit VoPro Pros"
+    },
+    {
+      "id": "vote411",
+      "name": "VOTE411 (League of Women Voters Education Fund)",
+      "short": "VOTE411",
+      "kind": "tool",
+      "type": "Voter guide tool",
+      "scope": "North Carolina",
+      "description": "Nonpartisan voter guide from the League of Women Voters Education Fund. Enter an address to see your ballot and candidate information.",
+      "homepage": "https://www.vote411.org/north-carolina",
+      "cta": "Open the voter guide"
+    },
+    {
+      "id": "ballotpedia",
+      "name": "Ballotpedia: North Carolina elections, 2026",
+      "short": "Ballotpedia",
+      "kind": "tool",
+      "type": "Election encyclopedia",
+      "scope": "North Carolina",
+      "description": "A nonprofit encyclopedia of U.S. elections with a sample ballot lookup by address. Coverage of local races can be incomplete, so check your official sample ballot.",
+      "homepage": "https://ballotpedia.org/North_Carolina_elections,_2026",
+      "cta": "Open Ballotpedia"
+    },
+    {
+      "id": "ncvoterguide",
+      "name": "NC Voter Guide (Common Cause North Carolina)",
+      "short": "NC Voter Guide",
+      "kind": "tool",
+      "type": "Voter guide tool",
+      "scope": "North Carolina",
+      "description": "Voter guide managed by Common Cause North Carolina, which describes itself as nonpartisan. Covers voting, elections and candidates in North Carolina.",
+      "homepage": "https://ncvoterguide.org/",
+      "cta": "Open the voter guide"
     }
   ]
 }
