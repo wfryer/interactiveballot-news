@@ -89,6 +89,10 @@
       font-size: .75rem; letter-spacing: .08em; text-transform: uppercase;
       border: 1px solid rgba(255,255,255,.35); padding: .2rem .65rem; border-radius: 999px; color: var(--header-sub);
     }
+    /* Freshness line. The stale wording carries the warning; the amber
+       (10.5:1 or better on the navy header) and bar only reinforce it. */
+    header.site p.freshness { margin-top: .75rem; font-size: .9rem; max-width: none; }
+    header.site p.freshness.stale { color: #ffd479; font-weight: 600; border-left: 3px solid #ffd479; padding-left: .5rem; }
 
     main { padding: 0 16px 3rem; }
 
@@ -215,6 +219,7 @@
         <span class="badge-pill">Experimental</span>
         <span class="badge-pill">Not affiliated with any campaign or party</span>
       </div>
+      <p class="freshness" id="freshness" role="status" hidden></p>
     </div>
   </header>
 
@@ -255,7 +260,7 @@
     <div class="wrap">
       <p id="updated-note"></p>
       <p>Links go to third-party sites that we do not control. Always confirm voting details with the <a href="https://www.ncsbe.gov" target="_blank" rel="noopener noreferrer">NC State Board of Elections</a> and your <a href="https://vt.ncsbe.gov/BOEInfo/" target="_blank" rel="noopener noreferrer">county board of elections</a>.</p>
-      <p>Interactive Ballot is nonpartisan and experimental. <a href="https://ai.wesfryer.com" target="_blank" rel="noopener noreferrer">AI and media literacy projects by Wes Fryer</a>. The data file behind this page is <a href="feed.json">feed.json</a>.</p>
+      <p>Interactive Ballot is nonpartisan and experimental. <a href="https://ai.wesfryer.com" target="_blank" rel="noopener noreferrer">AI and media literacy projects by Wes Fryer</a>.</p>
     </div>
   </footer>
 
@@ -517,6 +522,69 @@
     document.getElementById('dlg-close').addEventListener('click', function () { els.dialog.close(); });
     els.dialog.addEventListener('click', function (e) { if (e.target === els.dialog) els.dialog.close(); });
 
+    // ---------- freshness
+    // "Last checked" is the finish time of the newest successful run of the
+    // update workflow, read once from GitHub's public API. Everything is worked
+    // out once at page load: the page does not fetch the feed again, so a timer
+    // would show false warnings on a tab left open.
+    var RUNS_URL = 'https://api.github.com/repos/wfryer/interactiveballot-news/actions/workflows/update-feed.yml/runs?per_page=1&status=success';
+    var PAGE_LOADED_AT = Date.now();
+
+    // FRESHNESS-LOGIC-START (pure: no page access, so it can be tested on its own)
+    // checkedAt: ISO time of the last successful check, or null if unknown.
+    // Returns { text, stale } or null when there is nothing to show.
+    function freshnessText(checkedAt, generatedAt, items, nowMs, fmt) {
+      function valid(v) { var d = v ? new Date(v) : null; return d && !isNaN(d) ? d : null; }
+      var newest = null;
+      (items || []).forEach(function (i) {
+        if (!i || i.dateOnly || i.dateApprox) return;  // only items with an exact time
+        var d = valid(i.published);
+        if (d && (!newest || d > newest)) newest = d;
+      });
+      var newestText = newest ? ' Newest story ' + fmt(newest) + '.' : '';
+      var checked = valid(checkedAt);
+      if (checked) {
+        if (nowMs - checked.getTime() > 45 * 60000) {
+          return { text: 'Updates may be delayed. Last check: ' + fmt(checked) + '.' + newestText, stale: true };
+        }
+        return { text: 'Checked ' + fmt(checked) + '.' + newestText, stale: false };
+      }
+      var changed = valid(generatedAt);
+      return changed ? { text: 'Feed last changed ' + fmt(changed) + '.', stale: false } : null;
+    }
+    // FRESHNESS-LOGIC-END
+
+    function paintFreshness(result) {
+      var el = document.getElementById('freshness');
+      if (!result) return;
+      el.textContent = result.text;
+      el.classList.toggle('stale', result.stale);
+      el.hidden = false;
+    }
+
+    function lastCheckTime() {
+      // Any failure (network, rate limit, timeout, bad data) resolves to null.
+      if (typeof fetch === 'undefined' || typeof AbortController === 'undefined') return Promise.resolve(null);
+      var ctrl = new AbortController();
+      var stop = setTimeout(function () { ctrl.abort(); }, 6000);
+      return fetch(RUNS_URL, { signal: ctrl.signal, headers: { Accept: 'application/vnd.github+json' } })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (j) {
+          var run = j && Array.isArray(j.workflow_runs) ? j.workflow_runs[0] : null;
+          return run && typeof run.updated_at === 'string' ? run.updated_at : null;
+        })
+        .catch(function () { return null; })
+        .then(function (v) { clearTimeout(stop); return v; });
+    }
+
+    function showFreshness(feed) {
+      // Fallback first, so something useful shows even if GitHub never answers.
+      paintFreshness(freshnessText(null, feed.generatedAt, feed.items, PAGE_LOADED_AT, eastern));
+      lastCheckTime().then(function (checkedAt) {
+        if (checkedAt) paintFreshness(freshnessText(checkedAt, feed.generatedAt, feed.items, PAGE_LOADED_AT, eastern));
+      });
+    }
+
     // ---------- go
     load().then(function (feed) {
       feed.items.sort(newestFirst);
@@ -524,6 +592,7 @@
       readUrl();
       renderCards();
       update();
+      showFreshness(feed);
       if (feed.generatedAt) {
         var d = new Date(feed.generatedAt);
         els.updated.textContent = 'Feed last updated ' + eastern(d) +
