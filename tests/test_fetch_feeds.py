@@ -175,6 +175,19 @@ class BuildTests(unittest.TestCase):
         self.assertEqual([i["title"] for i in feed["items"]],
                          ["Voters line up in Wake County", "Republicans rally voters in Raleigh"])
 
+    def test_saved_items_that_fail_url_regex_are_removed(self):
+        old = {"items": [
+            {"id": "a", "source": "s", "title": "Kept", "url": "https://example.org/p/election-old",
+             "published": "2026-11-01T00:00:00Z", "summary": ""},
+            {"id": "b", "source": "s", "title": "Dropped", "url": "https://example.org/repub/national",
+             "published": "2026-11-01T00:00:00Z", "summary": ""}]}
+        cfg = self.config(url_regex="^(?!.*/repub/)")
+
+        def boom(url):
+            raise RuntimeError("timeout")
+        feed = ff.build_feed(cfg, old, boom, NOW)
+        self.assertEqual([i["title"] for i in feed["items"]], ["Kept"])
+
     def test_failed_source_keeps_previous_items_and_reports_error(self):
         first = ff.build_feed(self.config(), {}, lambda u: RSS, NOW)
 

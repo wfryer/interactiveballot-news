@@ -321,6 +321,11 @@ def build_feed(config, previous, fetcher, now, no_fetch=False):
             sources.append({**meta, "status": None})
             continue
         old = prev_by_source.get(src["id"], {})
+        # Saved items also pass the address filter, so a filter change takes
+        # effect right away instead of waiting for old items to age out.
+        if src.get("url_regex"):
+            url_re = re.compile(src["url_regex"])
+            old = {u: i for u, i in old.items() if url_re.search(u or "")}
         fresh, error = ([], None)
         if not no_fetch:
             fresh, error = run_source(src, fetcher, now, old, summary_chars)
