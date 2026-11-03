@@ -43,10 +43,6 @@
       "url_regex": "/north-carolina/",
       "fetch": [
         {
-          "type": "rss",
-          "url": "https://www.commoncause.org/north-carolina/feed/"
-        },
-        {
           "type": "links",
           "url": "https://www.commoncause.org/north-carolina/updates/",
           "link_regex": "/north-carolina/articles/[^/?#]+/?$"
