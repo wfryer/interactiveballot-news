@@ -323,25 +323,32 @@
     }
 
     // ---------- dates
+    // Times are shown in Eastern time, since this is a North Carolina page.
     var rtf = (typeof Intl !== 'undefined' && Intl.RelativeTimeFormat) ? new Intl.RelativeTimeFormat('en', { numeric: 'auto' }) : null;
-    function fmtDate(d, opts) { return new Intl.DateTimeFormat(undefined, opts).format(d); }
+    function fmtDate(d, opts) { return new Intl.DateTimeFormat('en-US', opts).format(d); }
+    function eastern(d) { return fmtDate(d, { dateStyle: 'medium', timeStyle: 'short', timeZone: 'America/New_York' }) + ' ET'; }
+    function ago(d) {
+      var mins = Math.round((Date.now() - d.getTime()) / 60000);
+      if (!rtf || mins >= 60 * 24 * 7) return '';
+      if (mins < 1) return 'just now';
+      if (mins < 60) return rtf.format(-mins, 'minute');
+      if (mins < 60 * 24) return rtf.format(-Math.round(mins / 60), 'hour');
+      return rtf.format(-Math.round(mins / 60 / 24), 'day');
+    }
     function whenText(item) {
       var d = new Date(item.published);
       if (isNaN(d)) return { text: '', full: '' };
+      // Dates taken from a web address have no time of day, so none is shown.
       if (item.dateOnly) {
         var day = fmtDate(d, { dateStyle: 'medium', timeZone: 'UTC' });
-        return { text: day, full: day };
+        return { text: day, full: day + ' (the source gives no time of day)' };
       }
-      var full = fmtDate(d, { dateStyle: 'medium', timeStyle: 'short' });
-      var mins = Math.round((Date.now() - d.getTime()) / 60000);
-      var text;
-      if (!rtf || mins >= 60 * 24 * 7) text = fmtDate(d, { dateStyle: 'medium' });
-      else if (mins < 1) text = 'just now';
-      else if (mins < 60) text = rtf.format(-mins, 'minute');
-      else if (mins < 60 * 24) text = rtf.format(-Math.round(mins / 60), 'hour');
-      else text = rtf.format(-Math.round(mins / 60 / 24), 'day');
-      if (item.dateApprox) text = 'first seen ' + text;
-      return { text: text, full: full };
+      var text = eastern(d);
+      if (item.dateApprox) text = 'First seen ' + text;
+      return { text: text, full: ago(d) || text };
+    }
+    function newestFirst(a, b) {
+      return a.published < b.published ? 1 : a.published > b.published ? -1 : 0;
     }
 
     // ---------- data
@@ -512,13 +519,14 @@
 
     // ---------- go
     load().then(function (feed) {
+      feed.items.sort(newestFirst);
       state.feed = feed;
       readUrl();
       renderCards();
       update();
       if (feed.generatedAt) {
         var d = new Date(feed.generatedAt);
-        els.updated.textContent = 'Feed last updated ' + fmtDate(d, { dateStyle: 'medium', timeStyle: 'short' }) +
+        els.updated.textContent = 'Feed last updated ' + eastern(d) +
           '. New items are checked for about every 15 minutes and the file only changes when something new appears.';
       } else {
         els.updated.textContent = 'The feed has not been populated yet.';

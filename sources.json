@@ -45,7 +45,8 @@
         {
           "type": "links",
           "url": "https://www.commoncause.org/north-carolina/updates/",
-          "link_regex": "/north-carolina/articles/[^/?#]+/?$"
+          "link_regex": "/north-carolina/articles/[^/?#]+/?$",
+          "page_dates": true
         }
       ]
     },

@@ -8,8 +8,9 @@ entries:
   rss    parse an RSS 2.0, RSS 1.0 or Atom feed
   links  read an HTML page and collect links that match a regular expression
          (used when a site has no feed). If the link contains a date, such as
-         /2026/11/02/, that date is used; otherwise the first time we saw the
-         link is used and the item is marked as approximate.
+         /2026/11/02/, that date is used. With "page_dates": true, each new
+         link's own page is read once for its publish time. Otherwise the first
+         time we saw the link is used and the item is marked as approximate.
 
 One source failing never stops the others. A failed source keeps the items it
 had last time.
@@ -207,6 +208,23 @@ def parse_links(html_text, base_url, link_regex, date_regex=None):
     return entries
 
 
+PAGE_DATE_PATTERNS = (
+    r'"datePublished"\s*:\s*"([^"]+)"',
+    r'<meta[^>]+property=["\']article:published_time["\'][^>]+content=["\']([^"\']+)',
+)
+
+
+def page_date(html_text):
+    """Find an article's publish time in its page (JSON-LD or meta tag), or None."""
+    for pattern in PAGE_DATE_PATTERNS:
+        m = re.search(pattern, html_text)
+        if m:
+            dt = parse_date(m.group(1))
+            if dt:
+                return dt
+    return None
+
+
 # ----------------------------------------------------------------- building
 
 def iso(dt):
@@ -243,6 +261,8 @@ def run_source(src, fetcher, now, old, summary_chars=280):
             errors.append(f"{strat['url']}: no items found")
             continue
         items = []
+        # One failed page lookup stops the rest, so a slow site cannot stall the run.
+        page_lookups_ok = bool(strat.get("page_dates"))
         for e in entries:
             url, title = e["url"], e["title"]
             if not title or not safe_http_url(url):
@@ -254,8 +274,15 @@ def run_source(src, fetcher, now, old, summary_chars=280):
                 continue
             published = e["published"]
             approx = False
+            prior = old.get(url)
+            if published is None and prior and not prior.get("dateApprox"):
+                published = parse_iso(prior["published"])
+            elif published is None and page_lookups_ok:
+                try:
+                    published = page_date(fetcher(url).decode("utf-8", "replace"))
+                except Exception:
+                    page_lookups_ok = False
             if published is None:
-                prior = old.get(url)
                 published = parse_iso(prior["published"]) if prior else now
                 approx = True
             if published > now:

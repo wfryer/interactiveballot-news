@@ -70,6 +70,11 @@ COMMON_CAUSE_HTML = """
 <a href="https://www.commoncause.org/north-carolina/updates/?&pg=2">Load More</a>
 """
 
+ARTICLE_HTML = """
+<meta property="article:modified_time" content="2026-10-30T10:00:00+00:00" />
+<script type="application/ld+json">{"@type":"Article","datePublished":"2026-10-28T21:18:45+00:00"}</script>
+"""
+
 
 class ParsingTests(unittest.TestCase):
     def test_rss_fields_and_html_stripping(self):
@@ -110,6 +115,12 @@ class ParsingTests(unittest.TestCase):
         self.assertEqual(len(entries), 2)
         self.assertEqual(entries[0]["title"], "5 things to know about a wild summer in North Carolina politics")
         self.assertIsNone(entries[0]["published"])
+
+    def test_page_date_from_json_ld_or_meta(self):
+        self.assertEqual(ff.page_date(ARTICLE_HTML), datetime(2026, 10, 28, 21, 18, 45, tzinfo=timezone.utc))
+        meta = '<meta property="article:published_time" content="2026-10-29T08:00:00-04:00" />'
+        self.assertEqual(ff.page_date(meta), datetime(2026, 10, 29, 12, 0, tzinfo=timezone.utc))
+        self.assertIsNone(ff.page_date("<html>no dates here</html>"))
 
 
 class BuildTests(unittest.TestCase):
@@ -176,6 +187,38 @@ class BuildTests(unittest.TestCase):
         later = datetime(2026, 11, 3, 9, 0, tzinfo=timezone.utc)
         second = ff.build_feed(cfg, first, fetcher, later)
         self.assertEqual({i["published"] for i in second["items"]}, {"2026-11-02T22:00:00Z"})
+
+    def page_dates_config(self):
+        return self.config(fetch=[{"type": "links", "url": "https://example.org/list",
+                                   "link_regex": "/north-carolina/articles/", "page_dates": True}])
+
+    def test_page_dates_are_read_once_and_remembered(self):
+        calls = []
+
+        def fetcher(url):
+            calls.append(url)
+            return (COMMON_CAUSE_HTML if url.endswith("/list") else ARTICLE_HTML).encode()
+        first = ff.build_feed(self.page_dates_config(), {}, fetcher, NOW)
+        self.assertEqual({i["published"] for i in first["items"]}, {"2026-10-28T21:18:45Z"})
+        self.assertFalse(any(i.get("dateApprox") for i in first["items"]))
+        self.assertEqual(len(calls), 3)
+        calls.clear()
+        ff.build_feed(self.page_dates_config(), first, fetcher, NOW)
+        self.assertEqual(calls, ["https://example.org/list"])
+
+    def test_page_date_failure_falls_back_and_stops_lookups(self):
+        calls = []
+
+        def fetcher(url):
+            calls.append(url)
+            if url.endswith("/list"):
+                return COMMON_CAUSE_HTML.encode()
+            raise RuntimeError("timeout")
+        feed = ff.build_feed(self.page_dates_config(), {}, fetcher, NOW)
+        self.assertEqual(len(feed["items"]), 2)
+        self.assertTrue(all(i.get("dateApprox") for i in feed["items"]))
+        self.assertEqual(len(calls), 2)
+        self.assertEqual(feed["sources"][0]["status"]["state"], "ok")
 
     def test_old_items_expire_and_future_dates_are_clamped(self):
         old = {"items": [{"id": "x", "source": "s", "title": "Old", "url": "https://example.org/old",
