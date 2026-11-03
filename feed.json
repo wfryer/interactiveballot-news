@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T11:03:55Z",
+ "generatedAt": "2026-11-03T11:32:12Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 31,
-    "newest": "2026-11-02T19:17:36Z"
+    "itemCount": 32,
+    "newest": "2026-11-03T11:01:01Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "56bda0f57729",
+   "source": "ncnewsline",
+   "title": "National pollster says ‘message discipline’ to benefit NC Democrats in 2026 midterms",
+   "url": "https://ncnewsline.com/2026/11/03/national-pollster-says-message-discipline-to-benefit-nc-democrats-in-2026-midterms/",
+   "published": "2026-11-03T11:01:01Z",
+   "summary": "Months of campaigning and endless political commercials draw to a close Tuesday as voters cast their final ballots in the 2026 midterm elections. Thirty-six percent of North Carolina’s registered voters cast ballots before Election Day. New records were also set during the early…"
+  },
   {
    "id": "a5d27ebc7a03",
    "source": "wfae",
