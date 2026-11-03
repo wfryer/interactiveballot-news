@@ -156,6 +156,25 @@ class BuildTests(unittest.TestCase):
         feed = ff.build_feed(cfg, {}, lambda u: RSS, NOW)
         self.assertEqual(len(feed["items"]), 1)
 
+    def test_ncnewsline_drops_repub_urls(self):
+        src = [s for s in json.loads((ROOT / "sources.json").read_text())["sources"]
+               if s["id"] == "ncnewsline"][0]
+        rss = (b'<rss><channel>'
+               b'<item><title>Voters line up in Wake County</title>'
+               b'<link>https://ncnewsline.com/2026/11/02/voters-line-up/</link>'
+               b'<pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate></item>'
+               b'<item><title>National election lawsuit update</title>'
+               b'<link>https://ncnewsline.com/2026/11/02/repub/national-election-lawsuit/</link>'
+               b'<pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate></item>'
+               b'<item><title>Republicans rally voters in Raleigh</title>'
+               b'<link>https://ncnewsline.com/2026/11/02/republicans-rally-voters/</link>'
+               b'<pubDate>Mon, 02 Nov 2026 16:00:00 GMT</pubDate></item>'
+               b'</channel></rss>')
+        cfg = self.config(url_regex=src["url_regex"], keyword_regex=src["keyword_regex"])
+        feed = ff.build_feed(cfg, {}, lambda u: rss, NOW)
+        self.assertEqual([i["title"] for i in feed["items"]],
+                         ["Voters line up in Wake County", "Republicans rally voters in Raleigh"])
+
     def test_failed_source_keeps_previous_items_and_reports_error(self):
         first = ff.build_feed(self.config(), {}, lambda u: RSS, NOW)
 
