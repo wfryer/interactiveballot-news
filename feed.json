@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T04:17:37Z",
+ "generatedAt": "2026-11-03T04:22:17Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 40,
-    "newest": "2026-11-02T23:26:01Z"
+    "itemCount": 31,
+    "newest": "2026-11-02T19:17:36Z"
    }
   },
   {
@@ -210,30 +210,6 @@
  ],
  "items": [
   {
-   "id": "422abecdde7f",
-   "source": "ncnewsline",
-   "title": "US Supreme Court rejects Trump DOJ’s attempt to freeze California vote counting",
-   "url": "https://ncnewsline.com/2026/11/02/repub/us-supreme-court-rejects-trump-dojs-attempt-to-freeze-california-vote-counting/",
-   "published": "2026-11-02T23:26:01Z",
-   "summary": "The U.S. Supreme Court on Monday, mere hours before Election Day in the midterms that will determine control of Congress, denied the Trump administration’s final attempt to force California to set aside the ballots of 20,000 people it suspects are noncitizens. The decision…"
-  },
-  {
-   "id": "217656f27172",
-   "source": "ncnewsline",
-   "title": "Trump promotes Reflecting Pool renovation the day before the election",
-   "url": "https://ncnewsline.com/2026/11/02/repub/trump-promotes-reflecting-pool-renovation-the-day-before-the-election/",
-   "published": "2026-11-02T23:02:18Z",
-   "summary": "WASHINGTON — One day before his party is forecast to lose control of the U.S. House, and possibly the Senate, President Donald Trump gathered guests and press at the Lincoln Memorial Reflecting Pool to tout the “magnificent” renovation of the monument — a monthslong project…"
-  },
-  {
-   "id": "9885aac32d69",
-   "source": "ncnewsline",
-   "title": "As a potential Democratic wave looms, Trump’s DOJ angles for last-minute power over midterms",
-   "url": "https://ncnewsline.com/2026/11/02/repub/as-a-potential-democratic-wave-looms-trumps-doj-angles-for-last-minute-power-over-midterms/",
-   "published": "2026-11-02T22:39:18Z",
-   "summary": "American democracy faces one of its biggest stress tests of the modern era, as President Donald Trump’s sprawling campaign for power over elections encounters a firewall of judges, state election workers and voting rights leaders heading into Election Day. A cascade of courtroom…"
-  },
-  {
    "id": "e119cdaedde0",
    "source": "wfae",
    "title": "Who's ahead in fundraising as midterm campaigns wrap up?",
@@ -290,22 +266,6 @@
    "summary": "Libertarian Tom Bailey is running in North Carolina's 1st Congressional District for the second consecutive election."
   },
   {
-   "id": "0a44fe4e8e9b",
-   "source": "ncnewsline",
-   "title": "Day before election, Trump’s DOJ asks US Supreme Court to rule in California voting case",
-   "url": "https://ncnewsline.com/2026/11/02/repub/day-before-election-trumps-doj-asks-us-supreme-court-to-rule-in-california-voting-case/",
-   "published": "2026-11-02T17:57:38Z",
-   "summary": "The U.S. Department of Justice on Monday asked the U.S. Supreme Court to require California to set aside the ballots of suspected noncitizen voters in a last-ditch appeal by the Trump administration to exert control over the state’s vote counting. The request came on the eve of…"
-  },
-  {
-   "id": "daa1b944a4b0",
-   "source": "ncnewsline",
-   "title": "Michigan Democrats rally behind El-Sayed as Stevens goes rogue to support Rogers",
-   "url": "https://ncnewsline.com/2026/11/02/repub/michigan-democrats-rally-behind-el-sayed-as-stevens-goes-rogue-to-support-rogers/",
-   "published": "2026-11-02T13:36:48Z",
-   "summary": "DETROIT — Key Democrats said Sunday they would not let Haley Stevens’ endorsement of Republican Mike Rogers divide the party ahead of Tuesday’s election. Stevens, a sitting member of Congress, was all but formally exorcized by her party after she publicly endorsed Republican…"
-  },
-  {
    "id": "3da7e1ebe3a3",
    "source": "ncnewsline",
    "title": "Democrats and unaffiliated voters cast about 73% of ballots in NC’s record-setting early turnout",
@@ -339,44 +299,12 @@
    "summary": "Law requires print, radio, and TV political advertisements to include a statement identifying who paid for them. But that does not extend to internet or social media political advertisements, according to NC State Board of Elections guidance The post NC law doesn’t require…"
   },
   {
-   "id": "e77f355cc762",
-   "source": "ncnewsline",
-   "title": "Explosive spending, ugly ads and courtroom battles set stage for tense midterm elections",
-   "url": "https://ncnewsline.com/2026/11/01/repub/explosive-spending-ugly-ads-and-courtroom-battles-set-stage-for-tense-midterm-elections/",
-   "published": "2026-11-01T17:53:06Z",
-   "summary": "WASHINGTON — When the polls close Tuesday night, the 2026 U.S. election will go down as one of history’s most expensive and extraordinarily ugly midterms — galvanizing record-breaking early voter turnout among a deeply divided electorate. Voters on Saturday crossed the…"
-  },
-  {
-   "id": "114b494662d3",
-   "source": "ncnewsline",
-   "title": "Trump loses appeals over California ballots, Homeland Security operations",
-   "url": "https://ncnewsline.com/2026/10/30/repub/trump-loses-appeals-over-california-ballots-homeland-security-operations/",
-   "published": "2026-10-31T01:13:03Z",
-   "summary": "A federal appeals court on Friday denied a Trump administration demand that California set aside and not count the ballots of 20,000 suspected noncitizen voters, setting the stage for a possible appeal to the U.S. Supreme Court. A three-judge panel of the U.S. 9th Circuit Court…"
-  },
-  {
    "id": "a768be753276",
    "source": "carolinajournal",
    "title": "Democrat-aligned group targets Republican voters in NC court races",
    "url": "https://www.carolinajournal.com/democrat-aligned-group-targets-republican-voters-in-nc-court-races/",
    "published": "2026-10-30T21:34:11Z",
    "summary": "A group that works to elect Democrats across the country is targeting Republican voters casting ballots in North Carolina Appeals Court races. The post Democrat-aligned group targets Republican voters in NC court races appeared first on Carolina Journal ."
-  },
-  {
-   "id": "d7bd7cdddbb8",
-   "source": "ncnewsline",
-   "title": "Federal subpoenas to election officials mark escalating Trump DOJ pressure campaign",
-   "url": "https://ncnewsline.com/2026/10/30/repub/federal-subpoenas-to-election-officials-mark-escalating-trump-doj-pressure-campaign/",
-   "published": "2026-10-30T19:17:03Z",
-   "summary": "As the Trump administration waged a public legal fight with California over the ballots of suspected noncitizen voters in mid-October, behind the scenes a federal grand jury in Santa Ana issued a series of subpoenas to election officials in Los Angeles County at federal…"
-  },
-  {
-   "id": "75216edd98eb",
-   "source": "ncnewsline",
-   "title": "In a blizzard of lawsuits, Trump’s DOJ battles across the US over midterm elections",
-   "url": "https://ncnewsline.com/2026/10/30/repub/in-a-blizzard-of-lawsuits-trumps-doj-battles-across-the-us-over-midterm-elections/",
-   "published": "2026-10-30T17:00:37Z",
-   "summary": "The Trump administration’s sweeping efforts to combat noncitizen voting and assert authority over elections came under intense scrutiny in courtrooms across the country on Thursday, as Democrats and voting rights groups alleged federal election interference. A federal judge in…"
   },
   {
    "id": "49ac86c85a6d",
@@ -387,14 +315,6 @@
    "summary": "“Low visibility ahead,” a Google Maps alert read one recent morning as I drove west on U.S. 421 toward Yadkin County for a meeting of the county board of elections. And sure enough, when I hit the bridge to cross the muddy Yadkin, a soft fog hung over the river, the effect of…"
   },
   {
-   "id": "98a0df859edf",
-   "source": "ncnewsline",
-   "title": "Early voting sets midterms record, breaking 2022 mark",
-   "url": "https://ncnewsline.com/2026/10/30/repub/early-voting-sets-midterms-record-breaking-2022-mark/",
-   "published": "2026-10-30T16:00:13Z",
-   "summary": "WASHINGTON — As of early Friday, more than 46 million Americans had cast ballots ahead of Election Day, eclipsing the early voting turnout of the 2022 midterms, according to the University of Florida’s Election Lab. In the 2022 midterm elections, 45.9 million Americans voted…"
-  },
-  {
    "id": "1f47298a8b38",
    "source": "carolinapublicpress",
    "title": "Reading the NC political winds from early voters in 2026",
@@ -403,28 +323,12 @@
    "summary": "Democrats appear to have a larger advantage among early voters than in previous years, but GOP could turn out well on Election Day. Reading the NC political winds from early voters in 2026 is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
   },
   {
-   "id": "7088e9b69360",
-   "source": "ncnewsline",
-   "title": "Trump will hold in-person rallies in Iowa and Kansas after all as election nears",
-   "url": "https://ncnewsline.com/2026/10/30/repub/trump-will-hold-in-person-rallies-in-iowa-and-kansas-after-all-as-election-nears/",
-   "published": "2026-10-30T15:05:34Z",
-   "summary": "WASHINGTON — President Donald Trump’s rallies in Kansas and Iowa this weekend are back on after initial cancellations, States Newsroom confirmed Friday. The Midwest rallies mark the final sprint to Election Day on Nov. 3 — now just four days away — where the GOP is itching to…"
-  },
-  {
    "id": "2199cce894c8",
    "source": "wunc",
    "title": "NPR special: 5 takeaways from a year of listening to swing voters",
    "url": "https://www.wunc.org/2026-10-30/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
    "published": "2026-10-30T15:00:00Z",
    "summary": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024."
-  },
-  {
-   "id": "b61b5f985eed",
-   "source": "ncnewsline",
-   "title": "Election officials brace for federal interference but expect to persevere",
-   "url": "https://ncnewsline.com/2026/10/30/repub/election-officials-brace-for-federal-interference-but-expect-to-persevere/",
-   "published": "2026-10-30T14:53:04Z",
-   "summary": "As concerns rise about the potential for federal influence over the results of next week’s midterm elections, many voting experts and advocates remain confident that the nation’s highly localized systems of administering and counting votes will persevere. Facing sinking approval…"
   },
   {
    "id": "23a53848e577",
@@ -477,52 +381,12 @@
    "summary": "A new campaign launching in North Carolina aims to help Medicaid recipients navigate upcoming federal requirements and avoid losing coverage because of confusing paperwork or reporting rules. Keep Your Care, a national campaign focused on helping people maintain Medicaid…"
   },
   {
-   "id": "e50c9d99d41e",
-   "source": "ncnewsline",
-   "title": "2026 ballot measures are written at a graduate-school reading level, report finds",
-   "url": "https://ncnewsline.com/2026/10/29/repub/2026-ballot-measures-are-written-at-a-graduate-school-reading-level-report-finds/",
-   "published": "2026-10-29T20:00:33Z",
-   "summary": "This year’s statewide ballot measures are written, on average, at a graduate-school reading level, according to a new report. The readability of 2026’s ballot questions — which ask voters to weigh in on issues as varied as abortion, property taxes, voter ID and firearms — varies…"
-  },
-  {
-   "id": "c8aa499b1e7a",
-   "source": "ncnewsline",
-   "title": "Trump cancels weekend Kansas and Iowa rallies 5 days ahead of election",
-   "url": "https://ncnewsline.com/2026/10/29/repub/trump-cancels-weekend-kansas-rally-5-days-ahead-of-election/",
-   "published": "2026-10-29T19:09:02Z",
-   "summary": "WASHINGTON — President Donald Trump’s rally in Salina, Kansas, on Saturday is canceled, the Kansas Republican Party confirmed to States Newsroom. An appearance scheduled for Sunday in Dubuque, Iowa, was also canceled, the Republican National Committee said in a late Thursday…"
-  },
-  {
-   "id": "7602038db90f",
-   "source": "ncnewsline",
-   "title": "Where are the tightest races for US House control right now? Here’s the rundown.",
-   "url": "https://ncnewsline.com/2026/10/29/repub/where-are-the-tightest-races-for-us-house-control-right-now-heres-the-rundown/",
-   "published": "2026-10-29T17:43:26Z",
-   "summary": "WASHINGTON — Communities throughout the country have been inundated with television ads and outside spending as politicians try to spur voter turnout in the most competitive U.S. House races in Tuesday’s midterm elections. The focus on a short list of campaigns highlights how…"
-  },
-  {
-   "id": "6c0a3c9dace4",
-   "source": "ncnewsline",
-   "title": "Judge denies attempt by Trump’s DOJ to exclude 20,000 California ballots from vote count",
-   "url": "https://ncnewsline.com/2026/10/29/repub/judge-denies-attempt-by-trumps-doj-to-exclude-20000-california-ballots-from-vote-count/",
-   "published": "2026-10-29T17:37:08Z",
-   "summary": "A federal judge on Wednesday denied a U.S. Department of Justice request that would have forced California to not count the ballots of 20,000 voters the Trump administration alleges are likely noncitizens. The decision sets the case on a course to possibly reach the U.S. Supreme…"
-  },
-  {
    "id": "e6cf170fd9f3",
    "source": "carolinajournal",
    "title": "Fact check: Ad targeting Echevarria omits customer-savings requirement",
    "url": "https://www.carolinajournal.com/fact-check-ad-targeting-echevarria-omits-customer-savings-requirement/",
    "published": "2026-10-29T17:19:36Z",
    "summary": "An attack ad cites Echevarria's support for SB 266, but the law includes regulatory conditions on early financing charges and canceled projects. The post Fact check: Ad targeting Echevarria omits customer-savings requirement appeared first on Carolina Journal ."
-  },
-  {
-   "id": "04ed3c107b0f",
-   "source": "ncnewsline",
-   "title": "College students in swing states rally against off-campus voting sites, student ID bans",
-   "url": "https://ncnewsline.com/2026/10/29/repub/college-students-in-swing-states-rally-against-off-campus-voting-sites-student-id-bans/",
-   "published": "2026-10-29T15:00:55Z",
-   "summary": "GREENSBORO, N.C. — Led by members of the marching band and Aggie and Aggietha, the North Carolina A&T State University mascots, hundreds of students at the nation’s largest historically Black university walked 40 minutes from campus to the nearest early polling site on a recent…"
   },
   {
    "id": "1cd770c9900a",
@@ -539,14 +403,6 @@
    "url": "https://www.wunc.org/politics/2026-10-29/these-are-the-house-races-to-watch-in-the-2026-midterm-election-on-nov-3",
    "published": "2026-10-29T09:00:00Z",
    "summary": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas."
-  },
-  {
-   "id": "2f52caf6d22b",
-   "source": "ncnewsline",
-   "title": "DHS targeting naturalized Americans in voter investigations, civil rights groups say",
-   "url": "https://ncnewsline.com/2026/10/28/repub/dhs-targeting-naturalized-americans-in-voter-investigations-civil-rights-groups-say/",
-   "published": "2026-10-28T22:50:54Z",
-   "summary": "The U.S. Department of Homeland Security is unlawfully scrutinizing naturalized U.S. citizens and placing them at risk of disenfranchisement, civil rights groups alleged in a lawsuit Wednesday, less than a week before Election Day. The lawsuit, filed in California, came as…"
   },
   {
    "id": "39d8ea82a08c",
@@ -589,30 +445,6 @@
    "summary": "The question is on the ballot in Bladen, Dare and Columbus counties, as well as Hoke, Sampson and Currituck. Guilford County is the only urban community with a sales tax referendum this election."
   },
   {
-   "id": "474b3cbca8cd",
-   "source": "ncnewsline",
-   "title": "Time for change? Permanent daylight saving time bill awaiting US Senate action",
-   "url": "https://ncnewsline.com/2026/10/28/repub/time-for-change-permanent-daylight-saving-time-bill-awaiting-us-senate-action/",
-   "published": "2026-10-28T17:18:11Z",
-   "summary": "Most of the nation returns to standard time Sunday morning, and Congress could decide as early as next month whether it will be the last time people have to change their clocks. President Donald Trump wants year-round daylight saving time. The U.S. House voted overwhelmingly in…"
-  },
-  {
-   "id": "cc60c3c35fdd",
-   "source": "ncnewsline",
-   "title": "Told her baby wouldn’t survive, she had to leave Idaho for an abortion. She’s sharing her story.",
-   "url": "https://ncnewsline.com/2026/10/28/repub/told-her-baby-wouldnt-survive-she-had-to-leave-idaho-for-an-abortion-shes-sharing-her-story/",
-   "published": "2026-10-28T16:30:30Z",
-   "summary": "MERIDIAN, Idaho — It didn’t take long for doctors to see that something was amiss with Rebecca Crozier’s pregnancy. At her eight-week ultrasound in 2025, they mentioned a possible neural tube defect, she said, but after some research, she thought it was something that could be…"
-  },
-  {
-   "id": "b48179794ea4",
-   "source": "ncnewsline",
-   "title": "Courts to decide fate of Trump’s latest push to control voting as Election Day nears",
-   "url": "https://ncnewsline.com/2026/10/28/repub/courts-to-decide-fate-of-trumps-latest-push-to-control-voting-as-election-day-nears/",
-   "published": "2026-10-28T15:37:59Z",
-   "summary": "Less than a week before Election Day, President Donald Trump’s unprecedented drive for power over elections has set the stage for a series of courtroom fights that could quickly lead to a high-stakes showdown at the U.S. Supreme Court over the limits of federal authority…"
-  },
-  {
    "id": "b028a853ba55",
    "source": "ncnewsline",
    "title": "Democrats see opening for Barringer in NC-13 race against freshman Republican Knott",
@@ -638,22 +470,6 @@
    "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
   },
   {
-   "id": "b11d4adc8241",
-   "source": "ncnewsline",
-   "title": "Early voting surges in midterm elections as millions cast their ballots",
-   "url": "https://ncnewsline.com/2026/10/27/repub/early-voting-surges-in-midterm-elections-as-millions-cast-their-ballots/",
-   "published": "2026-10-27T20:02:25Z",
-   "summary": "WASHINGTON — Tens of millions of Americans have already made their way to the ballot box as early voting is underway in a midterm election that will determine control of the House and the Senate, possibly flipping one or both from Republicans to Democrats. As of Tuesday…"
-  },
-  {
-   "id": "d167c8934ccf",
-   "source": "ncnewsline",
-   "title": "Trump’s DOJ sends 1,000 election monitors to 50 states; locations not yet disclosed",
-   "url": "https://ncnewsline.com/2026/10/27/repub/trumps-doj-sends-1000-election-monitors-to-50-states-locations-not-yet-disclosed/",
-   "published": "2026-10-27T18:30:45Z",
-   "summary": "The U.S. Department of Justice plans to send election monitors to every state ahead of Election Day, expanding a long-standing practice that’s spurred concern this year among Democrats and voting rights advocates because of President Donald Trump’s push to influence elections…"
-  },
-  {
    "id": "61bf77be607a",
    "source": "carolinapublicpress",
    "title": "Wide district across 3 mountain counties makes for potentially close NC House race",
@@ -671,28 +487,12 @@
    "dateOnly": true
   },
   {
-   "id": "b0f5d406d849",
-   "source": "ncnewsline",
-   "title": "Why the new progressive Democrats in Congress might unite with the old Dems, for now",
-   "url": "https://ncnewsline.com/2026/10/26/repub/why-the-new-progressive-democrats-in-congress-might-unite-with-the-old-dems-for-now/",
-   "published": "2026-10-26T21:37:08Z",
-   "summary": "PORTLAND, Ore. — The latest cosponsor of a U.S. House bill to provide single-payer health insurance defeated a Republican incumbent in a suburban and rural Oregon district by fewer than 10,000 votes two years ago. U.S. Rep. Janelle Bynum, a Democrat now seeking her second term…"
-  },
-  {
    "id": "a0dc7b7a9de1",
    "source": "ncnewsline",
    "title": "Vantage points: The view from where NC county election directors sit",
    "url": "https://ncnewsline.com/2026/10/26/vantage-points-the-view-from-where-nc-county-election-directors-sit/",
    "published": "2026-10-26T18:25:34Z",
    "summary": "In the first eight days of early voting, Wake County Election Director Olivia McCall has seen 70% higher turnout than in the 2022 midterm election. It’s “unprecedented,” she said. But it’s too early to tell whether the higher turnout foreshadows record-breaking overall turnout…"
-  },
-  {
-   "id": "402d32ecfa03",
-   "source": "ncnewsline",
-   "title": "Rising prices squeeze more Americans ahead of pivotal midterm elections",
-   "url": "https://ncnewsline.com/2026/10/26/repub/rising-prices-squeeze-more-americans-ahead-of-pivotal-midterm-elections/",
-   "published": "2026-10-26T17:00:13Z",
-   "summary": "Americans’ growing frustration over high prices has defined many political campaigns ahead of November’s midterm elections. Rising costs of healthcare, gas and groceries during President Donald Trump’s second term have put Republicans on defense, not only in Washington, but in…"
   },
   {
    "id": "75a29fc0e998",
@@ -703,28 +503,28 @@
    "summary": ""
   },
   {
-   "id": "bd12caab0ec8",
-   "source": "ncnewsline",
-   "title": "Trump DOJ’s demand for emergency order in California vote counting dismissed by appeals court",
-   "url": "https://ncnewsline.com/2026/10/26/repub/trump-dojs-suit-over-california-vote-counting-meets-a-doubtful-appeals-court-panel/",
-   "published": "2026-10-26T15:31:51Z",
-   "summary": "President Donald Trump’s 11th-hour campaign to intervene in California’s vote counting encountered its first resistance from federal courts on Monday, with appellate judges ruling against the effort. A three-judge panel of the 9th Circuit U.S. Court of Appeals ruled against a…"
-  },
-  {
-   "id": "70b750509faf",
-   "source": "ncnewsline",
-   "title": "‘We don’t want it’: Voter backlash against data centers consumes midterm elections",
-   "url": "https://ncnewsline.com/2026/10/26/repub/we-dont-want-it-voter-backlash-against-data-centers-consumes-midterm-elections/",
-   "published": "2026-10-26T10:00:20Z",
-   "summary": "SPRINGDALE, Pa. — Residents in a small southwestern Pennsylvania town are facing the prospect of a 47-acre data center facility on their doorstep. “Right here behind this fence is where they want to put up the data center, and as you can see, there’s houses right across the…"
-  },
-  {
    "id": "c867e3719c8c",
    "source": "ncnewsline",
    "title": "Commentary: 3 ballot amendments would cost everyday North Carolinians dearly",
    "url": "https://ncnewsline.com/2026/10/23/three-ballot-amendments-would-cost-everyday-north-carolinians-dearly/",
    "published": "2026-10-23T17:02:05Z",
    "summary": "Early voting has started, but North Carolina voters are hearing very little about three constitutional amendments tucked away at the end of the ballot. While the amendments are worded in a seemingly simple way, the three proposals are deceptive. Carolina Federation, an…"
+  },
+  {
+   "id": "5f296dfa5f9c",
+   "source": "ncnewsline",
+   "title": "Cooper rallies support one week into North Carolina’s early voting",
+   "url": "https://ncnewsline.com/2026/10/22/cooper-rallies-support-one-week-into-north-carolinas-early-voting/",
+   "published": "2026-10-23T01:29:36Z",
+   "summary": "More than 1 million North Carolinians cast their ballots during the first week of early voting."
+  },
+  {
+   "id": "c70d5896b132",
+   "source": "ncnewsline",
+   "title": "Denied a campus early voting site, NC A&T students again march to the polls",
+   "url": "https://ncnewsline.com/2026/10/22/denied-a-campus-early-voting-site-nc-at-students-again-march-to-the-polls/",
+   "published": "2026-10-23T00:25:54Z",
+   "summary": "Hundreds of NC A&T State University students filled Greensboro streets Thursday for a 40-minute walk from their campus to an early voting site, partly to do their civic duty and partly as a show of strength. It was the second Greensboro student voter march this month, following…"
   },
   {
    "id": "d263800fe642",
@@ -751,12 +551,92 @@
    "summary": "So far, about 25,660 Democrats have cast ballots in NC-3, while Republicans have cast less than half that, at about 12,400. The post NC-3 gains late attention with early vote surge, ratings shift appeared first on Carolina Journal ."
   },
   {
+   "id": "cd09872d44ae",
+   "source": "ncnewsline",
+   "title": "Trump ties NC Camp Lejeune settlements to GOP win, angering survivors",
+   "url": "https://ncnewsline.com/2026/10/21/trump-ties-nc-camp-lejeune-settlements-to-gop-win-angering-survivors/",
+   "published": "2026-10-21T21:13:18Z",
+   "summary": "GREENVILLE, N.C. — President Donald Trump told a crowd of supporters Tuesday that his administration would direct the U.S. Department of Justice to settle remaining claims from veterans and family members sickened by contaminated drinking water at Camp Lejeune, but would do so…"
+  },
+  {
    "id": "07f3091930ee",
    "source": "carolinajournal",
    "title": "GOP faces possible Wake legislative shutout amid 3 close races",
    "url": "https://www.carolinajournal.com/gop-faces-possible-wake-legislative-shutout-amid-3-close-races/",
    "published": "2026-10-21T21:00:00Z",
    "summary": "Population growth and shifting suburban voting patterns have eroded Republicans' advantage in several key Wake legislative districts. The post GOP faces possible Wake legislative shutout amid 3 close races appeared first on Carolina Journal ."
+  },
+  {
+   "id": "16d5c9769d47",
+   "source": "ncnewsline",
+   "title": "‘I wanted him to be the guy’: Trump stumps for Whatley, GOP slate as voting in NC gets underway",
+   "url": "https://ncnewsline.com/2026/10/20/i-wanted-him-to-be-the-guy-trump-stumps-for-whatley-gop-slate-as-voting-in-nc-gets-underway/",
+   "published": "2026-10-21T01:33:53Z",
+   "summary": "GREENVILLE, N.C. — Terry Holyfield, a retired factory worker from Burlington, once drove over four hours to see President Donald Trump speak. She said she’s seen him at least 10 times, and would drive even further to see him if she could. On Tuesday, she drove over two hours to…"
+  },
+  {
+   "id": "fae9756cec49",
+   "source": "ncnewsline",
+   "title": "Early voting turnout so far shows enthusiasm among unaffiliated voters in NC",
+   "url": "https://ncnewsline.com/2026/10/20/early-voting-turnout-so-far-shows-enthusiasm-among-unaffiliated-voters-in-nc/",
+   "published": "2026-10-20T20:28:14Z",
+   "summary": "Early voting stats don’t predict Election Day winners, but the first few days of voting in North Carolina have produced a surprise – the eagerness among unaffiliated voters in North Carolina to cast ballots in a midterm election. In the first five days of early voting, Thursday…"
+  },
+  {
+   "id": "4120095b5e1b",
+   "source": "ncnewsline",
+   "title": "A federal judge lets North Carolina’s new absentee ballot rules stand",
+   "url": "https://ncnewsline.com/2026/10/20/a-federal-judge-lets-north-carolinas-new-absentee-ballot-rules-stand/",
+   "published": "2026-10-20T15:02:19Z",
+   "summary": "A federal court judge ruled against challengers of new absentee ballot requirements, saying the signature and envelope sealing requirements are not undue burdens. In a ruling late Monday, Federal District Judge Thomas D. Schroeder wrote that the challengers were not likely to…"
+  },
+  {
+   "id": "19b0d6baa178",
+   "source": "ncnewsline",
+   "title": "NC state rep calls state’s new curbside voting warning signs ‘intimidating’",
+   "url": "https://ncnewsline.com/2026/10/20/nc-state-rep-calls-states-new-curbside-voting-warning-signs-intimidating/",
+   "published": "2026-10-20T13:54:14Z",
+   "summary": "State Rep. Pricey Harrison, D-Guilford, is concerned about the tone of curbside voting signs outside some North Carolina early voting sites, calling them “intimidating and threatening” and “possibly a violation of state law.” “Come on #SBOE [State Board of Elections], stop…"
+  },
+  {
+   "id": "50b6d85092da",
+   "source": "ncnewsline",
+   "title": "Democrats outraise opponents in NC’s most contentious congressional races",
+   "url": "https://ncnewsline.com/2026/10/20/democrats-outraise-opponents-in-ncs-most-contentious-congressional-races/",
+   "published": "2026-10-20T10:00:23Z",
+   "summary": "Former Gov. Roy Cooper reported bringing in significantly more funding than his GOP rival, as did Don Davis and Jamie Ager in their U.S. House races."
+  },
+  {
+   "id": "fb6dd89b63d6",
+   "source": "ncnewsline",
+   "title": "Commentary: A bluer NC could be in the offing",
+   "url": "https://ncnewsline.com/2026/10/20/a-bluer-nc-could-be-in-the-offing/",
+   "published": "2026-10-20T10:00:16Z",
+   "summary": "The association of modern American Republicans with the color red and Democrats with the color blue has always left me a tad perplexed and amused. For those of us old enough to remember significant chunks of the 20th Century, red was always the color of world communism and the…"
+  },
+  {
+   "id": "2178cbe46c56",
+   "source": "ncnewsline",
+   "title": "Vance touts $858M in Helene relief funding for Western North Carolina",
+   "url": "https://ncnewsline.com/2026/10/19/vance-touts-858m-in-helene-relief-funding-for-western-north-carolina/",
+   "published": "2026-10-19T22:02:29Z",
+   "summary": "Vance’s event is part of the White House’s push to encourage GOP turnout this election cycle in what polls show is a challenging political environment for Republicans."
+  },
+  {
+   "id": "3cfe4ecde4f0",
+   "source": "ncnewsline",
+   "title": "Trump heads to Greenville as NC Republicans struggle with early voter turnout",
+   "url": "https://ncnewsline.com/2026/10/19/trump-heads-to-greenville-as-nc-republicans-struggle-with-early-voter-turnout/",
+   "published": "2026-10-19T20:02:07Z",
+   "summary": "President Donald Trump will hold a campaign rally Tuesday in Greenville, following an appearance Monday by Vice President JD Vance at the other end of the state in Hendersonville. They’re aiming to increase Republican voter turnout in two key Congressional races and North…"
+  },
+  {
+   "id": "d2f1522fdcd3",
+   "source": "ncnewsline",
+   "title": "NC Budget and Tax Center’s Alexandra Sirota on a trio of proposed constitutional amendments",
+   "url": "https://ncnewsline.com/2026/10/19/nc-budget-and-tax-centers-alexandra-sirota-on-a-trio-of-proposed-constitutional-amendments-2/",
+   "published": "2026-10-19T13:00:54Z",
+   "summary": "The latest public opinion survey shows generally strong support amongst voters for a trio of proposed constitutional amendments that will appear on the North Carolina ballot this fall that address incomes taxes, property taxes and voter photo ID. However, Alexandra Sirota, the…"
   },
   {
    "id": "775edea7d44a",
@@ -766,6 +646,54 @@
    "published": "2026-10-19T12:00:00Z",
    "summary": "",
    "dateOnly": true
+  },
+  {
+   "id": "1f2432798123",
+   "source": "ncnewsline",
+   "title": "A tale of two farmers: Ager, Balkcom compete for NC-11 seat",
+   "url": "https://ncnewsline.com/2026/10/19/a-tale-of-two-farmers-ager-balkcom-compete-for-nc-11-seat/",
+   "published": "2026-10-19T10:00:53Z",
+   "summary": "The contest could play a pivotal role in the control of the U.S. House."
+  },
+  {
+   "id": "eb1facd525b4",
+   "source": "ncnewsline",
+   "title": "From protest to the polls, No Kings organizers make push for early voting in NC",
+   "url": "https://ncnewsline.com/2026/10/17/from-protest-to-the-polls-no-kings-organizers-make-push-for-early-voting-in-nc/",
+   "published": "2026-10-18T00:18:23Z",
+   "summary": "Under gloomy skies and light rain, a crowd gathered outside Wake Forest Town Hall Saturday, holding homemade signs and occasionally erupting with applause as speakers urged them to turn their opposition to the Trump administration into action at the ballot box. “Do we believe in…"
+  },
+  {
+   "id": "8acd90de9a87",
+   "source": "ncnewsline",
+   "title": "New polling site puts NC State students farther from the ballot box",
+   "url": "https://ncnewsline.com/2026/10/15/new-polling-site-puts-nc-state-students-farther-from-the-ballot-box/",
+   "published": "2026-10-15T23:27:21Z",
+   "summary": "For N.C. State senior Joshua Ni, voting early meant fitting a ballot into the rhythm of campus life. But earlier this year, the polling place he used in 2024 was moved from the Talley Student Union, making the trip less convenient for Ni and other students who might otherwise…"
+  },
+  {
+   "id": "5e9843d68b8b",
+   "source": "ncnewsline",
+   "title": "Civil rights leader William Barber stops at NCCU to encourage early voters",
+   "url": "https://ncnewsline.com/2026/10/15/civil-rights-leader-william-barber-stops-at-nccu-to-encourage-early-voters/",
+   "published": "2026-10-15T22:29:12Z",
+   "summary": "Civil rights leader and Repairers of the Breach President Bishop William Barber led multiple marches to the polls across North Carolina on Thursday to mark the first day of early voting, which ends Oct. 31 at 3 p.m. At North Carolina Central University (NCCU) in Durham, Barber…"
+  },
+  {
+   "id": "764fb5590b04",
+   "source": "ncnewsline",
+   "title": "NC officials express confidence in election integrity as early voting begins",
+   "url": "https://ncnewsline.com/2026/10/15/nc-officials-express-confidence-in-election-integrity-as-early-voting-begins/",
+   "published": "2026-10-15T19:00:06Z",
+   "summary": "Early voting is off to a strong start for the 2026 midterms with more than 27,000 ballots cast before noon Thursday, the first day of early in-person voting, according to North Carolina State Board of Elections Executive Director Sam Hayes. Seventy-four percent of North Carolina…"
+  },
+  {
+   "id": "af8f775bb4fa",
+   "source": "ncnewsline",
+   "title": "NC Republicans Tillis, Moore prepare for GOP losses in upcoming election",
+   "url": "https://ncnewsline.com/2026/10/15/nc-republicans-tillis-moore-prepare-for-gop-losses-in-upcoming-election/",
+   "published": "2026-10-15T18:33:41Z",
+   "summary": "Recent polls have shown a tough political climate for the GOP."
   },
   {
    "id": "e794294092b7",
