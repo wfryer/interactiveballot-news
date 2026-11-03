@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T03:35:42Z",
+ "generatedAt": "2026-11-03T03:49:34Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -29,25 +29,8 @@
    "about": "https://www.commoncause.org/north-carolina/about-us/",
    "status": {
     "state": "ok",
-    "itemCount": 12,
-    "newest": "2026-11-03T03:35:42Z"
-   }
-  },
-  {
-   "id": "uwcip",
-   "name": "Election Rumor Rundown (UW Center for an Informed Public)",
-   "short": "Election Rumor Rundown",
-   "kind": "stream",
-   "type": "University research center",
-   "scope": "National",
-   "description": "Published by the Center for an Informed Public at the University of Washington. Tracks rumors about election processes and procedures in U.S. elections. National in scope, so not every post is about North Carolina.",
-   "homepage": "https://uwcip.substack.com",
-   "about": "https://www.cip.uw.edu/",
-   "status": {
-    "state": "error",
-    "itemCount": 0,
-    "newest": null,
-    "error": "https://uwcip.substack.com/feed: HTTPError: HTTP Error 403: Forbidden"
+    "itemCount": 2,
+    "newest": "2026-10-09T20:53:35Z"
    }
   },
   {
@@ -117,6 +100,19 @@
    "status": null
   },
   {
+   "id": "uwcip",
+   "name": "Election Rumor Rundown (UW Center for an Informed Public)",
+   "short": "Election Rumor Rundown",
+   "kind": "tool",
+   "type": "University research center",
+   "scope": "National",
+   "description": "Published by the Center for an Informed Public at the University of Washington. Tracks rumors about election processes and procedures in U.S. elections. National in scope, so not every post is about North Carolina. Its site blocks automated feed readers, so it appears here as a link instead of a feed.",
+   "homepage": "https://uwcip.substack.com",
+   "about": "https://www.cip.uw.edu/",
+   "cta": "Read the rundown",
+   "status": null
+  },
+  {
    "id": "vopropros",
    "name": "VoPro Pros",
    "short": "VoPro Pros",
@@ -132,114 +128,6 @@
   }
  ],
  "items": [
-  {
-   "id": "e062b70a5b33",
-   "source": "commoncause",
-   "title": "5 Things to Know: Harmful proposed voting rules changes in North Carolina – and what you can do",
-   "url": "https://www.commoncause.org/north-carolina/articles/5-things-to-know-sboe-rules/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "d740e7dbae39",
-   "source": "commoncause",
-   "title": "Next Gen Advocacy Day at the Legislature: NC college students speak up for their freedom to vote",
-   "url": "https://www.commoncause.org/north-carolina/articles/next-gen-advocacy-day/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "b68ecfa1321f",
-   "source": "commoncause",
-   "title": "100 Days to Election Day: Protecting North Carolina Voters",
-   "url": "https://www.commoncause.org/north-carolina/articles/protecting-north-carolina-voters/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "b149806966bb",
-   "source": "commoncause",
-   "title": "5 things to know about a wild summer in North Carolina politics",
-   "url": "https://www.commoncause.org/north-carolina/articles/wild_summer_in_nc_politics/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "96ce3a463465",
-   "source": "commoncause",
-   "title": "Tell NC lawmakers: Say NO to anti-voter House Bill 958",
-   "url": "https://www.commoncause.org/north-carolina/articles/h958/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "8a7e7c96554a",
-   "source": "commoncause",
-   "title": "How Granville won the war on early voting",
-   "url": "https://www.commoncause.org/north-carolina/articles/how-granville-won-the-war-on-early-voting/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "6f4429ab0266",
-   "source": "commoncause",
-   "title": "Speak up for early voting in North Carolina",
-   "url": "https://www.commoncause.org/north-carolina/articles/speak-up-for-early-voting-in-north-carolina/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "6d4a57d5c743",
-   "source": "commoncause",
-   "title": "NC election protection advocates speak out against anti-voter House Bill 958",
-   "url": "https://www.commoncause.org/north-carolina/articles/nc-election-protection-advocates-speak-out-against-anti-voter-house-bill-958/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "61f1eca6149c",
-   "source": "commoncause",
-   "title": "North Carolinians speak up at the We Will Protect Our Vote Rally in Raleigh",
-   "url": "https://www.commoncause.org/north-carolina/articles/north-carolinians-speak-up-at-the-we-will-protect-our-vote-rally-in-raleigh/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "3aec45ead66c",
-   "source": "commoncause",
-   "title": "5 Things to Know About This Week in North Carolina Politics: June 30, 2026",
-   "url": "https://www.commoncause.org/north-carolina/articles/5-things-to-know-june-30-2026/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "271d8fd522e4",
-   "source": "commoncause",
-   "title": "‘Drop Sunday:’ Text messages show the State Auditor’s politics is behind Pasquotank’s local voting options",
-   "url": "https://www.commoncause.org/north-carolina/articles/pasquotank-voting/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "26172345d5a1",
-   "source": "commoncause",
-   "title": "Boliek’s contentious elections boards make proposed voting rules more dangerous",
-   "url": "https://www.commoncause.org/north-carolina/articles/bolieks-contentious-elections-boards-make-proposed-voting-rules-more-dangerous/",
-   "published": "2026-11-03T03:35:42Z",
-   "summary": "",
-   "dateApprox": true
-  },
   {
    "id": "422abecdde7f",
    "source": "ncnewsline",
@@ -658,6 +546,14 @@
    "dateOnly": true
   },
   {
+   "id": "8a7e7c96554a",
+   "source": "commoncause",
+   "title": "How Granville won the war on early voting",
+   "url": "https://www.commoncause.org/north-carolina/articles/how-granville-won-the-war-on-early-voting/",
+   "published": "2026-10-09T20:53:35Z",
+   "summary": ""
+  },
+  {
    "id": "f969d5ae7dee",
    "source": "ncsbe",
    "title": "10 Things for In-person Early Voters to Know in North Carolina",
@@ -665,6 +561,14 @@
    "published": "2026-10-09T12:00:00Z",
    "summary": "",
    "dateOnly": true
+  },
+  {
+   "id": "b149806966bb",
+   "source": "commoncause",
+   "title": "5 things to know about a wild summer in North Carolina politics",
+   "url": "https://www.commoncause.org/north-carolina/articles/wild_summer_in_nc_politics/",
+   "published": "2026-09-23T15:23:11Z",
+   "summary": ""
   }
  ]
 }
