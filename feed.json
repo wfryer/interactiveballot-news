@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T15:17:09Z",
+ "generatedAt": "2026-11-03T15:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 4,
-    "newest": "2026-11-03T12:23:17Z"
+    "itemCount": 5,
+    "newest": "2026-11-03T15:32:36Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 10,
-    "newest": "2026-11-02T20:27:47Z"
+    "itemCount": 11,
+    "newest": "2026-11-03T15:39:25Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "37d0d6ad59c5",
+   "source": "carolinajournal",
+   "title": "NC Libertarian posts ballot selfie while awaiting 4th Circuit ruling",
+   "url": "https://www.carolinajournal.com/nc-libertarian-posts-ballot-selfie-while-awaiting-4th-circuit-ruling/",
+   "published": "2026-11-03T15:39:25Z",
+   "summary": "The Libertarian voter challenging North Carolina’s ban on “ballot selfies” posted a photo of her completed ballot on social media Tuesday morning. Susan Hogarth posted the photo while she awaits a federal Appeals Court ruling in her ongoing legal challenge. The post NC…"
+  },
+  {
+   "id": "38ae1217ed4d",
+   "source": "wfae",
+   "title": "How much money candidates raised — and spent — in some of greater Charlotte’s contested races",
+   "url": "https://www.wfae.org/politics/2026-11-03/how-much-money-candidates-raised-and-spent-in-some-of-greater-charlottes-contested-races",
+   "published": "2026-11-03T15:32:36Z",
+   "summary": "Candidates across North Carolina have made their final ad purchases and donors have given their last contributions in races covering Mecklenburg County and the surrounding area — some of which are expected to be close."
+  },
   {
    "id": "ea83001ebf91",
    "source": "wunc",
