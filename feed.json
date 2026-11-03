@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T10:38:10Z",
+ "generatedAt": "2026-11-03T11:03:55Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -106,6 +106,21 @@
     "state": "ok",
     "itemCount": 10,
     "newest": "2026-11-02T20:27:47Z"
+   }
+  },
+  {
+   "id": "cardinalpine",
+   "name": "Cardinal & Pine",
+   "short": "Cardinal & Pine",
+   "kind": "stream",
+   "type": "Publication of a news network",
+   "scope": "North Carolina",
+   "description": "North Carolina news site owned and operated by COURIER, which describes itself as a pro-democracy news network. It describes its journalism as independent and point of view, and does not call itself nonpartisan. It says it takes no funding from parties, candidates or campaigns. Only posts that mention elections or voting are shown here.",
+   "homepage": "https://cardinalpine.com",
+   "status": {
+    "state": "ok",
+    "itemCount": 5,
+    "newest": "2026-11-02T20:44:59Z"
    }
   },
   {
@@ -234,6 +249,14 @@
    "summary": "The N.C. Democratic and Republican parties are reporting similar overall fundraising totals for state-level races this year, but there are big differences in how the money is being allocated for individual races."
   },
   {
+   "id": "b5ffbf29994d",
+   "source": "cardinalpine",
+   "title": "Opinion: In NC, a student got turned away from early voting. Here’s what happened next",
+   "url": "https://cardinalpine.com/news/elections/opinion-first-time-voter-in-north-carolina/",
+   "published": "2026-11-02T20:44:59Z",
+   "summary": "A first-time voter in North Carolina reminds us why showing up matters. The post Opinion: In NC, a student got turned away from early voting. Here’s what happened next appeared first on Cardinal & Pine ."
+  },
+  {
    "id": "00f68a73f166",
    "source": "carolinajournal",
    "title": "NC early voting tops 2.8M as Democrats match 2018’s 12% turnout edge",
@@ -274,6 +297,14 @@
    "summary": "Libertarian Tom Bailey is running in North Carolina's 1st Congressional District for the second consecutive election."
   },
   {
+   "id": "759023e5b349",
+   "source": "cardinalpine",
+   "title": "Some North Carolina cities are offering free transportation to Election Day polling places",
+   "url": "https://cardinalpine.com/news/nc-cities-free-transportation-election-day/",
+   "published": "2026-11-02T17:13:05Z",
+   "summary": "Election Day transportation, college basketball tips off, and going deep on Cherokee history. Here are 3 things happening in NC this week. The post Some North Carolina cities are offering free transportation to Election Day polling places appeared first on Cardinal & Pine ."
+  },
+  {
    "id": "3da7e1ebe3a3",
    "source": "ncnewsline",
    "title": "Democrats and unaffiliated voters cast about 73% of ballots in NC’s record-setting early turnout",
@@ -307,12 +338,28 @@
    "summary": "Law requires print, radio, and TV political advertisements to include a statement identifying who paid for them. But that does not extend to internet or social media political advertisements, according to NC State Board of Elections guidance The post NC law doesn’t require…"
   },
   {
+   "id": "8e8427613afd",
+   "source": "cardinalpine",
+   "title": "Jamie Ager responds to Jennifer Balkcom’s AI-generated drag queen ad",
+   "url": "https://cardinalpine.com/news/jamie-ager-jennifer-balkcoms-ai-drag-queen-ad/",
+   "published": "2026-10-30T22:39:38Z",
+   "summary": "Jamie Ager has responded after his Republican opponent, Jennifer Balkcom, created an AI-generated ad that features him dancing with drag queens. The post Jamie Ager responds to Jennifer Balkcom’s AI-generated drag queen ad appeared first on Cardinal & Pine ."
+  },
+  {
    "id": "a768be753276",
    "source": "carolinajournal",
    "title": "Democrat-aligned group targets Republican voters in NC court races",
    "url": "https://www.carolinajournal.com/democrat-aligned-group-targets-republican-voters-in-nc-court-races/",
    "published": "2026-10-30T21:34:11Z",
    "summary": "A group that works to elect Democrats across the country is targeting Republican voters casting ballots in North Carolina Appeals Court races. The post Democrat-aligned group targets Republican voters in NC court races appeared first on Carolina Journal ."
+  },
+  {
+   "id": "ec2c3c400075",
+   "source": "cardinalpine",
+   "title": "That viral ‘Jonestown’ guy at the Trump rally? He’s from Charlotte",
+   "url": "https://cardinalpine.com/local/viral-jonestown-guy-trump-rally-charlotte/",
+   "published": "2026-10-30T17:52:25Z",
+   "summary": "A Charlotte man flipped the script on Fox News. Plus: Adorable otter pups! The post That viral ‘Jonestown’ guy at the Trump rally? He’s from Charlotte appeared first on Cardinal & Pine ."
   },
   {
    "id": "49ac86c85a6d",
@@ -387,6 +434,14 @@
    "url": "https://ncnewsline.com/2026/10/29/new-campaign-aims-to-help-nc-medicaid-recipients-keep-coverage-under-new-rules/",
    "published": "2026-10-29T20:45:25Z",
    "summary": "A new campaign launching in North Carolina aims to help Medicaid recipients navigate upcoming federal requirements and avoid losing coverage because of confusing paperwork or reporting rules. Keep Your Care, a national campaign focused on helping people maintain Medicaid…"
+  },
+  {
+   "id": "84cb53ed2f78",
+   "source": "cardinalpine",
+   "title": "Here’s why toilet paper, lumber and other necessities may cost more in North Carolina",
+   "url": "https://cardinalpine.com/news/money-jobs/heres-why-toilet-paper-lumber-and-other-necessities-may-cost-more-in-north-carolina/",
+   "published": "2026-10-29T17:39:55Z",
+   "summary": "The key to the rising costs in certain North Carolina sectors is President Trump's growing trade war with Canada. The post Here’s why toilet paper, lumber and other necessities may cost more in North Carolina appeared first on Cardinal & Pine ."
   },
   {
    "id": "e6cf170fd9f3",
