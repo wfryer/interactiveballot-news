@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T03:49:34Z",
+ "generatedAt": "2026-11-03T04:05:03Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -64,6 +64,51 @@
    }
   },
   {
+   "id": "wfae",
+   "name": "WFAE",
+   "short": "WFAE",
+   "kind": "stream",
+   "type": "Public radio newsroom",
+   "scope": "North Carolina",
+   "description": "Charlotte's NPR member station. Reports on elections, local government and early voting in the Charlotte region. Only posts that mention elections or voting are shown here.",
+   "homepage": "https://www.wfae.org",
+   "status": {
+    "state": "ok",
+    "itemCount": 2,
+    "newest": "2026-11-02T21:20:53Z"
+   }
+  },
+  {
+   "id": "wunc",
+   "name": "WUNC",
+   "short": "WUNC",
+   "kind": "stream",
+   "type": "Public radio newsroom",
+   "scope": "North Carolina",
+   "description": "North Carolina public radio from Chapel Hill and an NPR member. Covers state politics and the 2026 election. Only posts that mention elections or voting are shown here.",
+   "homepage": "https://www.wunc.org",
+   "status": {
+    "state": "ok",
+    "itemCount": 9,
+    "newest": "2026-11-02T21:20:53Z"
+   }
+  },
+  {
+   "id": "carolinajournal",
+   "name": "Carolina Journal",
+   "short": "Carolina Journal",
+   "kind": "stream",
+   "type": "Publication of a policy organization",
+   "scope": "North Carolina",
+   "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
+   "homepage": "https://www.carolinajournal.com",
+   "status": {
+    "state": "ok",
+    "itemCount": 10,
+    "newest": "2026-11-02T20:27:47Z"
+   }
+  },
+  {
    "id": "ncelectionslive",
    "name": "NC Election Live",
    "short": "NC Election Live",
@@ -125,6 +170,42 @@
    "aboutLabel": "Voter protection toolkits",
    "cta": "Visit VoPro Pros",
    "status": null
+  },
+  {
+   "id": "vote411",
+   "name": "VOTE411 (League of Women Voters Education Fund)",
+   "short": "VOTE411",
+   "kind": "tool",
+   "type": "Voter guide tool",
+   "scope": "North Carolina",
+   "description": "Nonpartisan voter guide from the League of Women Voters Education Fund. Enter an address to see your ballot and candidate information.",
+   "homepage": "https://www.vote411.org/north-carolina",
+   "cta": "Open the voter guide",
+   "status": null
+  },
+  {
+   "id": "ballotpedia",
+   "name": "Ballotpedia: North Carolina elections, 2026",
+   "short": "Ballotpedia",
+   "kind": "tool",
+   "type": "Election encyclopedia",
+   "scope": "North Carolina",
+   "description": "A nonprofit encyclopedia of U.S. elections with a sample ballot lookup by address. Coverage of local races can be incomplete, so check your official sample ballot.",
+   "homepage": "https://ballotpedia.org/North_Carolina_elections,_2026",
+   "cta": "Open Ballotpedia",
+   "status": null
+  },
+  {
+   "id": "ncvoterguide",
+   "name": "NC Voter Guide (Common Cause North Carolina)",
+   "short": "NC Voter Guide",
+   "kind": "tool",
+   "type": "Voter guide tool",
+   "scope": "North Carolina",
+   "description": "Voter guide managed by Common Cause North Carolina, which describes itself as nonpartisan. Covers voting, elections and candidates in North Carolina.",
+   "homepage": "https://ncvoterguide.org/",
+   "cta": "Open the voter guide",
+   "status": null
   }
  ],
  "items": [
@@ -153,12 +234,60 @@
    "summary": "American democracy faces one of its biggest stress tests of the modern era, as President Donald Trump’s sprawling campaign for power over elections encounters a firewall of judges, state election workers and voting rights leaders heading into Election Day. A cascade of courtroom…"
   },
   {
+   "id": "e119cdaedde0",
+   "source": "wfae",
+   "title": "Who's ahead in fundraising as midterm campaigns wrap up?",
+   "url": "https://www.wfae.org/2026-11-02/nc-republican-democrat-fundraising-north-carolina-midterm-campaigns",
+   "published": "2026-11-02T21:20:53Z",
+   "summary": "The N.C. Democratic and Republican parties are reporting similar overall fundraising totals for state-level races this year, but there are big differences in how the money is being allocated for individual races."
+  },
+  {
+   "id": "61b2ef0bb769",
+   "source": "wunc",
+   "title": "Who's ahead in fundraising as midterm campaigns wrap up?",
+   "url": "https://www.wunc.org/politics/2026-11-02/nc-republican-democrat-fundraising-north-carolina-midterm-campaigns",
+   "published": "2026-11-02T21:20:53Z",
+   "summary": "The N.C. Democratic and Republican parties are reporting similar overall fundraising totals for state-level races this year, but there are big differences in how the money is being allocated for individual races."
+  },
+  {
+   "id": "00f68a73f166",
+   "source": "carolinajournal",
+   "title": "NC early voting tops 2.8M as Democrats match 2018’s 12% turnout edge",
+   "url": "https://www.carolinajournal.com/nc-early-voting-tops-2-8m-as-democrats-match-2018s-12-turnout-edge/",
+   "published": "2026-11-02T20:27:47Z",
+   "summary": "Democrats cast more than a million, or 38.37%, early ballots; unaffiliated voters held the second-largest bloc with 991,939, or 35.18%; and registered Republicans cast 737,349 ballots, or 26.15%. The post NC early voting tops 2.8M as Democrats match 2018’s 12% turnout edge…"
+  },
+  {
+   "id": "315c6e1da59b",
+   "source": "wunc",
+   "title": "Knightdale's $55 million bond referendum would fund new community center, raise property taxes",
+   "url": "https://www.wunc.org/politics/2026-11-02/knightdales-bond-referendum-community-center-raise-property-taxes",
+   "published": "2026-11-02T20:16:12Z",
+   "summary": "This Election Day, voters will weigh in on the Knightdale Parks & Recreation Bond. If passed, the funds will go toward a new community center designed to support the town's growing population."
+  },
+  {
    "id": "ea792b03cb4b",
    "source": "ncnewsline",
    "title": "Commentary: New numbers expose conservative ‘tough on crime’ hypocrisy",
    "url": "https://ncnewsline.com/2026/11/02/new-numbers-expose-conservative-tough-on-crime-hypocrisy/",
    "published": "2026-11-02T19:17:36Z",
    "summary": "Crime. For decades, it’s long been a tried-and-true election tactic of the American political right to campaign under the “get tough on crime” banner. The model was cynically perfected during the 1988 presidential campaign in the infamous and racially charged “Willie Horton” ads…"
+  },
+  {
+   "id": "a15fa165ff02",
+   "source": "wfae",
+   "title": "The 1st Congressional District may be N.C.'s closest. Could a third-party candidate help decide it?",
+   "url": "https://www.wfae.org/2026-11-02/nc-libertarian-tom-bailey-first-district-third-party",
+   "published": "2026-11-02T18:36:34Z",
+   "summary": "Libertarian Tom Bailey is running in North Carolina's 1st Congressional District for the second consecutive election."
+  },
+  {
+   "id": "6e7279ad556d",
+   "source": "wunc",
+   "title": "The 1st Congressional District may be N.C.'s closest. Could a third-party candidate help decide it?",
+   "url": "https://www.wunc.org/politics/2026-11-02/nc-libertarian-tom-bailey-first-district-third-party",
+   "published": "2026-11-02T18:36:34Z",
+   "summary": "Libertarian Tom Bailey is running in North Carolina's 1st Congressional District for the second consecutive election."
   },
   {
    "id": "0a44fe4e8e9b",
@@ -185,6 +314,14 @@
    "summary": "Early voting in a midterm election set a record this year in North Carolina, with more than 2.7 million people voting in person by Saturday afternoon. With mail-in ballots included, 2.8 million votes have been cast, meaning 36% of registered voters have cast ballots before…"
   },
   {
+   "id": "3d696b1733e8",
+   "source": "wunc",
+   "title": "A record 2.8 million North Carolinians voted early in this midterm election",
+   "url": "https://www.wunc.org/2026-11-02/a-midterm-record-2-8-million-north-carolinians-voted-early-this-election",
+   "published": "2026-11-02T13:01:17Z",
+   "summary": "Turnout for early voting was up more than 30% compared to the 2022 midterms."
+  },
+  {
    "id": "a60a6a1d0435",
    "source": "ncsbe",
    "title": "State Election Officials to Host Two Press Conferences on Election Day",
@@ -192,6 +329,14 @@
    "published": "2026-11-02T12:00:00Z",
    "summary": "",
    "dateOnly": true
+  },
+  {
+   "id": "af19a58f94db",
+   "source": "carolinajournal",
+   "title": "NC law doesn’t require disclosures on paid political social media posts",
+   "url": "https://www.carolinajournal.com/nc-law-doesnt-require-disclosures-on-paid-political-social-media-posts/",
+   "published": "2026-11-02T07:59:00Z",
+   "summary": "Law requires print, radio, and TV political advertisements to include a statement identifying who paid for them. But that does not extend to internet or social media political advertisements, according to NC State Board of Elections guidance The post NC law doesn’t require…"
   },
   {
    "id": "e77f355cc762",
@@ -208,6 +353,14 @@
    "url": "https://ncnewsline.com/2026/10/30/repub/trump-loses-appeals-over-california-ballots-homeland-security-operations/",
    "published": "2026-10-31T01:13:03Z",
    "summary": "A federal appeals court on Friday denied a Trump administration demand that California set aside and not count the ballots of 20,000 suspected noncitizen voters, setting the stage for a possible appeal to the U.S. Supreme Court. A three-judge panel of the U.S. 9th Circuit Court…"
+  },
+  {
+   "id": "a768be753276",
+   "source": "carolinajournal",
+   "title": "Democrat-aligned group targets Republican voters in NC court races",
+   "url": "https://www.carolinajournal.com/democrat-aligned-group-targets-republican-voters-in-nc-court-races/",
+   "published": "2026-10-30T21:34:11Z",
+   "summary": "A group that works to elect Democrats across the country is targeting Republican voters casting ballots in North Carolina Appeals Court races. The post Democrat-aligned group targets Republican voters in NC court races appeared first on Carolina Journal ."
   },
   {
    "id": "d7bd7cdddbb8",
@@ -258,12 +411,28 @@
    "summary": "WASHINGTON — President Donald Trump’s rallies in Kansas and Iowa this weekend are back on after initial cancellations, States Newsroom confirmed Friday. The Midwest rallies mark the final sprint to Election Day on Nov. 3 — now just four days away — where the GOP is itching to…"
   },
   {
+   "id": "2199cce894c8",
+   "source": "wunc",
+   "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+   "url": "https://www.wunc.org/2026-10-30/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
+   "published": "2026-10-30T15:00:00Z",
+   "summary": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024."
+  },
+  {
    "id": "b61b5f985eed",
    "source": "ncnewsline",
    "title": "Election officials brace for federal interference but expect to persevere",
    "url": "https://ncnewsline.com/2026/10/30/repub/election-officials-brace-for-federal-interference-but-expect-to-persevere/",
    "published": "2026-10-30T14:53:04Z",
    "summary": "As concerns rise about the potential for federal influence over the results of next week’s midterm elections, many voting experts and advocates remain confident that the nation’s highly localized systems of administering and counting votes will persevere. Facing sinking approval…"
+  },
+  {
+   "id": "23a53848e577",
+   "source": "carolinajournal",
+   "title": "Davis-Buckhout contest sets spending record at $52.9 million",
+   "url": "https://www.carolinajournal.com/davis-buckhout-contest-sets-spending-record-at-52-9-million/",
+   "published": "2026-10-30T13:38:10Z",
+   "summary": "The US congressional race in NC-1 has become the most expensive House race on record in a general election. The post Davis-Buckhout contest sets spending record at $52.9 million appeared first on Carolina Journal ."
   },
   {
    "id": "ec2d2d185f9d",
@@ -340,6 +509,14 @@
    "summary": "A federal judge on Wednesday denied a U.S. Department of Justice request that would have forced California to not count the ballots of 20,000 voters the Trump administration alleges are likely noncitizens. The decision sets the case on a course to possibly reach the U.S. Supreme…"
   },
   {
+   "id": "e6cf170fd9f3",
+   "source": "carolinajournal",
+   "title": "Fact check: Ad targeting Echevarria omits customer-savings requirement",
+   "url": "https://www.carolinajournal.com/fact-check-ad-targeting-echevarria-omits-customer-savings-requirement/",
+   "published": "2026-10-29T17:19:36Z",
+   "summary": "An attack ad cites Echevarria's support for SB 266, but the law includes regulatory conditions on early financing charges and canceled projects. The post Fact check: Ad targeting Echevarria omits customer-savings requirement appeared first on Carolina Journal ."
+  },
+  {
    "id": "04ed3c107b0f",
    "source": "ncnewsline",
    "title": "College students in swing states rally against off-campus voting sites, student ID bans",
@@ -356,12 +533,28 @@
    "summary": "With Election Day less than a week away, prediction markets are signaling strong chances for some North Carolina congressional candidates, even as some traditional polling remains uncertain. In North Carolina’s 1st Congressional District, polls have consistently shown Democratic…"
   },
   {
+   "id": "2c6e9030ad77",
+   "source": "wunc",
+   "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+   "url": "https://www.wunc.org/politics/2026-10-29/these-are-the-house-races-to-watch-in-the-2026-midterm-election-on-nov-3",
+   "published": "2026-10-29T09:00:00Z",
+   "summary": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas."
+  },
+  {
    "id": "2f52caf6d22b",
    "source": "ncnewsline",
    "title": "DHS targeting naturalized Americans in voter investigations, civil rights groups say",
    "url": "https://ncnewsline.com/2026/10/28/repub/dhs-targeting-naturalized-americans-in-voter-investigations-civil-rights-groups-say/",
    "published": "2026-10-28T22:50:54Z",
    "summary": "The U.S. Department of Homeland Security is unlawfully scrutinizing naturalized U.S. citizens and placing them at risk of disenfranchisement, civil rights groups alleged in a lawsuit Wednesday, less than a week before Election Day. The lawsuit, filed in California, came as…"
+  },
+  {
+   "id": "39d8ea82a08c",
+   "source": "carolinajournal",
+   "title": "Voter ID, tax cap amendments from 2018 face NC Appeals Court hearing",
+   "url": "https://www.carolinajournal.com/voter-id-tax-cap-amendments-from-2018-face-nc-appeals-court-hearing/",
+   "published": "2026-10-28T22:32:28Z",
+   "summary": "The North Carolina Court of Appeals is tackling a seven-year-old legal battle over state constitutional amendments voters approved in 2018 to lower the state income tax cap and require photo identification for in-person voters. The post Voter ID, tax cap amendments from 2018…"
   },
   {
    "id": "673895fffbfa",
@@ -378,6 +571,22 @@
    "url": "https://ncnewsline.com/2026/10/28/vance-urges-gop-to-head-to-the-polls-during-north-carolina-visit/",
    "published": "2026-10-28T22:01:06Z",
    "summary": "The challenging political climate has left Republicans playing defense in more states than expected."
+  },
+  {
+   "id": "7515c1e9cf53",
+   "source": "wunc",
+   "title": "Property tax limit amendment could be tweaked by future legislators — again and again",
+   "url": "https://www.wunc.org/2026-10-28/property-tax-limit-amendment-could-be-tweaked-by-future-legislators-again-and-again",
+   "published": "2026-10-28T20:21:00Z",
+   "summary": "There are three constitutional amendments on the ballot for Tuesday's election."
+  },
+  {
+   "id": "f28dbd277d11",
+   "source": "wunc",
+   "title": "Voters in 11 NC counties will decide whether to raise their sales taxes",
+   "url": "https://www.wunc.org/politics/2026-10-28/voters-11-nc-counties-will-decide-whether-to-raise-their-sales-taxes",
+   "published": "2026-10-28T17:29:11Z",
+   "summary": "The question is on the ballot in Bladen, Dare and Columbus counties, as well as Hoke, Sampson and Currituck. Guilford County is the only urban community with a sales tax referendum this election."
   },
   {
    "id": "474b3cbca8cd",
@@ -419,6 +628,14 @@
    "published": "2026-10-28T12:00:00Z",
    "summary": "",
    "dateOnly": true
+  },
+  {
+   "id": "830de2e20697",
+   "source": "wunc",
+   "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+   "url": "https://www.wunc.org/politics/2026-10-28/heres-how-democrats-in-congress-are-preparing-for-election-fraud-claims",
+   "published": "2026-10-28T09:00:00Z",
+   "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
   },
   {
    "id": "b11d4adc8241",
@@ -508,6 +725,38 @@
    "url": "https://ncnewsline.com/2026/10/23/three-ballot-amendments-would-cost-everyday-north-carolinians-dearly/",
    "published": "2026-10-23T17:02:05Z",
    "summary": "Early voting has started, but North Carolina voters are hearing very little about three constitutional amendments tucked away at the end of the ballot. While the amendments are worded in a seemingly simple way, the three proposals are deceptive. Carolina Federation, an…"
+  },
+  {
+   "id": "d263800fe642",
+   "source": "carolinajournal",
+   "title": "CJ Poll: Cooper leads Whatley by 10 as Republicans return to Whatley",
+   "url": "https://www.carolinajournal.com/cj-poll-cooper-leads-whatley-by-10-as-republicans-return-to-whatley/",
+   "published": "2026-10-22T16:56:12Z",
+   "summary": "Roy Cooper leads Michael Whatley 49% to 39% in the new Carolina Journal poll, down from a 15-point lead in September. Whatley’s gain came from Republicans returning from undecided, while Democrats lost ground on both tax amendments. The post CJ Poll: Cooper leads Whatley by 10…"
+  },
+  {
+   "id": "e30548c6cdf3",
+   "source": "carolinajournal",
+   "title": "Complaint alleges illegal contribution to NC House candidate Lorenza Wilkins",
+   "url": "https://www.carolinajournal.com/complaint-alleges-illegal-contribution-to-nc-house-candidate-lorenza-wilkins/",
+   "published": "2026-10-22T10:38:00Z",
+   "summary": "The complaint alleges the $9,800 “office furniture donation” from Blue Ridge Realty, Inc. violated laws against both corporate giving and donations of over $6,800 per election. The post Complaint alleges illegal contribution to NC House candidate Lorenza Wilkins appeared first…"
+  },
+  {
+   "id": "4d384ac1cdd4",
+   "source": "carolinajournal",
+   "title": "NC-3 gains late attention with early vote surge, ratings shift",
+   "url": "https://www.carolinajournal.com/nc-3-gains-late-attention-with-early-vote-surge-ratings-shift/",
+   "published": "2026-10-22T07:43:00Z",
+   "summary": "So far, about 25,660 Democrats have cast ballots in NC-3, while Republicans have cast less than half that, at about 12,400. The post NC-3 gains late attention with early vote surge, ratings shift appeared first on Carolina Journal ."
+  },
+  {
+   "id": "07f3091930ee",
+   "source": "carolinajournal",
+   "title": "GOP faces possible Wake legislative shutout amid 3 close races",
+   "url": "https://www.carolinajournal.com/gop-faces-possible-wake-legislative-shutout-amid-3-close-races/",
+   "published": "2026-10-21T21:00:00Z",
+   "summary": "Population growth and shifting suburban voting patterns have eroded Republicans' advantage in several key Wake legislative districts. The post GOP faces possible Wake legislative shutout amid 3 close races appeared first on Carolina Journal ."
   },
   {
    "id": "775edea7d44a",
