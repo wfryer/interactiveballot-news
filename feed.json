@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T16:02:10Z",
+ "generatedAt": "2026-11-03T18:02:14Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 10,
-    "newest": "2026-11-03T14:18:24Z"
+    "itemCount": 11,
+    "newest": "2026-11-03T17:31:10Z"
    }
   },
   {
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 5,
-    "newest": "2026-11-02T20:44:59Z"
+    "itemCount": 6,
+    "newest": "2026-11-03T17:59:18Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "f3df901be724",
+   "source": "cardinalpine",
+   "title": "Roy Cooper looks to flip North Carolina Senate seat by defeating Republican Michael Whatley",
+   "url": "https://cardinalpine.com/news/elections/roy-cooper-michael-whatley-north-carolina/",
+   "published": "2026-11-03T17:59:18Z",
+   "summary": "Roy Cooper's North Carolina race is one of Democrats’ best chances to flip a Republican-held seat as they try to win back control of the chamber. The post Roy Cooper looks to flip North Carolina Senate seat by defeating Republican Michael Whatley appeared first on Cardinal &…"
+  },
+  {
+   "id": "c1b0c024bb7e",
+   "source": "wunc",
+   "title": "Federal election monitors present in three NC counties",
+   "url": "https://www.wunc.org/2026-11-03/federal-election-monitors-present-in-three-nc-counties",
+   "published": "2026-11-03T17:31:10Z",
+   "summary": "Federal election monitors are present in Alamance, Wake and Mecklenburg counties today. State election officials say their presence is routine and shouldn't alarm voters."
+  },
   {
    "id": "60b1d2781d26",
    "source": "wfae",
