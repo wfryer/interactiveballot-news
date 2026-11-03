@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T11:32:12Z",
+ "generatedAt": "2026-11-03T12:32:22Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 3,
-    "newest": "2026-11-03T09:00:00Z"
+    "itemCount": 4,
+    "newest": "2026-11-03T12:23:17Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "93be9af1b8bd",
+   "source": "wfae",
+   "title": "Mooresville approves 12-month moratorium on new data center projects",
+   "url": "https://www.wfae.org/politics/2026-11-03/mooresville-approves-12-month-moratorium-on-new-data-center-projects",
+   "published": "2026-11-03T12:23:17Z",
+   "summary": "Mooresville is the latest North Carolina community to implement a moratorium on new data center projects.WJZY reports that commissioners voted unanimously Monday night to impose a 12-month pause on new applications for the facilities.Town leaders said they want to find a balance…"
+  },
   {
    "id": "56bda0f57729",
    "source": "ncnewsline",
