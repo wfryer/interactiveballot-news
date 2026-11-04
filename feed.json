@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T19:17:09Z",
+ "generatedAt": "2026-11-04T20:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 27,
-    "newest": "2026-11-04T15:51:31Z"
+    "itemCount": 28,
+    "newest": "2026-11-04T20:11:07Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 19,
-    "newest": "2026-11-04T16:17:56Z"
+    "itemCount": 20,
+    "newest": "2026-11-04T20:11:07Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "e66ebfb0da43",
+   "source": "wunc",
+   "title": "What's next for 10 close election contests in NC?",
+   "url": "https://www.wunc.org/politics/2026-11-04/10-close-election-contests-in-nc-recounts-provisional-ballots",
+   "published": "2026-11-04T20:11:07Z",
+   "summary": "Three North Carolina congressional races and seven races for state legislature could be headed for a recount. But even before a recount could be requested, vote tallies in close races could change in the coming days."
+  },
+  {
+   "id": "8a5e8f7b4ab1",
+   "source": "wfae",
+   "title": "What's next for 10 close election contests in NC?",
+   "url": "https://www.wfae.org/2026-11-04/10-close-election-contests-in-nc-recounts-provisional-ballots",
+   "published": "2026-11-04T20:11:07Z",
+   "summary": "Three North Carolina congressional races and seven races for state legislature could be headed for a recount. But even before a recount could be requested, vote tallies in close races could change in the coming days."
+  },
   {
    "id": "070f1a77e4ec",
    "source": "carolinajournal",
