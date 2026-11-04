@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T22:17:10Z",
+ "generatedAt": "2026-11-04T22:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -13,7 +13,7 @@
    "about": "https://www.ncsbe.gov/about",
    "status": {
     "state": "ok",
-    "itemCount": 14,
+    "itemCount": 15,
     "newest": "2026-11-04T12:00:00Z"
    }
   },
@@ -413,6 +413,15 @@
    "source": "ncsbe",
    "title": "State Board Releases Number of Provisional Ballots Cast by County in 2026 General Election",
    "url": "https://www.ncsbe.gov/news/press-releases/2026/11/04/state-board-releases-number-provisional-ballots-cast-county-2026-general-election",
+   "published": "2026-11-04T12:00:00Z",
+   "summary": "",
+   "dateOnly": true
+  },
+  {
+   "id": "2f1a62a84d56",
+   "source": "ncsbe",
+   "title": "What's Next for Finalizing 2026 Midterm Elections?",
+   "url": "https://www.ncsbe.gov/news/press-releases/2026/11/04/whats-next-finalizing-2026-midterm-elections",
    "published": "2026-11-04T12:00:00Z",
    "summary": "",
    "dateOnly": true
