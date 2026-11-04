@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:02:16Z",
+ "generatedAt": "2026-11-04T17:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 24,
-    "newest": "2026-11-04T15:30:00Z"
+    "itemCount": 25,
+    "newest": "2026-11-04T17:09:08Z"
    }
   },
   {
@@ -225,6 +225,14 @@
  ],
  "items": [
   {
+   "id": "c9c470a684f7",
+   "source": "carolinajournal",
+   "title": "Dems flip both Alamance NC House seats, GOP holds NC Senate seat",
+   "url": "https://www.carolinajournal.com/dems-flip-both-alamance-nc-house-seats-gop-holds-nc-senate-seat/",
+   "published": "2026-11-04T17:09:08Z",
+   "summary": "Democrats Ian Baltutis and LeVon Barnes defeated Republicans Ryan Moffitt and Dennis Riddell, giving their party control of both Alamance County House districts for the first time in at least 24 years. The post Dems flip both Alamance NC House seats, GOP holds NC Senate seat…"
+  },
+  {
    "id": "c4350d105f9c",
    "source": "cardinalpine",
    "title": "North Carolina voters pass all 3 constitutional amendments on ballot",
@@ -259,10 +267,10 @@
   {
    "id": "3d1b86d15bac",
    "source": "carolinajournal",
-   "title": "Murphy, defends NC03 against Smith by thin margin",
+   "title": "Murphy, defends NC-3 against Smith by thin margin",
    "url": "https://www.carolinajournal.com/murphy-defends-nc03-against-smith-by-thin-margin/",
    "published": "2026-11-04T15:30:00Z",
-   "summary": "US Rep. Greg Murphy is locked in a neck and neck race with Democratic challenger Raymond Smith Jr. to defend his seat in NC-3. The post Murphy, defends NC03 against Smith by thin margin appeared first on Carolina Journal ."
+   "summary": "US Rep. Greg Murphy is locked in a neck and neck race with Democratic challenger Raymond Smith Jr. to defend his seat in NC-3. The post Murphy, defends NC-3 against Smith by thin margin appeared first on Carolina Journal ."
   },
   {
    "id": "60b1d2781d26",
