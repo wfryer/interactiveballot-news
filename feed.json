@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T03:47:09Z",
+ "generatedAt": "2026-11-04T04:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 36,
-    "newest": "2026-11-04T02:00:46Z"
+    "itemCount": 37,
+    "newest": "2026-11-04T03:50:48Z"
    }
   },
   {
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 3,
-    "newest": "2026-11-04T03:22:19Z"
+    "itemCount": 4,
+    "newest": "2026-11-04T03:52:08Z"
    }
   },
   {
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 14,
-    "newest": "2026-11-04T02:21:16Z"
+    "itemCount": 15,
+    "newest": "2026-11-04T03:55:13Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 13,
-    "newest": "2026-11-04T01:32:43Z"
+    "itemCount": 14,
+    "newest": "2026-11-04T03:57:24Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 17,
-    "newest": "2026-11-04T03:41:12Z"
+    "itemCount": 21,
+    "newest": "2026-11-04T04:00:00Z"
    }
   },
   {
@@ -225,6 +225,70 @@
  ],
  "items": [
   {
+   "id": "bd6a18fac13d",
+   "source": "carolinajournal",
+   "title": "Democrats sweep NC Supreme Court, Appeals Court races",
+   "url": "https://www.carolinajournal.com/democrats-sweep-nc-supreme-court-appeals-court-races/",
+   "published": "2026-11-04T04:00:00Z",
+   "summary": "Democrats successfully defended a North Carolina Supreme Court seat and three seats on the state Court of Appeals Tuesday. The post Democrats sweep NC Supreme Court, Appeals Court races appeared first on Carolina Journal ."
+  },
+  {
+   "id": "c835352c39a5",
+   "source": "carolinajournal",
+   "title": "NC voters approve photo ID, tax amendments",
+   "url": "https://www.carolinajournal.com/nc-voters-approve-photo-id-tax-amendments/",
+   "published": "2026-11-04T03:59:37Z",
+   "summary": "NC voters approved all three constitutional amendments on the ballot Tuesday, according to unofficial results from the NC State Board of Elections. The post NC voters approve photo ID, tax amendments appeared first on Carolina Journal ."
+  },
+  {
+   "id": "298fefca6582",
+   "source": "wunc",
+   "title": "Anita Earls reelected to state Supreme Court",
+   "url": "https://www.wunc.org/politics/2026-11-03/anita-earls-reelected-to-state-supreme-court",
+   "published": "2026-11-04T03:57:24Z",
+   "summary": "Earls beat Republican challenger Sarah Stevens, a former State Representative.Earls is a former civil rights attorney who founded the Southern Coalition for Social Justice. Stevens is a former State House member who stepped down from the legislature earlier this year."
+  },
+  {
+   "id": "5da19b7dbe4e",
+   "source": "carolinajournal",
+   "title": "Cotham defeated as Democrats flip Mecklenburg House seat",
+   "url": "https://www.carolinajournal.com/cotham-defeated-as-democrats-flip-mecklenburg-house-seat/",
+   "published": "2026-11-04T03:56:49Z",
+   "summary": "Mecklenburg County’s only Republican state House member, Rep. Tricia Cotham, has lost her bid for re-election in House District 105, being defeated by her Democratic challenger, former Matthews Town Commissioner and small business owner, Ken McCool, in Tuesday’s general…"
+  },
+  {
+   "id": "7e8b0c74244c",
+   "source": "carolinajournal",
+   "title": "Dems flip 2 Cabarrus County NC House seats",
+   "url": "https://www.carolinajournal.com/dems-flip-2-cabarrus-county-nc-house-seats/",
+   "published": "2026-11-04T03:55:16Z",
+   "summary": "Two Republican incumbents for Cabarrus County's NC House delegation, Reps. Brian Echevarria and Jonathan Almond, have lost their races for re-election. The post Dems flip 2 Cabarrus County NC House seats appeared first on Carolina Journal ."
+  },
+  {
+   "id": "6932da8f48d6",
+   "source": "wfae",
+   "title": "Democrats sweep Cabarrus school board seats; voters reject bonds",
+   "url": "https://www.wfae.org/politics/2026-11-03/democrats-sweep-cabarrus-school-board-seats-voters-reject-bonds",
+   "published": "2026-11-04T03:55:13Z",
+   "summary": "Democrats won all three contested seats on the Cabarrus County school board Tuesday, reflecting the party's wins down the ballot in a historically Republican-dominated county."
+  },
+  {
+   "id": "cdfedecd117d",
+   "source": "carolinapublicpress",
+   "title": "Earls keeps seat on NC Supreme Court",
+   "url": "https://carolinapublicpress.org/82873/earls-keeps-seat-on-nc-supreme-court/",
+   "published": "2026-11-04T03:52:08Z",
+   "summary": "Democratic Associate Justice Earls fends off Republican challenger with implications for looming post-2030 NC redistricting decisions. Earls keeps seat on NC Supreme Court is a story from Carolina Public Press , an award-winning independent newsroom. Our breakthrough journalism…"
+  },
+  {
+   "id": "0e549f98483b",
+   "source": "ncnewsline",
+   "title": "Democrat Anita Earls wins reelection to the NC Supreme Court",
+   "url": "https://ncnewsline.com/2026/11/03/democrat-anita-earls-wins-reelection-to-the-nc-supreme-court/",
+   "published": "2026-11-04T03:50:48Z",
+   "summary": "North Carolina voters reelected Democrat Anita Earls to the state Supreme Court Tuesday. She defeated Republican challenger Sarah Stevens, a former state lawmaker and longtime attorney. At the same time, three Court of Appeals contests helped determine whether Republicans would…"
+  },
+  {
    "id": "84e439ccbf3d",
    "source": "carolinajournal",
    "title": "Republicans lose Senate District 34 in Cabarrus County",
@@ -254,7 +318,7 @@
    "title": "Cooper remains undefeated in NC elections with easy US Senate win",
    "url": "https://carolinapublicpress.org/82863/cooper-remains-undefeated-in-nc-elections-with-easy-us-senate-win/",
    "published": "2026-11-04T03:22:19Z",
-   "summary": "President Trump's preferred candidate Michael Whatley faired poorly against former Gov. Roy Cooper on good night for Democrats. Cooper remains undefeated in NC elections with easy US Senate win is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
+   "summary": "President Trump's preferred candidate Michael Whatley fared poorly against former Gov. Roy Cooper on good night for Democrats. Cooper remains undefeated in NC elections with easy US Senate win is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
   },
   {
    "id": "b713e113bbec",
@@ -403,10 +467,10 @@
   {
    "id": "42f4df7e21cc",
    "source": "wunc",
-   "title": "Roy Cooper wins Senate seat, constitutional amendments will pass, control of N.C. Legislature still too close to call",
+   "title": "Democrats overperform in elections across North Carolina; Cooper easily wins Senate seat; Democrats on verge of flipping N.C. House",
    "url": "https://www.wunc.org/live-updates/midterms-2026-liveblog-cooper-whatley-election-voting",
    "published": "2026-11-03T18:03:37Z",
-   "summary": "The 2026 Midterms are here. WUNC News has you covered with last minute voting guides and how to track results as they come in tonight."
+   "summary": "The 2026 Midterms are here. WUNC News has all the results you need to follow on Election Night."
   },
   {
    "id": "f3df901be724",
