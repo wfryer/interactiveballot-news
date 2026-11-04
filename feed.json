@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T20:32:09Z",
+ "generatedAt": "2026-11-04T21:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-04T06:08:32Z"
+    "newest": "2026-11-04T20:47:20Z"
    }
   },
   {
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 29,
-    "newest": "2026-11-04T20:11:07Z"
+    "itemCount": 30,
+    "newest": "2026-11-04T20:56:38Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "fdba5eb58ab5",
+   "source": "wfae",
+   "title": "Monroe elects first Black woman mayor",
+   "url": "https://www.wfae.org/politics/2026-11-04/monroe-elects-first-black-woman-mayor",
+   "published": "2026-11-04T20:56:38Z",
+   "summary": "Voters in Monroe elected Surluta Anthony as the city's next mayor, part of a broader Democratic sweep in local races. Anthony defeated Republican City Council member David Dotson by 16 percentage points. She will become the first Black woman elected mayor of Monroe."
+  },
+  {
+   "id": "cf768392e873",
+   "source": "ncnewsline",
+   "title": "US Rep. Virginia Foxx says vote count isn’t over as she trails Dem in NC’s 5th District",
+   "url": "https://ncnewsline.com/2026/11/04/us-rep-virginia-foxx-says-vote-count-isnt-over-as-she-trails-dem-in-ncs-5th-district/",
+   "published": "2026-11-04T20:47:20Z",
+   "summary": "Republican U.S. Rep. Virginia Foxx trails her Democratic challenger by just 99 votes – less than 1% – in North Carolina’s 5th Congressional District, leaving one of the state’s closest congressional races undecided following Tuesday’s midterm elections. With all 230 precincts…"
+  },
   {
    "id": "e66ebfb0da43",
    "source": "wunc",
@@ -1368,14 +1384,6 @@
    "url": "https://ncnewsline.com/2026/10/15/new-polling-site-puts-nc-state-students-farther-from-the-ballot-box/",
    "published": "2026-10-15T23:27:21Z",
    "summary": "For N.C. State senior Joshua Ni, voting early meant fitting a ballot into the rhythm of campus life. But earlier this year, the polling place he used in 2024 was moved from the Talley Student Union, making the trip less convenient for Ni and other students who might otherwise…"
-  },
-  {
-   "id": "5e9843d68b8b",
-   "source": "ncnewsline",
-   "title": "Civil rights leader William Barber stops at NCCU to encourage early voters",
-   "url": "https://ncnewsline.com/2026/10/15/civil-rights-leader-william-barber-stops-at-nccu-to-encourage-early-voters/",
-   "published": "2026-10-15T22:29:12Z",
-   "summary": "Civil rights leader and Repairers of the Breach President Bishop William Barber led multiple marches to the polls across North Carolina on Thursday to mark the first day of early voting, which ends Oct. 31 at 3 p.m. At North Carolina Central University (NCCU) in Durham, Barber…"
   },
   {
    "id": "e794294092b7",
