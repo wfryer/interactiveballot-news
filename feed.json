@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:02:09Z",
+ "generatedAt": "2026-11-04T16:32:11Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 18,
-    "newest": "2026-11-04T05:44:30Z"
+    "itemCount": 19,
+    "newest": "2026-11-04T16:17:56Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2d95dd2cde44",
+   "source": "wunc",
+   "title": "Trump-backed Republican redistricting sought a midterm edge. It didn't work",
+   "url": "https://www.wunc.org/politics/2026-11-04/trump-backed-republican-redistricting-midterm-edge",
+   "published": "2026-11-04T16:17:56Z",
+   "summary": "Republicans' plan to redraw congressional districts to their advantage has failed to work in the midterm elections. President Donald Trump urged fellow Republicans last year to reshape U.S. House districts to try to hold onto a slim House majority."
+  },
   {
    "id": "ec235dc1ea4d",
    "source": "wfae",
