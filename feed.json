@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T06:02:09Z",
+ "generatedAt": "2026-11-04T06:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-04T05:54:33Z"
+    "newest": "2026-11-04T06:08:32Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "6a7b04512086",
+   "source": "ncnewsline",
+   "title": "NC voters approve all 3 constitutional amendments on ballot",
+   "url": "https://ncnewsline.com/2026/11/04/nc-voters-approve-all-three-constitutional-amendments-on-ballot/",
+   "published": "2026-11-04T06:08:32Z",
+   "summary": "North Carolina voters approved all three constitutional amendments on the ballot Tuesday. The amendments authorize lawmakers to impose limits on local governments’ power to raise property taxes, cap the state income tax, and require photo ID for all voters — not just those…"
+  },
+  {
+   "id": "8029e9a5e7a9",
+   "source": "ncnewsline",
+   "title": "Democrats appear to win the NC House majority and gain seats in the Senate",
+   "url": "https://ncnewsline.com/2026/11/04/democrats-appear-to-win-the-nc-house-majority-and-gain-seats-in-the-senate/",
+   "published": "2026-11-04T05:58:36Z",
+   "summary": "In a huge upset Tuesday night, Democrats appeared to win the majority in the North Carolina House, with Democratic candidates scoring stunning victories in districts held by influential, veteran Republicans. Democrats have not controlled a chamber of the General Assembly since…"
+  },
   {
    "id": "76a02839e079",
    "source": "ncnewsline",
@@ -1184,22 +1200,6 @@
    "url": "https://ncnewsline.com/2026/10/15/civil-rights-leader-william-barber-stops-at-nccu-to-encourage-early-voters/",
    "published": "2026-10-15T22:29:12Z",
    "summary": "Civil rights leader and Repairers of the Breach President Bishop William Barber led multiple marches to the polls across North Carolina on Thursday to mark the first day of early voting, which ends Oct. 31 at 3 p.m. At North Carolina Central University (NCCU) in Durham, Barber…"
-  },
-  {
-   "id": "764fb5590b04",
-   "source": "ncnewsline",
-   "title": "NC officials express confidence in election integrity as early voting begins",
-   "url": "https://ncnewsline.com/2026/10/15/nc-officials-express-confidence-in-election-integrity-as-early-voting-begins/",
-   "published": "2026-10-15T19:00:06Z",
-   "summary": "Early voting is off to a strong start for the 2026 midterms with more than 27,000 ballots cast before noon Thursday, the first day of early in-person voting, according to North Carolina State Board of Elections Executive Director Sam Hayes. Seventy-four percent of North Carolina…"
-  },
-  {
-   "id": "af8f775bb4fa",
-   "source": "ncnewsline",
-   "title": "NC Republicans Tillis, Moore prepare for GOP losses in upcoming election",
-   "url": "https://ncnewsline.com/2026/10/15/nc-republicans-tillis-moore-prepare-for-gop-losses-in-upcoming-election/",
-   "published": "2026-10-15T18:33:41Z",
-   "summary": "Recent polls have shown a tough political climate for the GOP."
   },
   {
    "id": "e794294092b7",
