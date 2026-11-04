@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T04:32:08Z",
+ "generatedAt": "2026-11-04T04:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 4,
-    "newest": "2026-11-04T03:52:08Z"
+    "itemCount": 5,
+    "newest": "2026-11-04T04:32:46Z"
    }
   },
   {
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 15,
-    "newest": "2026-11-04T03:55:13Z"
+    "itemCount": 17,
+    "newest": "2026-11-04T04:43:09Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 14,
-    "newest": "2026-11-04T03:57:24Z"
+    "itemCount": 15,
+    "newest": "2026-11-04T04:37:55Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 22,
-    "newest": "2026-11-04T04:29:53Z"
+    "itemCount": 23,
+    "newest": "2026-11-04T04:46:51Z"
    }
   },
   {
@@ -225,6 +225,38 @@
  ],
  "items": [
   {
+   "id": "6e8eaf32cbab",
+   "source": "carolinajournal",
+   "title": "GOP holds state House District 5 in northeastern NC",
+   "url": "https://www.carolinajournal.com/gop-holds-state-house-district-5-in-northeastern-nc/",
+   "published": "2026-11-04T04:46:51Z",
+   "summary": "The race was among the few competitive state House contests Republicans successfully defended Tuesday. The post GOP holds state House District 5 in northeastern NC appeared first on Carolina Journal ."
+  },
+  {
+   "id": "48041c5e69af",
+   "source": "wfae",
+   "title": "New members headed to Mecklenburg County commission; DA and sheriff win unopposed",
+   "url": "https://www.wfae.org/politics/2026-11-03/new-members-headed-to-mecklenburg-county-commission-da-and-sheriff-win-unopposed",
+   "published": "2026-11-04T04:43:09Z",
+   "summary": "Mecklenburg County will once again have an all-Democratic county commission, with nearly all races in Tuesday's election unopposed and three new members coming to the board. Mecklenburg County Sheriff Garry McFadden and District Attorney Spencer Merriweather, also Democrats…"
+  },
+  {
+   "id": "10e8f3f7383f",
+   "source": "wunc",
+   "title": "Raleigh City Council gets a new face in a night dominated by incumbents",
+   "url": "https://www.wunc.org/politics/2026-11-03/raleigh-city-council-election-results-incumbents",
+   "published": "2026-11-04T04:37:55Z",
+   "summary": "2026 election results for the Raleigh Mayor and City Council."
+  },
+  {
+   "id": "fd138ee1d5d5",
+   "source": "carolinapublicpress",
+   "title": "Ager’s ‘Mountain Democrat’ campaign in far west flips longtime GOP seat",
+   "url": "https://carolinapublicpress.org/82886/ager-mountain-democrat-campaign-in-far-west-flips-longtime-gop-seat/",
+   "published": "2026-11-04T04:32:46Z",
+   "summary": "Ager parlayed farming legacy to victory in rural mountain counties. Anger over GOP response to Helene also a key factor. Ager’s ‘Mountain Democrat’ campaign in far west flips longtime GOP seat is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
+  },
+  {
    "id": "fa1c7bbc895a",
    "source": "carolinajournal",
    "title": "Davis holds seat, Buckhout concedes in NC-1",
@@ -247,6 +279,14 @@
    "url": "https://www.carolinajournal.com/nc-voters-approve-photo-id-tax-amendments/",
    "published": "2026-11-04T03:59:37Z",
    "summary": "NC voters approved all three constitutional amendments on the ballot Tuesday, according to unofficial results from the NC State Board of Elections. The post NC voters approve photo ID, tax amendments appeared first on Carolina Journal ."
+  },
+  {
+   "id": "fcf1971d512b",
+   "source": "wfae",
+   "title": "Anita Earls reelected to state Supreme Court",
+   "url": "https://www.wfae.org/2026-11-03/anita-earls-reelected-to-state-supreme-court",
+   "published": "2026-11-04T03:57:24Z",
+   "summary": "Anita Earls, a former civil rights attorney who founded the Southern Coalition for Social Justice, beat Republican challenger Sarah Stevens, a former State Representative."
   },
   {
    "id": "298fefca6582",
