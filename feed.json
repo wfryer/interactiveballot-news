@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:47:10Z",
+ "generatedAt": "2026-11-04T18:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 10,
-    "newest": "2026-11-04T16:59:02Z"
+    "itemCount": 11,
+    "newest": "2026-11-04T17:48:37Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "f7b38c58a964",
+   "source": "cardinalpine",
+   "title": "Asheville area voters approve $70M in new bonds for housing, open space",
+   "url": "https://cardinalpine.com/local/asheville-voters-housing-open-spaces-bonds/",
+   "published": "2026-11-04T17:48:37Z",
+   "summary": "Buncombe County’s voters have authorized local government to borrow $70 million over the next 20 years for housing and open spaces. The post Asheville area voters approve $70M in new bonds for housing, open space appeared first on Cardinal & Pine ."
+  },
   {
    "id": "fc9d42b93e69",
    "source": "carolinajournal",
