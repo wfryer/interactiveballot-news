@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T01:47:08Z",
+ "generatedAt": "2026-11-04T02:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 34,
-    "newest": "2026-11-03T23:11:35Z"
+    "itemCount": 35,
+    "newest": "2026-11-04T01:28:25Z"
    }
   },
   {
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 10,
-    "newest": "2026-11-04T01:32:43Z"
+    "itemCount": 12,
+    "newest": "2026-11-04T01:56:59Z"
    }
   },
   {
@@ -225,6 +225,22 @@
  ],
  "items": [
   {
+   "id": "36c54edcb02c",
+   "source": "wfae",
+   "title": "Challenger McCool holds early voting lead over incumbent Cotham",
+   "url": "https://www.wfae.org/politics/2026-11-03/challenger-mccool-holds-early-voting-lead-over-incumbent-cotham",
+   "published": "2026-11-04T01:56:59Z",
+   "summary": "Democratic challenger Ken McCool held a large lead in early voting for a key state House seat over Republican incumbent Tricia Cotham."
+  },
+  {
+   "id": "9db113c47441",
+   "source": "wfae",
+   "title": "Constitutional amendments on track to pass in North Carolina",
+   "url": "https://www.wfae.org/politics/2026-11-03/constitutional-amendments-on-track-to-pass-in-north-carolina",
+   "published": "2026-11-04T01:51:46Z",
+   "summary": "Three amendments to the North Carolina Constitution were on track to pass Tuesday: future limits on state income taxes and local property taxes and stricter voter ID requirements for mail-in ballots."
+  },
+  {
    "id": "e584635d3d05",
    "source": "wunc",
    "title": "Democrat Roy Cooper wins U.S. Senate race",
@@ -239,6 +255,14 @@
    "url": "https://www.wfae.org/2026-11-03/democrat-roy-cooper-wins-u-s-senate-race",
    "published": "2026-11-04T01:32:43Z",
    "summary": "Democrat Roy Cooper won North Carolina’s open U.S. Senate seat Tuesday, according to a race call from The Associated Press. Cooper, the former governor, becomes the first Democrat elected to the Senate in North Carolina since 2008."
+  },
+  {
+   "id": "8bec74108e8a",
+   "source": "ncnewsline",
+   "title": "Cooper becomes first Democrat to win US Senate race in NC since 2008",
+   "url": "https://ncnewsline.com/2026/11/03/cooper-becomes-first-democrat-to-win-us-senate-race-in-nc-since-2008/",
+   "published": "2026-11-04T01:28:25Z",
+   "summary": "Former Gov. Roy Cooper has secured North Carolina’s U.S. Senate seat, becoming the first Democrat to win a Senate election in the Tar Heel State since 2008. He appears to have defeated Republican Michael Whatley by about 2-1 in early unofficial returns. The Associated Press…"
   },
   {
    "id": "8e8c0f5a8836",
