@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T15:17:10Z",
+ "generatedAt": "2026-11-04T15:32:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 23,
-    "newest": "2026-11-04T04:46:51Z"
+    "itemCount": 24,
+    "newest": "2026-11-04T15:30:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "3d1b86d15bac",
+   "source": "carolinajournal",
+   "title": "Murphy, defends NC03 against Smith by thin margin",
+   "url": "https://www.carolinajournal.com/murphy-defends-nc03-against-smith-by-thin-margin/",
+   "published": "2026-11-04T15:30:00Z",
+   "summary": "US Rep. Greg Murphy is locked in a neck and neck race with Democratic challenger Raymond Smith Jr. to defend his seat in NC-3. The post Murphy, defends NC03 against Smith by thin margin appeared first on Carolina Journal ."
+  },
   {
    "id": "d3d943e3d50c",
    "source": "wfae",
