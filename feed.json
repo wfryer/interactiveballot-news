@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T05:47:09Z",
+ "generatedAt": "2026-11-04T06:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 38,
-    "newest": "2026-11-04T05:17:35Z"
+    "itemCount": 40,
+    "newest": "2026-11-04T05:54:33Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 17,
-    "newest": "2026-11-04T05:30:55Z"
+    "itemCount": 18,
+    "newest": "2026-11-04T05:44:30Z"
    }
   },
   {
@@ -224,6 +224,30 @@
   }
  ],
  "items": [
+  {
+   "id": "76a02839e079",
+   "source": "ncnewsline",
+   "title": "Democrats sweep Triangle area legislative races",
+   "url": "https://ncnewsline.com/2026/11/04/democrats-sweep-triangle-area-legislative-races/",
+   "published": "2026-11-04T05:54:33Z",
+   "summary": "Strong Democratic turnout turned the Triangle’s legislative delegation solid blue Tuesday night, unseating two Republican House members and a Republican senator in a neighboring county. Voters in southern Wake County opted to flip House District 37, electing newcomer Winn Decker…"
+  },
+  {
+   "id": "4f8d9ebc2fe7",
+   "source": "ncnewsline",
+   "title": "Strong Democratic turnout flips at least 5 US House seats across North Carolina",
+   "url": "https://ncnewsline.com/2026/11/04/strong-democratic-turnout-flips-at-least-5-us-house-seats-across-north-carolina/",
+   "published": "2026-11-04T05:45:39Z",
+   "summary": "In unofficial results from election night, North Carolina voters appear to have ousted half of North Carolina’s Republican U.S. House delegation in a string of upset elections in what were drawn to be safe Republican seats. Rep. Richard Hudson, 9th Congressional District…"
+  },
+  {
+   "id": "975fd0b65a80",
+   "source": "wunc",
+   "title": "Voters approve constitutional amendments around voter ID and capping taxes",
+   "url": "https://www.wunc.org/politics/2026-11-04/voters-approve-constitutional-amendments-around-voter-id-and-capping-taxes",
+   "published": "2026-11-04T05:44:30Z",
+   "summary": "The amendments will expand its voter identification rules, cap the state income tax at 3.5%, and limit property tax increase that local governments can impose."
+  },
   {
    "id": "d1d5bdfcb5bb",
    "source": "wunc",
