@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T12:17:09Z",
+ "generatedAt": "2026-11-04T12:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,7 +74,7 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 19,
+    "itemCount": 20,
     "newest": "2026-11-04T12:02:38Z"
    }
   },
@@ -229,6 +229,14 @@
    "source": "wfae",
    "title": "6 takeaways from Democrats' big wave on election night",
    "url": "https://www.wfae.org/2026-election-voting-news/2026-11-04/6-takeaways-from-democrats-big-wave-on-election-night",
+   "published": "2026-11-04T12:02:38Z",
+   "summary": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping."
+  },
+  {
+   "id": "91dcb10c95bd",
+   "source": "wfae",
+   "title": "6 takeaways from Democrats' big wave on election night",
+   "url": "https://www.wfae.org/politics/2026-11-04/6-takeaways-from-democrats-big-wave-on-election-night",
    "published": "2026-11-04T12:02:38Z",
    "summary": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping."
   },
