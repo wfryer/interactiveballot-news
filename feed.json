@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T02:47:09Z",
+ "generatedAt": "2026-11-04T03:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 2,
-    "newest": "2026-10-30T15:31:13Z"
+    "itemCount": 3,
+    "newest": "2026-11-04T03:22:19Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 14,
-    "newest": "2026-11-04T02:25:08Z"
+    "itemCount": 15,
+    "newest": "2026-11-04T03:25:43Z"
    }
   },
   {
@@ -225,6 +225,22 @@
  ],
  "items": [
   {
+   "id": "dfcaae41b1c4",
+   "source": "carolinajournal",
+   "title": "Democrat leads by 34 votes in western NC House race with all precincts reporting",
+   "url": "https://www.carolinajournal.com/democrat-leads-by-34-votes-in-western-nc-house-race-with-all-precincts-reporting/",
+   "published": "2026-11-04T03:25:43Z",
+   "summary": "The 34-vote margin places the contest well within North Carolina's statutory recount threshold. The post Democrat leads by 34 votes in western NC House race with all precincts reporting appeared first on Carolina Journal ."
+  },
+  {
+   "id": "f052ce078b2f",
+   "source": "carolinapublicpress",
+   "title": "Cooper remains undefeated in NC elections with easy US Senate win",
+   "url": "https://carolinapublicpress.org/82863/cooper-remains-undefeated-in-nc-elections-with-easy-us-senate-win/",
+   "published": "2026-11-04T03:22:19Z",
+   "summary": "President Trump's preferred candidate Michael Whatley faired poorly against former Gov. Roy Cooper on good night for Democrats. Cooper remains undefeated in NC elections with easy US Senate win is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
+  },
+  {
    "id": "b713e113bbec",
    "source": "carolinajournal",
    "title": "Ager projected to flip NC-11",
@@ -235,7 +251,7 @@
   {
    "id": "bce6e398f581",
    "source": "wfae",
-   "title": "Adams coasts to reelection; Democratic challenger Ager flips U.S. House seat in western N.C.",
+   "title": "Democratic challenger Ager flips U.S. House seat in western N.C.; Moore trails in NC-14",
    "url": "https://www.wfae.org/politics/2026-11-03/adams-coasts-to-reelection-democratic-challenger-ager-flips-u-s-house-seat-in-western-n-c",
    "published": "2026-11-04T02:21:16Z",
    "summary": "Incumbent Democratic U.S. Rep. Alma Adams easily won reelection Monday night, and Democratic challenger Jamie Ager flipped a Republican-held district in western North Carolina."
