@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T02:02:09Z",
+ "generatedAt": "2026-11-04T02:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 12,
-    "newest": "2026-11-04T01:56:59Z"
+    "itemCount": 13,
+    "newest": "2026-11-04T02:04:55Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 12,
-    "newest": "2026-11-03T20:55:19Z"
+    "itemCount": 13,
+    "newest": "2026-11-04T02:10:53Z"
    }
   },
   {
@@ -225,6 +225,22 @@
  ],
  "items": [
   {
+   "id": "28db720e9507",
+   "source": "carolinajournal",
+   "title": "Cooper defeats Whatley, flips NC US Senate seat for Democrats",
+   "url": "https://www.carolinajournal.com/cooper-defeats-whatley-flips-nc-us-senate-seat-for-democrats/",
+   "published": "2026-11-04T02:10:53Z",
+   "summary": "For North Carolina, Cooper's election represents another chapter in a political career that has spanned nearly 40 years and six successful statewide elections. The post Cooper defeats Whatley, flips NC US Senate seat for Democrats appeared first on Carolina Journal ."
+  },
+  {
+   "id": "760b0343fab3",
+   "source": "wfae",
+   "title": "City of Charlotte bonds leading with large margins in early results",
+   "url": "https://www.wfae.org/politics/2026-11-03/city-of-charlotte-bonds-leading-with-large-margins-in-early-results",
+   "published": "2026-11-04T02:04:55Z",
+   "summary": "Charlotte voters appeared on their way to approve three bond issues Tuesday, setting the city up to invest hundreds of millions in affordable housing and transportation improvements."
+  },
+  {
    "id": "36c54edcb02c",
    "source": "wfae",
    "title": "Challenger McCool holds early voting lead over incumbent Cotham",
@@ -331,7 +347,7 @@
   {
    "id": "42f4df7e21cc",
    "source": "wunc",
-   "title": "Election Night: First results in - Roy Cooper wins Senate seat",
+   "title": "Election Night: First results in - Roy Cooper wins Senate seat, constitutional amendments with strong lead",
    "url": "https://www.wunc.org/live-updates/midterms-2026-liveblog-cooper-whatley-election-voting",
    "published": "2026-11-03T18:03:37Z",
    "summary": "The 2026 Midterms are here. WUNC News has you covered with last minute voting guides and how to track results as they come in tonight."
