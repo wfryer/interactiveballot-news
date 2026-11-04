@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T12:32:09Z",
+ "generatedAt": "2026-11-04T13:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,7 +74,7 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 20,
+    "itemCount": 21,
     "newest": "2026-11-04T12:02:38Z"
    }
   },
@@ -245,6 +245,14 @@
    "source": "wfae",
    "title": "These 9 candidates for governor just made history",
    "url": "https://www.wfae.org/united-states-world/2026-11-04/these-9-candidates-for-governor-just-made-history",
+   "published": "2026-11-04T10:00:00Z",
+   "summary": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor."
+  },
+  {
+   "id": "7d0de101915b",
+   "source": "wfae",
+   "title": "These 9 candidates for governor just made history",
+   "url": "https://www.wfae.org/politics/2026-11-04/these-9-candidates-for-governor-just-made-history",
    "published": "2026-11-04T10:00:00Z",
    "summary": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor."
   },
