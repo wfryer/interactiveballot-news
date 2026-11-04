@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T04:47:08Z",
+ "generatedAt": "2026-11-04T05:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 15,
-    "newest": "2026-11-04T04:37:55Z"
+    "itemCount": 16,
+    "newest": "2026-11-04T04:53:55Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "9eae8dd24da7",
+   "source": "wunc",
+   "title": "U.S. Congressman Tim Moore, a longtime fixture of NC politics, defeated in reelection bid",
+   "url": "https://www.wunc.org/politics/2026-11-03/congressman-tim-moore-defeated-2026-midterm",
+   "published": "2026-11-04T04:53:55Z",
+   "summary": "Before moving to Congress, Moore was the longest-sitting Speaker of the N.C. House of Representatives."
+  },
   {
    "id": "6e8eaf32cbab",
    "source": "carolinajournal",
