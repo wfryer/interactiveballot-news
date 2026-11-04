@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T22:47:09Z",
+ "generatedAt": "2026-11-04T23:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-04T22:00:59Z"
+    "newest": "2026-11-04T23:00:19Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "f124623263cf",
+   "source": "ncnewsline",
+   "title": "US Reps. Hudson and McDowell concede races in 2 of NC’s most stunning election upsets",
+   "url": "https://ncnewsline.com/2026/11/04/us-reps-hudson-and-mcdowell-concede-races-in-2-of-ncs-most-stunning-election-upsets/",
+   "published": "2026-11-04T23:00:19Z",
+   "summary": "Two Republican members of North Carolina’s congressional delegation acknowledged Wednesday there was no path to victory in their respective districts after Tuesday’s midterm elections. Both were in districts widely considered to be safe Republican seats and were not expected to…"
+  },
   {
    "id": "308e67ea01d7",
    "source": "wunc",
@@ -1418,14 +1426,6 @@
    "published": "2026-10-19T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "1f2432798123",
-   "source": "ncnewsline",
-   "title": "A tale of two farmers: Ager, Balkcom compete for NC-11 seat",
-   "url": "https://ncnewsline.com/2026/10/19/a-tale-of-two-farmers-ager-balkcom-compete-for-nc-11-seat/",
-   "published": "2026-10-19T10:00:53Z",
-   "summary": "The contest could play a pivotal role in the control of the U.S. House."
   },
   {
    "id": "e794294092b7",
