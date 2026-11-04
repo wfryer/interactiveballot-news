@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T15:32:16Z",
+ "generatedAt": "2026-11-04T16:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 24,
-    "newest": "2026-11-04T12:02:38Z"
+    "itemCount": 26,
+    "newest": "2026-11-04T15:44:34Z"
    }
   },
   {
@@ -225,12 +225,36 @@
  ],
  "items": [
   {
+   "id": "ec235dc1ea4d",
+   "source": "wfae",
+   "title": "Rock Hill elects three new school board members",
+   "url": "https://www.wfae.org/politics/2026-11-04/rock-hill-elects-three-new-school-board-members",
+   "published": "2026-11-04T15:44:34Z",
+   "summary": "Three new members will join the Rock Hill school board after no incumbents sought reelection for the seats on Tuesday’s ballot.Zach Oxendine, Matt Hiers and Tyler Williams received the most votes in their respective school board races.The Rock Hill school district is the…"
+  },
+  {
+   "id": "3afcc2e05f5b",
+   "source": "wfae",
+   "title": "Charlotte voters approve $425 million bond package, but measures fail in nearby counties",
+   "url": "https://www.wfae.org/politics/2026-11-04/charlotte-voters-approve-425-million-bond-package-but-measures-fail-in-nearby-counties",
+   "published": "2026-11-04T15:42:53Z",
+   "summary": "Charlotte voters approved all three general obligation bond referendums Tuesday, totaling $425 million."
+  },
+  {
    "id": "3d1b86d15bac",
    "source": "carolinajournal",
    "title": "Murphy, defends NC03 against Smith by thin margin",
    "url": "https://www.carolinajournal.com/murphy-defends-nc03-against-smith-by-thin-margin/",
    "published": "2026-11-04T15:30:00Z",
    "summary": "US Rep. Greg Murphy is locked in a neck and neck race with Democratic challenger Raymond Smith Jr. to defend his seat in NC-3. The post Murphy, defends NC03 against Smith by thin margin appeared first on Carolina Journal ."
+  },
+  {
+   "id": "60b1d2781d26",
+   "source": "wfae",
+   "title": "Election Results: Analysis and insights from the 2026 midterm election",
+   "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-03/election-results-analysis-and-insights-from-the-2026-midterm-election",
+   "published": "2026-11-04T14:00:00Z",
+   "summary": "Voting is complete and the results are in, so what do we know about the midterm elections locally and beyond? From consequential and competitive congressional and state office races to down ballot issues on constitutional amendments and city bond proposals, how did it all pan…"
   },
   {
    "id": "d3d943e3d50c",
@@ -679,14 +703,6 @@
    "url": "https://www.wfae.org/2026-11-03/federal-election-monitors-present-in-three-nc-counties",
    "published": "2026-11-03T17:31:10Z",
    "summary": "Federal election monitors are present in Alamance, Wake and Mecklenburg counties today. State election officials say their presence is routine and shouldn't alarm voters."
-  },
-  {
-   "id": "60b1d2781d26",
-   "source": "wfae",
-   "title": "Election Results: Analysis and insights from the 2026 midterm election",
-   "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-03/election-results-analysis-and-insights-from-the-2026-midterm-election",
-   "published": "2026-11-03T15:58:37Z",
-   "summary": "Voting is complete and the results are in, so what do we know about the midterm elections locally and beyond? From consequential and competitive congressional and state office races to down ballot issues on constitutional amendments and city bond proposals, how did it all pan…"
   },
   {
    "id": "37d0d6ad59c5",
