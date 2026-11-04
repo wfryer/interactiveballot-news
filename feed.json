@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T21:17:09Z",
+ "generatedAt": "2026-11-04T21:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-04T20:47:20Z"
+    "newest": "2026-11-04T21:10:51Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 28,
-    "newest": "2026-11-04T21:06:06Z"
+    "itemCount": 29,
+    "newest": "2026-11-04T21:27:40Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "00ab830ae159",
+   "source": "carolinajournal",
+   "title": "NC House, Senate majorities take shape as close races remain unresolved",
+   "url": "https://www.carolinajournal.com/nc-house-senate-majorities-take-shape-as-close-races-remain-unresolved/",
+   "published": "2026-11-04T21:27:40Z",
+   "summary": "Unofficial results project a 71-seat Democratic House majority and a 26-24 Republican Senate edge, with six legislative races in recount range. The post NC House, Senate majorities take shape as close races remain unresolved appeared first on Carolina Journal ."
+  },
+  {
+   "id": "72a77d8fbf44",
+   "source": "ncnewsline",
+   "title": "‘Wow. Just… wow’: Political scientist Chris Cooper on North Carolina’s historic 2026 midterms",
+   "url": "https://ncnewsline.com/2026/11/04/wow-just-wow-political-scientist-chris-cooper-on-north-carolinas-historic-2026-midterms/",
+   "published": "2026-11-04T21:10:51Z",
+   "summary": "Tectonic. Generational. A Blue-nami. A bloodbath. Just a few of the terms out there today as people in North Carolina, around the country — and around the world — try to make sense of what just happened in American politics. North Carolina had arguably one of the biggest shifts…"
+  },
   {
    "id": "b0b9f06c19da",
    "source": "carolinajournal",
@@ -1384,14 +1400,6 @@
    "url": "https://ncnewsline.com/2026/10/17/from-protest-to-the-polls-no-kings-organizers-make-push-for-early-voting-in-nc/",
    "published": "2026-10-18T00:18:23Z",
    "summary": "Under gloomy skies and light rain, a crowd gathered outside Wake Forest Town Hall Saturday, holding homemade signs and occasionally erupting with applause as speakers urged them to turn their opposition to the Trump administration into action at the ballot box. “Do we believe in…"
-  },
-  {
-   "id": "8acd90de9a87",
-   "source": "ncnewsline",
-   "title": "New polling site puts NC State students farther from the ballot box",
-   "url": "https://ncnewsline.com/2026/10/15/new-polling-site-puts-nc-state-students-farther-from-the-ballot-box/",
-   "published": "2026-10-15T23:27:21Z",
-   "summary": "For N.C. State senior Joshua Ni, voting early meant fitting a ballot into the rhythm of campus life. But earlier this year, the polling place he used in 2024 was moved from the Talley Student Union, making the trip less convenient for Ni and other students who might otherwise…"
   },
   {
    "id": "e794294092b7",
