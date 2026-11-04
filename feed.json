@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T23:02:08Z",
+ "generatedAt": "2026-11-04T23:47:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 30,
-    "newest": "2026-11-04T20:56:38Z"
+    "itemCount": 31,
+    "newest": "2026-11-04T23:36:09Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 22,
-    "newest": "2026-11-04T22:39:24Z"
+    "itemCount": 23,
+    "newest": "2026-11-04T23:41:15Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "cfcff7b7afb0",
+   "source": "wunc",
+   "title": "In post-election remarks, NC Gov. Stein calls for compromise with General Assembly",
+   "url": "https://www.wunc.org/politics/2026-11-04/in-post-election-remarks-nc-gov-stein-calls-for-compromise-with-general-assembly",
+   "published": "2026-11-04T23:41:15Z",
+   "summary": "Democrats flipped the N.C. House for the first time since 2010 and almost flipped the N.C. Senate, too."
+  },
+  {
+   "id": "7e53fc09f156",
+   "source": "wfae",
+   "title": "How LaKesha Womack's $56,000 campaign (and President Trump) sunk powerful Republican Tim Moore",
+   "url": "https://www.wfae.org/politics/2026-11-04/how-lakesha-womacks-56-000-campaign-and-president-trump-sunk-powerful-republican-tim-moore",
+   "published": "2026-11-04T23:36:09Z",
+   "summary": "North Carolina's congressional delegation could change from Republicans having 10 of 14 seats to Democrats having 10 of 14 seats."
+  },
   {
    "id": "f124623263cf",
    "source": "ncnewsline",
