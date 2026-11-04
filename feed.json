@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T03:32:09Z",
+ "generatedAt": "2026-11-04T03:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 15,
-    "newest": "2026-11-04T03:25:43Z"
+    "itemCount": 17,
+    "newest": "2026-11-04T03:41:12Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "84e439ccbf3d",
+   "source": "carolinajournal",
+   "title": "Republicans lose Senate District 34 in Cabarrus County",
+   "url": "https://www.carolinajournal.com/republicans-lose-senate-district-34-in-cabarrus-county/",
+   "published": "2026-11-04T03:41:12Z",
+   "summary": "With all precincts reporting, Cook secured 46,750 votes, or 57.66%; while Crutchfield had 34,328, or 42.34% of the vote. The post Republicans lose Senate District 34 in Cabarrus County appeared first on Carolina Journal ."
+  },
+  {
+   "id": "9974251f40eb",
+   "source": "carolinajournal",
+   "title": "Russo flips NC House District 117, Balkcom’s seat",
+   "url": "https://www.carolinajournal.com/russo-flips-nc-house-district-117-balkcoms-seat/",
+   "published": "2026-11-04T03:32:29Z",
+   "summary": "Democrat Lynne Russo defeated Republican Chelsea Walsh by 1,530 votes in North Carolina House District 117, flipping a Henderson County seat after a late Republican candidate change reshaped the race. The post Russo flips NC House District 117, Balkcom’s seat appeared first on…"
+  },
   {
    "id": "dfcaae41b1c4",
    "source": "carolinajournal",
