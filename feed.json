@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T15:02:10Z",
+ "generatedAt": "2026-11-04T15:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,7 +74,7 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 23,
+    "itemCount": 24,
     "newest": "2026-11-04T12:02:38Z"
    }
   },
@@ -239,6 +239,14 @@
    "url": "https://www.wfae.org/politics/2026-11-04/6-takeaways-from-democrats-big-wave-on-election-night",
    "published": "2026-11-04T12:02:38Z",
    "summary": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping."
+  },
+  {
+   "id": "f63087c64086",
+   "source": "wfae",
+   "title": "These 10 candidates for governor made history in the 2026 election",
+   "url": "https://www.wfae.org/politics/2026-11-04/these-10-candidates-for-governor-made-history-in-the-2026-election",
+   "published": "2026-11-04T10:00:00Z",
+   "summary": "Voters on Tuesday elected the nation's first Black woman governor and the nation's first Native American woman governor."
   },
   {
    "id": "cd886ea7bf45",
