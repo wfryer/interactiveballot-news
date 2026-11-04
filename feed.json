@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T05:02:08Z",
+ "generatedAt": "2026-11-04T05:32:11Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 37,
-    "newest": "2026-11-04T03:50:48Z"
+    "itemCount": 38,
+    "newest": "2026-11-04T05:17:35Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "563b1abe7c80",
+   "source": "ncnewsline",
+   "title": "US Rep. Don Davis defeats Republican Laurie Buckhout in rematch for NC’s 1st Congressional District",
+   "url": "https://ncnewsline.com/2026/11/04/us-rep-don-davis-defeats-republican-laurie-buckhout-in-rematch-for-ncs-1st-congressional-district/",
+   "published": "2026-11-04T05:17:35Z",
+   "summary": "Democratic U.S. Rep. Don Davis is headed back to Washington after defeating Republican challenger Laurie Buckhout in the most expensive U.S. House race in general election history. With all 290 precincts reporting, Davis received just under 50% of the vote to Buckhout’s 47%…"
+  },
   {
    "id": "9eae8dd24da7",
    "source": "wunc",
@@ -523,7 +531,7 @@
   {
    "id": "42f4df7e21cc",
    "source": "wunc",
-   "title": "Democrats overperform in elections across North Carolina; Cooper easily wins Senate seat; Democrats on verge of flipping N.C. House",
+   "title": "In blue wave election, Democrats win Senate, flip N.C. House, overperform across the ballot",
    "url": "https://www.wunc.org/live-updates/midterms-2026-liveblog-cooper-whatley-election-voting",
    "published": "2026-11-03T18:03:37Z",
    "summary": "The 2026 Midterms are here. WUNC News has all the results you need to follow on Election Night."
