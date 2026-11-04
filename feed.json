@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T21:32:09Z",
+ "generatedAt": "2026-11-04T22:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-04T21:10:51Z"
+    "newest": "2026-11-04T22:00:59Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a23d080f7fbc",
+   "source": "ncnewsline",
+   "title": "With Democrats taking control of Congress, Stein hopes for more Western NC recovery funds",
+   "url": "https://ncnewsline.com/2026/11/04/with-democrats-taking-control-of-congress-stein-hopes-for-more-western-nc-recovery-funds/",
+   "published": "2026-11-04T22:00:59Z",
+   "summary": "North Carolina will send more Democrats than Republicans to Congress next year."
+  },
   {
    "id": "00ab830ae159",
    "source": "carolinajournal",
@@ -1392,14 +1400,6 @@
    "url": "https://ncnewsline.com/2026/10/19/a-tale-of-two-farmers-ager-balkcom-compete-for-nc-11-seat/",
    "published": "2026-10-19T10:00:53Z",
    "summary": "The contest could play a pivotal role in the control of the U.S. House."
-  },
-  {
-   "id": "eb1facd525b4",
-   "source": "ncnewsline",
-   "title": "From protest to the polls, No Kings organizers make push for early voting in NC",
-   "url": "https://ncnewsline.com/2026/10/17/from-protest-to-the-polls-no-kings-organizers-make-push-for-early-voting-in-nc/",
-   "published": "2026-10-18T00:18:23Z",
-   "summary": "Under gloomy skies and light rain, a crowd gathered outside Wake Forest Town Hall Saturday, holding homemade signs and occasionally erupting with applause as speakers urged them to turn their opposition to the Trump administration into action at the ballot box. “Do we believe in…"
   },
   {
    "id": "e794294092b7",
