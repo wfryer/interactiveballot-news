@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T02:17:09Z",
+ "generatedAt": "2026-11-04T02:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -44,8 +44,8 @@
    "homepage": "https://ncnewsline.com",
    "status": {
     "state": "ok",
-    "itemCount": 35,
-    "newest": "2026-11-04T01:28:25Z"
+    "itemCount": 36,
+    "newest": "2026-11-04T02:00:46Z"
    }
   },
   {
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 13,
-    "newest": "2026-11-04T02:04:55Z"
+    "itemCount": 14,
+    "newest": "2026-11-04T02:21:16Z"
    }
   },
   {
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 13,
-    "newest": "2026-11-04T02:10:53Z"
+    "itemCount": 14,
+    "newest": "2026-11-04T02:25:08Z"
    }
   },
   {
@@ -225,6 +225,22 @@
  ],
  "items": [
   {
+   "id": "b713e113bbec",
+   "source": "carolinajournal",
+   "title": "Ager projected to flip NC-11",
+   "url": "https://www.carolinajournal.com/ager-projected-to-flip-nc-11/",
+   "published": "2026-11-04T02:25:08Z",
+   "summary": "Democrat defeats Balkcom after a late Republican candidate change in a race shaped by Helene recovery and a fundraising gap. The post Ager projected to flip NC-11 appeared first on Carolina Journal ."
+  },
+  {
+   "id": "bce6e398f581",
+   "source": "wfae",
+   "title": "Adams coasts to reelection; Democratic challenger Ager flips U.S. House seat in western N.C.",
+   "url": "https://www.wfae.org/politics/2026-11-03/adams-coasts-to-reelection-democratic-challenger-ager-flips-u-s-house-seat-in-western-n-c",
+   "published": "2026-11-04T02:21:16Z",
+   "summary": "Incumbent Democratic U.S. Rep. Alma Adams easily won reelection Monday night, and Democratic challenger Jamie Ager flipped a Republican-held district in western North Carolina."
+  },
+  {
    "id": "28db720e9507",
    "source": "carolinajournal",
    "title": "Cooper defeats Whatley, flips NC US Senate seat for Democrats",
@@ -239,6 +255,14 @@
    "url": "https://www.wfae.org/politics/2026-11-03/city-of-charlotte-bonds-leading-with-large-margins-in-early-results",
    "published": "2026-11-04T02:04:55Z",
    "summary": "Charlotte voters appeared on their way to approve three bond issues Tuesday, setting the city up to invest hundreds of millions in affordable housing and transportation improvements."
+  },
+  {
+   "id": "fd308da3e828",
+   "source": "ncnewsline",
+   "title": "Democrat Jamie Ager flips western North Carolina US House seat",
+   "url": "https://ncnewsline.com/2026/11/03/democrat-jamie-ager-flips-western-north-carolina-us-house-seat/",
+   "published": "2026-11-04T02:00:46Z",
+   "summary": "Democrat Jamie Ager appears to have won North Carolina’s 11th Congressional District, flipping the seat. Ager, the owner of Hickory Nut Gap Farm in Fairview, defeated state Rep. Jennifer Balkcom, a Republican from Hendersonville. The Associated Press called the race at 8:55 p.m…"
   },
   {
    "id": "36c54edcb02c",
