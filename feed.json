@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T22:32:08Z",
+ "generatedAt": "2026-11-04T22:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 21,
-    "newest": "2026-11-04T20:11:07Z"
+    "itemCount": 22,
+    "newest": "2026-11-04T22:39:24Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "308e67ea01d7",
+   "source": "wunc",
+   "title": "Alamance County voters oust controversial Sheriff Terry Johnson after six terms",
+   "url": "https://www.wunc.org/politics/2026-11-04/alamance-county-voters-oust-sheriff-terry-johnson",
+   "published": "2026-11-04T22:39:24Z",
+   "summary": "Alamance County voters unseated Sheriff Terry Johnson, who oversaw a tenure with controversies and accusations of racism."
+  },
   {
    "id": "a23d080f7fbc",
    "source": "ncnewsline",
