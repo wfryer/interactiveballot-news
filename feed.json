@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T07:02:08Z",
+ "generatedAt": "2026-11-04T07:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 5,
-    "newest": "2026-11-04T04:32:46Z"
+    "itemCount": 6,
+    "newest": "2026-11-04T07:03:59Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "ddcd1f7d3d91",
+   "source": "carolinapublicpress",
+   "title": "GOP gerrymander backfires in NC, as state’s congressional map goes blue",
+   "url": "https://carolinapublicpress.org/82900/gop-gerrymander-backfires-in-nc-as-states-congressional-map-goes-blue/",
+   "published": "2026-11-04T07:03:59Z",
+   "summary": "Not only did gerrymander not rip away Don Davis' congressional seat, but NC Republicans assumed to be safe ended up losing. GOP gerrymander backfires in NC, as state’s congressional map goes blue is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
+  },
   {
    "id": "6a7b04512086",
    "source": "ncnewsline",
