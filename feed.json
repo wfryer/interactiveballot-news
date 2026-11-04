@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T18:02:08Z",
+ "generatedAt": "2026-11-04T18:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 26,
-    "newest": "2026-11-04T15:44:34Z"
+    "itemCount": 27,
+    "newest": "2026-11-04T15:51:31Z"
    }
   },
   {
@@ -263,6 +263,14 @@
    "url": "https://www.wunc.org/politics/2026-11-04/trump-backed-republican-redistricting-midterm-edge",
    "published": "2026-11-04T16:17:56Z",
    "summary": "Republicans' plan to redraw congressional districts to their advantage has failed to work in the midterm elections. President Donald Trump urged fellow Republicans last year to reshape U.S. House districts to try to hold onto a slim House majority."
+  },
+  {
+   "id": "39a9d45e517b",
+   "source": "wfae",
+   "title": "Guilford voters pass quarter-cent local sales tax",
+   "url": "https://www.wfae.org/2026-11-04/guilford-voters-pass-quarter-cent-local-sales-tax",
+   "published": "2026-11-04T15:51:31Z",
+   "summary": "The measure, which states that the sales tax revenue will largely fund teacher salary supplements, passed with 63% of voters supporting it."
   },
   {
    "id": "ec235dc1ea4d",
