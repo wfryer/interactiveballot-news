@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T21:02:09Z",
+ "generatedAt": "2026-11-04T21:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 27,
-    "newest": "2026-11-04T19:10:37Z"
+    "itemCount": 28,
+    "newest": "2026-11-04T21:06:06Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "b0b9f06c19da",
+   "source": "carolinajournal",
+   "title": "NRCC Chair Richard Hudson unseated, flipping NC-9 blue",
+   "url": "https://www.carolinajournal.com/nrcc-chair-richard-hudson-unseated-flipping-nc-9-blue/",
+   "published": "2026-11-04T21:06:06Z",
+   "summary": "Ojeda unseats NRCC chair US Rep. Richard Hudson, flipping NC09 blue. The post NRCC Chair Richard Hudson unseated, flipping NC-9 blue appeared first on Carolina Journal ."
+  },
   {
    "id": "fdba5eb58ab5",
    "source": "wfae",
