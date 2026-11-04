@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T18:45:14Z",
+ "generatedAt": "2026-11-04T19:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 26,
-    "newest": "2026-11-04T17:30:00Z"
+    "itemCount": 27,
+    "newest": "2026-11-04T19:10:37Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "070f1a77e4ec",
+   "source": "carolinajournal",
+   "title": "Burrows flips NC House District 119",
+   "url": "https://www.carolinajournal.com/burrows-flips-nc-house-district-119/",
+   "published": "2026-11-04T19:10:37Z",
+   "summary": "Democrat Mark Burrows defeated Republican state Rep. Anna Ferguson in North Carolina House District 119, according to unofficial returns, winning the mountain district after campaigning on affordability, public education, and Hurricane Helene recovery. The post Burrows flips NC…"
+  },
   {
    "id": "f7b38c58a964",
    "source": "cardinalpine",
@@ -435,10 +443,10 @@
   {
    "id": "6e8eaf32cbab",
    "source": "carolinajournal",
-   "title": "GOP holds state House District 5 in northeastern NC",
+   "title": "Davis ousts Ward, flips northeastern NC House seat",
    "url": "https://www.carolinajournal.com/gop-holds-state-house-district-5-in-northeastern-nc/",
    "published": "2026-11-04T04:46:51Z",
-   "summary": "The race was among the few competitive state House contests Republicans successfully defended Tuesday. The post GOP holds state House District 5 in northeastern NC appeared first on Carolina Journal ."
+   "summary": "Democratic challenger Sam Davis III defeated two-term Republican incumbent Rep. Bill Ward in NC House District 5, according to unofficial election results from the NCSBE. The post Davis ousts Ward, flips northeastern NC House seat appeared first on Carolina Journal ."
   },
   {
    "id": "48041c5e69af",
