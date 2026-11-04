@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T14:02:08Z",
+ "generatedAt": "2026-11-04T14:17:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -103,10 +103,9 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "error",
+    "state": "ok",
     "itemCount": 23,
-    "newest": "2026-11-04T04:46:51Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
+    "newest": "2026-11-04T04:46:51Z"
    }
   },
   {
@@ -564,10 +563,10 @@
   {
    "id": "8e8c0f5a8836",
    "source": "cardinalpine",
-   "title": "North Carolina’s 2026 election: Roy Cooper, Jamie Ager, Anita Earls win",
+   "title": "North Carolina’s 2026 election: Democrats’ big night keep getting bigger",
    "url": "https://cardinalpine.com/news/elections/north-carolina-2026-election-results/",
    "published": "2026-11-04T01:15:00Z",
-   "summary": "Democrats are off to a very strong start in North Carolina. The post North Carolina’s 2026 election: Roy Cooper, Jamie Ager, Anita Earls win appeared first on Cardinal & Pine ."
+   "summary": "Democrats claimed big wins in the US Senate, US House, the courts, and won a majority in one chamber of the NC General Assembly. The post North Carolina’s 2026 election: Democrats’ big night keep getting bigger appeared first on Cardinal & Pine ."
   },
   {
    "id": "2023e83d7ee6",
