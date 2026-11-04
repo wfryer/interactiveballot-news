@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T04:17:09Z",
+ "generatedAt": "2026-11-04T04:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 21,
-    "newest": "2026-11-04T04:00:00Z"
+    "itemCount": 22,
+    "newest": "2026-11-04T04:29:53Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "fa1c7bbc895a",
+   "source": "carolinajournal",
+   "title": "Davis holds seat, Buckhout concedes in NC-1",
+   "url": "https://www.carolinajournal.com/davis-holds-seat-buckhout-concedes-in-nc-1/",
+   "published": "2026-11-04T04:29:53Z",
+   "summary": "US Rep. Don Davis, D-NC1, is projected to hold his seat after the most expensive race in US House history. The post Davis holds seat, Buckhout concedes in NC-1 appeared first on Carolina Journal ."
+  },
   {
    "id": "bd6a18fac13d",
    "source": "carolinajournal",
