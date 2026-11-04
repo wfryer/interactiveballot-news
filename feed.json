@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:32:11Z",
+ "generatedAt": "2026-11-04T17:02:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 9,
-    "newest": "2026-11-04T01:15:00Z"
+    "itemCount": 10,
+    "newest": "2026-11-04T16:59:02Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "c4350d105f9c",
+   "source": "cardinalpine",
+   "title": "North Carolina voters pass all 3 constitutional amendments on ballot",
+   "url": "https://cardinalpine.com/news/north-carolina-constitutional-amendments-2/",
+   "published": "2026-11-04T16:59:02Z",
+   "summary": "The amendments authorize lawmakers to impose limits on local governments’ power to raise property taxes, cap the state income tax, and require photo ID for all voters — not just those voting in person. The post North Carolina voters pass all 3 constitutional amendments on ballot…"
+  },
   {
    "id": "2d95dd2cde44",
    "source": "wunc",
@@ -619,10 +627,10 @@
   {
    "id": "8e8c0f5a8836",
    "source": "cardinalpine",
-   "title": "North Carolina’s 2026 election: Democrats’ big night keep getting bigger",
+   "title": "North Carolina’s 2026 election: Democrats’ big night keeps getting bigger",
    "url": "https://cardinalpine.com/news/elections/north-carolina-2026-election-results/",
    "published": "2026-11-04T01:15:00Z",
-   "summary": "Democrats claimed big wins in the US Senate, US House, the courts, and won a majority in one chamber of the NC General Assembly. The post North Carolina’s 2026 election: Democrats’ big night keep getting bigger appeared first on Cardinal & Pine ."
+   "summary": "Democrats claimed big wins in the US Senate, US House, the courts, and won a majority in one chamber of the NC General Assembly. The post North Carolina’s 2026 election: Democrats’ big night keeps getting bigger appeared first on Cardinal & Pine ."
   },
   {
    "id": "2023e83d7ee6",
