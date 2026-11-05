@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T20:47:23Z",
+ "generatedAt": "2026-11-05T21:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 12,
-    "newest": "2026-11-05T20:20:13Z"
+    "itemCount": 13,
+    "newest": "2026-11-05T20:57:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "08d5064b1d39",
+   "source": "cardinalpine",
+   "title": "This fact shows how impressive Roy Cooper’s US Senate victory was",
+   "url": "https://cardinalpine.com/news/roy-coopers-us-senate-victory/",
+   "published": "2026-11-05T20:57:00Z",
+   "summary": "US Sen.-elect Roy Cooper received 1.728 million early votes, enough to win even if he hadn't received a single vote on Election Day. The post This fact shows how impressive Roy Cooper’s US Senate victory was appeared first on Cardinal & Pine ."
+  },
   {
    "id": "434eaed6a12c",
    "source": "cardinalpine",
