@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T20:32:08Z",
+ "generatedAt": "2026-11-05T20:47:23Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 34,
-    "newest": "2026-11-05T16:16:11Z"
+    "itemCount": 35,
+    "newest": "2026-11-05T20:00:41Z"
    }
   },
   {
@@ -231,6 +231,14 @@
    "url": "https://cardinalpine.com/news/good-news-friday-turnout-north-carolina/",
    "published": "2026-11-05T20:20:13Z",
    "summary": "North Carolina turnout hasn't been this high since 1990. Plus, a post-Helene rescue mission and a state park gets bigger and prettier. The post Why North Carolina’s midterm turnout was so astonishing appeared first on Cardinal & Pine ."
+  },
+  {
+   "id": "867c74fe5674",
+   "source": "wfae",
+   "title": "After voters pass amendments, public school advocates brace for effects of new tax limits",
+   "url": "https://www.wfae.org/2026-11-05/constitutional-amendment-tax-limit-public-schools",
+   "published": "2026-11-05T20:00:41Z",
+   "summary": "Public school advocates say they worry what the new tax limits will mean for public schools, which they say are already underfunded."
   },
   {
    "id": "c0c9d57241bd",
