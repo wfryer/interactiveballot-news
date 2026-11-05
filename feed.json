@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T21:17:09Z",
+ "generatedAt": "2026-11-05T21:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 13,
-    "newest": "2026-11-05T20:57:00Z"
+    "itemCount": 14,
+    "newest": "2026-11-05T21:30:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2aba460238fe",
+   "source": "cardinalpine",
+   "title": "The aftermath of the 2026 midterm elections in North Carolina",
+   "url": "https://cardinalpine.com/news/elections/2026-elections-north-carolina/",
+   "published": "2026-11-05T21:30:00Z",
+   "summary": "The 2026 midterms saw victories across North Carolina and the US for Democrats. Democrats now control both the US House and Senate in a repudiation of President Donald Trump’s agenda. Next year, Democrats are poised to lead the NC House of Representatives for the first time…"
+  },
   {
    "id": "08d5064b1d39",
    "source": "cardinalpine",
