@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T13:47:09Z",
+ "generatedAt": "2026-11-05T14:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-04T23:00:19Z"
+    "newest": "2026-11-05T14:14:06Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a307a7e29c05",
+   "source": "ncnewsline",
+   "title": "NC Democrats will have more power next year, but must first face a GOP-controlled lame duck session",
+   "url": "https://ncnewsline.com/2026/11/05/nc-democrats-will-have-more-power-next-year-but-must-first-face-a-gop-controlled-lame-duck-session/",
+   "published": "2026-11-05T14:14:06Z",
+   "summary": "Next year, North Carolina Democrats will have more political power than they’ve had since 2010, with a commanding majority in the House and the governorship. As anticipated, Rep. Robert Reives, D-Chatham, who has led the House Democrats since 2021, announced he would seek the…"
+  },
   {
    "id": "1afdda97ac9c",
    "source": "wfae",
@@ -1449,14 +1457,6 @@
    "url": "https://ncnewsline.com/2026/10/19/trump-heads-to-greenville-as-nc-republicans-struggle-with-early-voter-turnout/",
    "published": "2026-10-19T20:02:07Z",
    "summary": "President Donald Trump will hold a campaign rally Tuesday in Greenville, following an appearance Monday by Vice President JD Vance at the other end of the state in Hendersonville. They’re aiming to increase Republican voter turnout in two key Congressional races and North…"
-  },
-  {
-   "id": "d2f1522fdcd3",
-   "source": "ncnewsline",
-   "title": "NC Budget and Tax Center’s Alexandra Sirota on a trio of proposed constitutional amendments",
-   "url": "https://ncnewsline.com/2026/10/19/nc-budget-and-tax-centers-alexandra-sirota-on-a-trio-of-proposed-constitutional-amendments-2/",
-   "published": "2026-10-19T13:00:54Z",
-   "summary": "The latest public opinion survey shows generally strong support amongst voters for a trio of proposed constitutional amendments that will appear on the North Carolina ballot this fall that address incomes taxes, property taxes and voter photo ID. However, Alexandra Sirota, the…"
   },
   {
    "id": "775edea7d44a",
