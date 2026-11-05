@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T04:17:10Z",
+ "generatedAt": "2026-11-05T04:32:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -106,7 +106,7 @@
     "state": "error",
     "itemCount": 30,
     "newest": "2026-11-05T00:22:00Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 403: Forbidden"
+    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
    }
   },
   {
