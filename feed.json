@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T21:02:10Z",
+ "generatedAt": "2026-11-05T21:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-05T14:14:06Z"
+    "newest": "2026-11-05T20:54:47Z"
    }
   },
   {
@@ -231,6 +231,14 @@
    "url": "https://cardinalpine.com/news/roy-coopers-us-senate-victory/",
    "published": "2026-11-05T20:57:00Z",
    "summary": "US Sen.-elect Roy Cooper received 1.728 million early votes, enough to win even if he hadn't received a single vote on Election Day. The post This fact shows how impressive Roy Cooper’s US Senate victory was appeared first on Cardinal & Pine ."
+  },
+  {
+   "id": "5aa33ecbc3ee",
+   "source": "ncnewsline",
+   "title": "Unlikely political newcomer unseats NC powerhouse despite big challenges",
+   "url": "https://ncnewsline.com/2026/11/05/unlikely-political-newcomer-unseats-nc-powerhouse-despite-big-challenges/",
+   "published": "2026-11-05T20:54:47Z",
+   "summary": "LaKesha Womack is anything but a textbook political candidate. She had never run for office before, had very little funding or outside support, and had even been unhoused at one point. She also has an outstanding felony charge that could theoretically leave her unable to vote in…"
   },
   {
    "id": "434eaed6a12c",
@@ -484,10 +492,10 @@
   {
    "id": "3d1b86d15bac",
    "source": "carolinajournal",
-   "title": "Murphy, defends NC-3 against Smith by thin margin",
+   "title": "Murphy defends NC-3 against Smith by thin margin",
    "url": "https://www.carolinajournal.com/murphy-defends-nc03-against-smith-by-thin-margin/",
    "published": "2026-11-04T15:30:00Z",
-   "summary": "US Rep. Greg Murphy is locked in a neck and neck race with Democratic challenger Raymond Smith Jr. to defend his seat in NC-3. The post Murphy, defends NC-3 against Smith by thin margin appeared first on Carolina Journal ."
+   "summary": "US Rep. Greg Murphy is locked in a neck and neck race with Democratic challenger Raymond Smith Jr. to defend his seat in NC-3. The post Murphy defends NC-3 against Smith by thin margin appeared first on Carolina Journal ."
   },
   {
    "id": "60b1d2781d26",
@@ -1490,14 +1498,6 @@
    "url": "https://ncnewsline.com/2026/10/19/vance-touts-858m-in-helene-relief-funding-for-western-north-carolina/",
    "published": "2026-10-19T22:02:29Z",
    "summary": "Vance’s event is part of the White House’s push to encourage GOP turnout this election cycle in what polls show is a challenging political environment for Republicans."
-  },
-  {
-   "id": "3cfe4ecde4f0",
-   "source": "ncnewsline",
-   "title": "Trump heads to Greenville as NC Republicans struggle with early voter turnout",
-   "url": "https://ncnewsline.com/2026/10/19/trump-heads-to-greenville-as-nc-republicans-struggle-with-early-voter-turnout/",
-   "published": "2026-10-19T20:02:07Z",
-   "summary": "President Donald Trump will hold a campaign rally Tuesday in Greenville, following an appearance Monday by Vice President JD Vance at the other end of the state in Hendersonville. They’re aiming to increase Republican voter turnout in two key Congressional races and North…"
   },
   {
    "id": "775edea7d44a",
