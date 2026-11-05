@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T23:47:07Z",
+ "generatedAt": "2026-11-05T00:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 29,
-    "newest": "2026-11-04T21:27:40Z"
+    "itemCount": 30,
+    "newest": "2026-11-05T00:22:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2fed5e6b162a",
+   "source": "carolinajournal",
+   "title": "Stein touts Democratic gains, lays out NC priorities",
+   "url": "https://www.carolinajournal.com/stein-touts-democratic-gains-lays-out-nc-priorities/",
+   "published": "2026-11-05T00:22:00Z",
+   "summary": "Democratic NC Gov. Josh Stein took a victory lap at a Wednesday afternoon press conference after Democrats pummeled Republicans in many races across the state in yesterday’s general election, which saw Democrats taking control of the House for the first time since 2010. The post…"
+  },
   {
    "id": "cfcff7b7afb0",
    "source": "wunc",
