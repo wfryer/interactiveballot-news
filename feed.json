@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T21:32:08Z",
+ "generatedAt": "2026-11-05T22:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 23,
-    "newest": "2026-11-04T23:41:15Z"
+    "itemCount": 24,
+    "newest": "2026-11-05T12:10:17Z"
    }
   },
   {
@@ -235,10 +235,10 @@
   {
    "id": "08d5064b1d39",
    "source": "cardinalpine",
-   "title": "This fact shows how impressive Roy Cooper’s US Senate victory was",
+   "title": "How impressive was Roy Cooper’s US Senate victory?",
    "url": "https://cardinalpine.com/news/roy-coopers-us-senate-victory/",
    "published": "2026-11-05T20:57:00Z",
-   "summary": "US Sen.-elect Roy Cooper received 1.728 million early votes, enough to win even if he hadn't received a single vote on Election Day. The post This fact shows how impressive Roy Cooper’s US Senate victory was appeared first on Cardinal & Pine ."
+   "summary": "US Sen.-elect Roy Cooper received 1.728 million early votes, enough to win even if he hadn't received a single vote on Election Day. The post How impressive was Roy Cooper’s US Senate victory? appeared first on Cardinal & Pine ."
   },
   {
    "id": "5aa33ecbc3ee",
@@ -279,6 +279,14 @@
    "url": "https://ncnewsline.com/2026/11/05/nc-democrats-will-have-more-power-next-year-but-must-first-face-a-gop-controlled-lame-duck-session/",
    "published": "2026-11-05T14:14:06Z",
    "summary": "Next year, North Carolina Democrats will have more political power than they’ve had since 2010, with a commanding majority in the House and the governorship. As anticipated, Rep. Robert Reives, D-Chatham, who has led the House Democrats since 2021, announced he would seek the…"
+  },
+  {
+   "id": "4ead354380c4",
+   "source": "wunc",
+   "title": "Despite losing party support, Shelly Headen flips Republican House seat",
+   "url": "https://www.wunc.org/2026-11-05/after-losing-party-support-shelly-headen-still-flips-republican-house-seat",
+   "published": "2026-11-05T12:10:17Z",
+   "summary": "She defeated incumbent John Blust by just 233 votes, despite losing her own party's support over inflammatory social media posts."
   },
   {
    "id": "1afdda97ac9c",
