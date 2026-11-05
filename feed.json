@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T04:47:08Z",
+ "generatedAt": "2026-11-05T13:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 31,
-    "newest": "2026-11-04T23:36:09Z"
+    "itemCount": 33,
+    "newest": "2026-11-05T12:10:17Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "1afdda97ac9c",
+   "source": "wfae",
+   "title": "After losing party support, Shelly Headen still flips Republican House seat",
+   "url": "https://www.wfae.org/2026-11-05/after-losing-party-support-shelly-headen-still-flips-republican-house-seat",
+   "published": "2026-11-05T12:10:17Z",
+   "summary": "She defeated incumbent John Blust by just 233 votes, despite losing her own party's support over inflammatory social media posts."
+  },
+  {
+   "id": "39cc7cc930d7",
+   "source": "wfae",
+   "title": "‘We're going to get some stuff freaking done’: Roney unseats Manheimer in rematch for Asheville mayor",
+   "url": "https://www.wfae.org/2026-11-04/were-going-to-get-some-stuff-freaking-done-roney-unseats-manheimer-in-rematch-for-asheville-mayor",
+   "published": "2026-11-05T00:52:15Z",
+   "summary": "Kim Roney led a grassroots campaign that mobilized through every corner of the city. It powered her to a victory over longtime incumbent Esther Manheimer, who has held the position since 2013."
+  },
   {
    "id": "2fed5e6b162a",
    "source": "carolinajournal",
