@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T14:47:09Z",
+ "generatedAt": "2026-11-05T16:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 33,
-    "newest": "2026-11-05T12:10:17Z"
+    "itemCount": 34,
+    "newest": "2026-11-05T16:16:11Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "c0c9d57241bd",
+   "source": "wfae",
+   "title": "NC voters went blue, but they gave the GOP 3 big wins",
+   "url": "https://www.wfae.org/politics/2026-11-05/nc-voters-went-blue-but-they-gave-the-gop-3-big-wins",
+   "published": "2026-11-05T16:16:11Z",
+   "summary": "Even as Democrats gained ground, voters approved constitutional amendments limiting taxes and strengthening voter ID requirements. Here’s what changed."
+  },
   {
    "id": "a307a7e29c05",
    "source": "ncnewsline",
