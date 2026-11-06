@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T15:17:13Z",
+ "generatedAt": "2026-11-06T16:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 6,
-    "newest": "2026-11-04T07:03:59Z"
+    "itemCount": 7,
+    "newest": "2026-11-06T15:50:14Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "de9995302c70",
+   "source": "carolinapublicpress",
+   "title": "Seismic ripples in NC mountain politics. Foxx trails by 99 votes.",
+   "url": "https://carolinapublicpress.org/82969/seismic-ripples-in-nc-mountain-politics-foxx-trails-by-99-votes/",
+   "published": "2026-11-06T15:50:14Z",
+   "summary": "Virginia Foxx faced the same challenger in 2024 and won handily. But 2026 was a year of change across Western North Carolina. Seismic ripples in NC mountain politics. Foxx trails by 99 votes. is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
+  },
   {
    "id": "8cc43cd6772a",
    "source": "carolinajournal",
