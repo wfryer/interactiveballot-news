@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T00:17:10Z",
+ "generatedAt": "2026-11-06T11:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-06T00:00:50Z"
+    "newest": "2026-11-06T11:01:04Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "ae28f8dd0db9",
+   "source": "ncnewsline",
+   "title": "NC’s new constitutional amendments pose financial dilemmas for state, local lawmakers",
+   "url": "https://ncnewsline.com/2026/11/06/ncs-new-constitutional-amendments-pose-financial-dilemmas-for-state-local-lawmakers/",
+   "published": "2026-11-06T11:01:04Z",
+   "summary": "North Carolina voters who delivered a blue wave for Democrats Tuesday also overwhelmingly approved two constitutional amendments that will impact taxes for years to come. The first amendment, approved by 62% of voters, caps state income tax rates for individuals and corporations…"
+  },
   {
    "id": "674f633b5a9d",
    "source": "ncnewsline",
@@ -1506,14 +1514,6 @@
    "url": "https://ncnewsline.com/2026/10/20/democrats-outraise-opponents-in-ncs-most-contentious-congressional-races/",
    "published": "2026-10-20T10:00:23Z",
    "summary": "Former Gov. Roy Cooper reported bringing in significantly more funding than his GOP rival, as did Don Davis and Jamie Ager in their U.S. House races."
-  },
-  {
-   "id": "fb6dd89b63d6",
-   "source": "ncnewsline",
-   "title": "Commentary: A bluer NC could be in the offing",
-   "url": "https://ncnewsline.com/2026/10/20/a-bluer-nc-could-be-in-the-offing/",
-   "published": "2026-10-20T10:00:16Z",
-   "summary": "The association of modern American Republicans with the color red and Democrats with the color blue has always left me a tad perplexed and amused. For those of us old enough to remember significant chunks of the 20th Century, red was always the color of world communism and the…"
   },
   {
    "id": "775edea7d44a",
