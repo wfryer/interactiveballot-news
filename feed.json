@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T00:02:08Z",
+ "generatedAt": "2026-11-06T00:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -29,8 +29,8 @@
    "about": "https://www.commoncause.org/north-carolina/about-us/",
    "status": {
     "state": "ok",
-    "itemCount": 12,
-    "newest": "2026-11-06T00:02:08Z"
+    "itemCount": 2,
+    "newest": "2026-10-09T20:53:35Z"
    }
   },
   {
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-05T20:54:47Z"
+    "newest": "2026-11-06T00:00:50Z"
    }
   },
   {
@@ -225,94 +225,12 @@
  ],
  "items": [
   {
-   "id": "e062b70a5b33",
-   "source": "commoncause",
-   "title": "5 Things to Know: Harmful proposed voting rules changes in North Carolina – and what you can do",
-   "url": "https://www.commoncause.org/north-carolina/articles/5-things-to-know-sboe-rules/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "d740e7dbae39",
-   "source": "commoncause",
-   "title": "Next Gen Advocacy Day at the Legislature: NC college students speak up for their freedom to vote",
-   "url": "https://www.commoncause.org/north-carolina/articles/next-gen-advocacy-day/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "b68ecfa1321f",
-   "source": "commoncause",
-   "title": "100 Days to Election Day: Protecting North Carolina Voters",
-   "url": "https://www.commoncause.org/north-carolina/articles/protecting-north-carolina-voters/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "96ce3a463465",
-   "source": "commoncause",
-   "title": "Tell NC lawmakers: Say NO to anti-voter House Bill 958",
-   "url": "https://www.commoncause.org/north-carolina/articles/h958/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "6f4429ab0266",
-   "source": "commoncause",
-   "title": "Speak up for early voting in North Carolina",
-   "url": "https://www.commoncause.org/north-carolina/articles/speak-up-for-early-voting-in-north-carolina/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "6d4a57d5c743",
-   "source": "commoncause",
-   "title": "NC election protection advocates speak out against anti-voter House Bill 958",
-   "url": "https://www.commoncause.org/north-carolina/articles/nc-election-protection-advocates-speak-out-against-anti-voter-house-bill-958/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "61f1eca6149c",
-   "source": "commoncause",
-   "title": "North Carolinians speak up at the We Will Protect Our Vote Rally in Raleigh",
-   "url": "https://www.commoncause.org/north-carolina/articles/north-carolinians-speak-up-at-the-we-will-protect-our-vote-rally-in-raleigh/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "3aec45ead66c",
-   "source": "commoncause",
-   "title": "5 Things to Know About This Week in North Carolina Politics: June 30, 2026",
-   "url": "https://www.commoncause.org/north-carolina/articles/5-things-to-know-june-30-2026/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "271d8fd522e4",
-   "source": "commoncause",
-   "title": "‘Drop Sunday:’ Text messages show the State Auditor’s politics is behind Pasquotank’s local voting options",
-   "url": "https://www.commoncause.org/north-carolina/articles/pasquotank-voting/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "26172345d5a1",
-   "source": "commoncause",
-   "title": "Boliek’s contentious elections boards make proposed voting rules more dangerous",
-   "url": "https://www.commoncause.org/north-carolina/articles/bolieks-contentious-elections-boards-make-proposed-voting-rules-more-dangerous/",
-   "published": "2026-11-06T00:02:08Z",
-   "summary": "",
-   "dateApprox": true
+   "id": "674f633b5a9d",
+   "source": "ncnewsline",
+   "title": "North Carolina school facility funding needs climb 37% to nearly $18 billion",
+   "url": "https://ncnewsline.com/2026/11/05/north-carolina-school-facility-funding-needs-climb-37-to-nearly-18-billion/",
+   "published": "2026-11-06T00:00:50Z",
+   "summary": "North Carolina is seeing a steep jump in what it needs to spend on its public school facilities, according to a new report by the state Department of Public Instruction. A newly passed constitutional amendment could make that more difficult. The 2025–26 statewide facility needs…"
   },
   {
    "id": "2aba460238fe",
@@ -1596,14 +1514,6 @@
    "url": "https://ncnewsline.com/2026/10/20/a-bluer-nc-could-be-in-the-offing/",
    "published": "2026-10-20T10:00:16Z",
    "summary": "The association of modern American Republicans with the color red and Democrats with the color blue has always left me a tad perplexed and amused. For those of us old enough to remember significant chunks of the 20th Century, red was always the color of world communism and the…"
-  },
-  {
-   "id": "2178cbe46c56",
-   "source": "ncnewsline",
-   "title": "Vance touts $858M in Helene relief funding for Western North Carolina",
-   "url": "https://ncnewsline.com/2026/10/19/vance-touts-858m-in-helene-relief-funding-for-western-north-carolina/",
-   "published": "2026-10-19T22:02:29Z",
-   "summary": "Vance’s event is part of the White House’s push to encourage GOP turnout this election cycle in what polls show is a challenging political environment for Republicans."
   },
   {
    "id": "775edea7d44a",
