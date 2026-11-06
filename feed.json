@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T16:47:08Z",
+ "generatedAt": "2026-11-06T17:17:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-06T11:01:04Z"
+    "newest": "2026-11-06T16:52:59Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "dac826cfd55f",
+   "source": "ncnewsline",
+   "title": "Commentary: Dear Democrats: Make civility great again. Please.",
+   "url": "https://ncnewsline.com/2026/11/06/dear-democrats-make-civility-great-again-please/",
+   "published": "2026-11-06T16:52:59Z",
+   "summary": "I’m a Gen Xer. We were brought up on Sesame Street and Mr. Rogers, in a world that taught us that no matter what our differences, we had a basic responsibility to be decent and civil and fair to other people. Kind, even. Certainly not ugly or mean. I’ve always thought of that as…"
+  },
   {
    "id": "de9995302c70",
    "source": "carolinapublicpress",
@@ -1554,14 +1562,6 @@
    "url": "https://ncnewsline.com/2026/10/20/nc-state-rep-calls-states-new-curbside-voting-warning-signs-intimidating/",
    "published": "2026-10-20T13:54:14Z",
    "summary": "State Rep. Pricey Harrison, D-Guilford, is concerned about the tone of curbside voting signs outside some North Carolina early voting sites, calling them “intimidating and threatening” and “possibly a violation of state law.” “Come on #SBOE [State Board of Elections], stop…"
-  },
-  {
-   "id": "50b6d85092da",
-   "source": "ncnewsline",
-   "title": "Democrats outraise opponents in NC’s most contentious congressional races",
-   "url": "https://ncnewsline.com/2026/10/20/democrats-outraise-opponents-in-ncs-most-contentious-congressional-races/",
-   "published": "2026-10-20T10:00:23Z",
-   "summary": "Former Gov. Roy Cooper reported bringing in significantly more funding than his GOP rival, as did Don Davis and Jamie Ager in their U.S. House races."
   },
   {
    "id": "775edea7d44a",
