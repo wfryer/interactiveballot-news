@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T17:17:07Z",
+ "generatedAt": "2026-11-06T17:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 7,
-    "newest": "2026-11-06T15:50:14Z"
+    "itemCount": 8,
+    "newest": "2026-11-06T17:34:31Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "cd182200a45f",
+   "source": "carolinapublicpress",
+   "title": "After the deluge. Making sense of the altered political landscape in NC.",
+   "url": "https://carolinapublicpress.org/82982/after-election-deluge-making-sense-of-the-altered-political-landscape-in-nc/",
+   "published": "2026-11-06T17:34:31Z",
+   "summary": "Massive wins across North Carolina for Democrats and losses for Republicans in 2026 election have multiple causes, complex implications. After the deluge. Making sense of the altered political landscape in NC. is a story from Carolina Public Press , an award-winning independent…"
+  },
   {
    "id": "dac826cfd55f",
    "source": "ncnewsline",
