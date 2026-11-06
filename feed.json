@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T21:41:59Z",
+ "generatedAt": "2026-11-06T21:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -118,9 +118,10 @@
    "description": "North Carolina news site owned and operated by COURIER, which describes itself as a pro-democracy news network. It describes its journalism as independent and point of view, and does not call itself nonpartisan. It says it takes no funding from parties, candidates or campaigns. Only posts that mention elections or voting are shown here.",
    "homepage": "https://cardinalpine.com",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 14,
-    "newest": "2026-11-05T21:30:00Z"
+    "newest": "2026-11-05T21:30:00Z",
+    "error": "https://cardinalpine.com/feed/: HTTPError: HTTP Error 403: Forbidden"
    }
   },
   {
