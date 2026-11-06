@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T14:32:12Z",
+ "generatedAt": "2026-11-06T15:17:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 30,
-    "newest": "2026-11-05T00:22:00Z"
+    "itemCount": 31,
+    "newest": "2026-11-06T15:10:25Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "8cc43cd6772a",
+   "source": "carolinajournal",
+   "title": "Meet the likely new members of NC’s congressional delegation",
+   "url": "https://www.carolinajournal.com/meet-the-likely-new-members-of-ncs-congressional-delegation/",
+   "published": "2026-11-06T15:10:25Z",
+   "summary": "If initial results hold, the six new Democrats would move the Democratic portion of the NC congressional delegation to 10 of the 14 seats. The post Meet the likely new members of NC’s congressional delegation appeared first on Carolina Journal ."
+  },
   {
    "id": "4299580a2cbc",
    "source": "wfae",
