@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T16:02:09Z",
+ "generatedAt": "2026-11-06T16:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,7 +89,7 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 25,
+    "itemCount": 26,
     "newest": "2026-11-05T23:34:36Z"
    }
   },
@@ -277,6 +277,14 @@
    "source": "wunc",
    "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
    "url": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+   "published": "2026-11-05T23:34:36Z",
+   "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates."
+  },
+  {
+   "id": "1a805aeeae03",
+   "source": "wunc",
+   "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+   "url": "https://www.wunc.org/politics/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
    "published": "2026-11-05T23:34:36Z",
    "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates."
   },
