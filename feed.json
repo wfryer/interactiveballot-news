@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T11:17:08Z",
+ "generatedAt": "2026-11-06T14:32:12Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 35,
-    "newest": "2026-11-05T20:00:41Z"
+    "itemCount": 37,
+    "newest": "2026-11-06T14:31:21Z"
    }
   },
   {
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 24,
-    "newest": "2026-11-05T12:10:17Z"
+    "itemCount": 25,
+    "newest": "2026-11-05T23:34:36Z"
    }
   },
   {
@@ -225,6 +225,22 @@
  ],
  "items": [
   {
+   "id": "4299580a2cbc",
+   "source": "wfae",
+   "title": "Charlotte mayor proposes I-77 toll lanes group to oversee promised community benefits",
+   "url": "https://www.wfae.org/politics/2026-11-06/charlotte-mayor-proposes-i-77-toll-lanes-group-to-oversee-promised-community-benefits",
+   "published": "2026-11-06T14:31:21Z",
+   "summary": "Charlotte Mayor Rob Harrington is proposing a new Interstate 77 toll lanes working group to help ensure west Charlotte receives $300 million in community benefits promised by the N.C. Department of Transportation.On Thursday, the department also provided details on how the $300…"
+  },
+  {
+   "id": "c719eb90d9db",
+   "source": "wfae",
+   "title": "Tillis calls for Trump to remove Hegseth before leaving Senate",
+   "url": "https://www.wfae.org/politics/2026-11-06/tillis-calls-for-trump-to-remove-hegseth-before-leaving-senate",
+   "published": "2026-11-06T14:29:34Z",
+   "summary": "Former Gov. Roy Cooper defeated Michael Whatley in North Carolina’s U.S. Senate race, but Republican Sen. Thom Tillis will continue serving until January.Tillis has been critical of Defense Secretary Pete Hegseth. In an interview with CNN the day after the election, Tillis said…"
+  },
+  {
    "id": "ae28f8dd0db9",
    "source": "ncnewsline",
    "title": "NC’s new constitutional amendments pose financial dilemmas for state, local lawmakers",
@@ -239,6 +255,14 @@
    "url": "https://ncnewsline.com/2026/11/05/north-carolina-school-facility-funding-needs-climb-37-to-nearly-18-billion/",
    "published": "2026-11-06T00:00:50Z",
    "summary": "North Carolina is seeing a steep jump in what it needs to spend on its public school facilities, according to a new report by the state Department of Public Instruction. A newly passed constitutional amendment could make that more difficult. The 2025–26 statewide facility needs…"
+  },
+  {
+   "id": "79405338236a",
+   "source": "wunc",
+   "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+   "url": "https://www.wunc.org/2026-11-05/how-north-carolina-democrats-flipped-several-house-seats-in-historically-gop-districts",
+   "published": "2026-11-05T23:34:36Z",
+   "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates."
   },
   {
    "id": "2aba460238fe",
