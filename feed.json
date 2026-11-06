@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T17:47:09Z",
+ "generatedAt": "2026-11-06T19:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-06T16:52:59Z"
+    "newest": "2026-11-06T19:42:11Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a2695951cd34",
+   "source": "ncnewsline",
+   "title": "A new documentary looks not-too-far back at NC college student voting this election",
+   "url": "https://ncnewsline.com/2026/11/06/a-new-documentary-looks-not-too-far-back-at-nc-college-student-voting-this-election/",
+   "published": "2026-11-06T19:42:11Z",
+   "summary": "Some ballots haven’t even been counted yet, but a documentary about the 2026 election from the perspective of North Carolina college students fighting for campus early voting sites has already had its debut. “Where Do I Vote Again?” screened Thursday night at The Rialto in…"
+  },
   {
    "id": "cd182200a45f",
    "source": "carolinapublicpress",
@@ -1562,14 +1570,6 @@
    "url": "https://ncnewsline.com/2026/10/20/a-federal-judge-lets-north-carolinas-new-absentee-ballot-rules-stand/",
    "published": "2026-10-20T15:02:19Z",
    "summary": "A federal court judge ruled against challengers of new absentee ballot requirements, saying the signature and envelope sealing requirements are not undue burdens. In a ruling late Monday, Federal District Judge Thomas D. Schroeder wrote that the challengers were not likely to…"
-  },
-  {
-   "id": "19b0d6baa178",
-   "source": "ncnewsline",
-   "title": "NC state rep calls state’s new curbside voting warning signs ‘intimidating’",
-   "url": "https://ncnewsline.com/2026/10/20/nc-state-rep-calls-states-new-curbside-voting-warning-signs-intimidating/",
-   "published": "2026-10-20T13:54:14Z",
-   "summary": "State Rep. Pricey Harrison, D-Guilford, is concerned about the tone of curbside voting signs outside some North Carolina early voting sites, calling them “intimidating and threatening” and “possibly a violation of state law.” “Come on #SBOE [State Board of Elections], stop…"
   },
   {
    "id": "775edea7d44a",
