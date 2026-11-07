@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T06:02:09Z",
+ "generatedAt": "2026-11-07T11:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-06T19:42:11Z"
+    "newest": "2026-11-07T11:00:32Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "7461a0a94845",
+   "source": "ncnewsline",
+   "title": "A pro-ICE sheriff, once investigated for racist slurs, is ousted in North Carolina",
+   "url": "https://ncnewsline.com/2026/11/07/a-pro-ice-sheriff-once-investigated-for-racist-slurs-is-ousted-in-north-carolina/",
+   "published": "2026-11-07T11:00:32Z",
+   "summary": "This story originally appeared in Bolts and is republished with permission. On Tuesday, a Black pastor who campaigned against racial profiling and eliminating the “good ol’ boy system” of policing ousted six-term North Carolina Sheriff Terry Johnson, an Alamance County…"
+  },
   {
    "id": "09043463008d",
    "source": "carolinajournal",
@@ -1570,14 +1578,6 @@
    "url": "https://ncnewsline.com/2026/10/20/early-voting-turnout-so-far-shows-enthusiasm-among-unaffiliated-voters-in-nc/",
    "published": "2026-10-20T20:28:14Z",
    "summary": "Early voting stats don’t predict Election Day winners, but the first few days of voting in North Carolina have produced a surprise – the eagerness among unaffiliated voters in North Carolina to cast ballots in a midterm election. In the first five days of early voting, Thursday…"
-  },
-  {
-   "id": "4120095b5e1b",
-   "source": "ncnewsline",
-   "title": "A federal judge lets North Carolina’s new absentee ballot rules stand",
-   "url": "https://ncnewsline.com/2026/10/20/a-federal-judge-lets-north-carolinas-new-absentee-ballot-rules-stand/",
-   "published": "2026-10-20T15:02:19Z",
-   "summary": "A federal court judge ruled against challengers of new absentee ballot requirements, saying the signature and envelope sealing requirements are not undue burdens. In a ruling late Monday, Federal District Judge Thomas D. Schroeder wrote that the challengers were not likely to…"
   },
   {
    "id": "775edea7d44a",
