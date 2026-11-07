@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T11:17:08Z",
+ "generatedAt": "2026-11-07T15:32:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -29,7 +29,7 @@
    "about": "https://www.commoncause.org/north-carolina/about-us/",
    "status": {
     "state": "ok",
-    "itemCount": 2,
+    "itemCount": 1,
     "newest": "2026-10-09T20:53:35Z"
    }
   },
@@ -1631,14 +1631,6 @@
    "published": "2026-10-09T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "b149806966bb",
-   "source": "commoncause",
-   "title": "5 things to know about a wild summer in North Carolina politics",
-   "url": "https://www.commoncause.org/north-carolina/articles/wild_summer_in_nc_politics/",
-   "published": "2026-09-23T15:23:11Z",
-   "summary": ""
   }
  ]
 }
