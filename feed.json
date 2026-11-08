@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T06:02:08Z",
+ "generatedAt": "2026-11-08T16:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-07T11:00:32Z"
+    "newest": "2026-11-08T15:56:07Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "424d302260cd",
+   "source": "ncnewsline",
+   "title": "Commentary: You can still affect who wins a close election in NC",
+   "url": "https://ncnewsline.com/2026/11/08/you-can-still-affect-who-wins-a-close-election-in-nc/",
+   "published": "2026-11-08T15:56:07Z",
+   "summary": "I hope this column will rescue the ballot of someone you know from being discarded. You can help. The 2026 election has not ended. There are 61 counties in North Carolina where voters with ballots in limbo could decide who wins or loses. The close contests include three…"
+  },
   {
    "id": "7461a0a94845",
    "source": "ncnewsline",
@@ -1570,14 +1578,6 @@
    "url": "https://ncnewsline.com/2026/10/20/i-wanted-him-to-be-the-guy-trump-stumps-for-whatley-gop-slate-as-voting-in-nc-gets-underway/",
    "published": "2026-10-21T01:33:53Z",
    "summary": "GREENVILLE, N.C. — Terry Holyfield, a retired factory worker from Burlington, once drove over four hours to see President Donald Trump speak. She said she’s seen him at least 10 times, and would drive even further to see him if she could. On Tuesday, she drove over two hours to…"
-  },
-  {
-   "id": "fae9756cec49",
-   "source": "ncnewsline",
-   "title": "Early voting turnout so far shows enthusiasm among unaffiliated voters in NC",
-   "url": "https://ncnewsline.com/2026/10/20/early-voting-turnout-so-far-shows-enthusiasm-among-unaffiliated-voters-in-nc/",
-   "published": "2026-10-20T20:28:14Z",
-   "summary": "Early voting stats don’t predict Election Day winners, but the first few days of voting in North Carolina have produced a surprise – the eagerness among unaffiliated voters in North Carolina to cast ballots in a midterm election. In the first five days of early voting, Thursday…"
   },
   {
    "id": "775edea7d44a",
