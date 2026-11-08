@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T16:17:09Z",
+ "generatedAt": "2026-11-08T22:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -103,9 +103,10 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 32,
-    "newest": "2026-11-06T21:35:11Z"
+    "newest": "2026-11-06T21:35:11Z",
+    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
    }
   },
   {
