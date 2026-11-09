@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T22:02:09Z",
+ "generatedAt": "2026-11-09T23:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-09T21:29:02Z"
+    "newest": "2026-11-09T23:00:34Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "bb8aaeedfb8f",
+   "source": "ncnewsline",
+   "title": "From classroom to Congress, Cyril Jefferson is bringing his public service to Washington",
+   "url": "https://ncnewsline.com/2026/11/09/from-classroom-to-congress-cyril-jefferson-is-bringing-his-public-service-to-washington/",
+   "published": "2026-11-09T23:00:34Z",
+   "summary": "HIGH POINT, N.C. — Before Cyril Jefferson ever considered a career in public office, he worked with students whom he believed deserved better than the circumstances they were born into. As a music teacher, he saw students who were academically gifted, ambitious and supported by…"
+  },
   {
    "id": "ba38b4cdf879",
    "source": "ncnewsline",
@@ -1602,14 +1610,6 @@
    "url": "https://ncnewsline.com/2026/10/22/cooper-rallies-support-one-week-into-north-carolinas-early-voting/",
    "published": "2026-10-23T01:29:36Z",
    "summary": "More than 1 million North Carolinians cast their ballots during the first week of early voting."
-  },
-  {
-   "id": "c70d5896b132",
-   "source": "ncnewsline",
-   "title": "Denied a campus early voting site, NC A&T students again march to the polls",
-   "url": "https://ncnewsline.com/2026/10/22/denied-a-campus-early-voting-site-nc-at-students-again-march-to-the-polls/",
-   "published": "2026-10-23T00:25:54Z",
-   "summary": "Hundreds of NC A&T State University students filled Greensboro streets Thursday for a 40-minute walk from their campus to an early voting site, partly to do their civic duty and partly as a show of strength. It was the second Greensboro student voter march this month, following…"
   },
   {
    "id": "d263800fe642",
