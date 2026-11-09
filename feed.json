@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T21:17:08Z",
+ "generatedAt": "2026-11-09T22:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-09T11:00:15Z"
+    "newest": "2026-11-09T21:29:02Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "ba38b4cdf879",
+   "source": "ncnewsline",
+   "title": "NC Senate Democratic leader sees a path to bipartisanship next year",
+   "url": "https://ncnewsline.com/2026/11/09/nc-senate-democratic-leader-sees-a-path-to-bipartisanship-next-year/",
+   "published": "2026-11-09T21:29:02Z",
+   "summary": "Sen. Sydney Batch, a Wake County Democrat and the leader of her caucus in the North Carolina Senate, may have one of the most challenging jobs in the General Assembly next year. She’ll likely be balancing the expectations that come from Democrats being able to pass anything they…"
+  },
   {
    "id": "b1745128c336",
    "source": "wfae",
@@ -1626,14 +1634,6 @@
    "url": "https://www.carolinajournal.com/nc-3-gains-late-attention-with-early-vote-surge-ratings-shift/",
    "published": "2026-10-22T07:43:00Z",
    "summary": "So far, about 25,660 Democrats have cast ballots in NC-3, while Republicans have cast less than half that, at about 12,400. The post NC-3 gains late attention with early vote surge, ratings shift appeared first on Carolina Journal ."
-  },
-  {
-   "id": "cd09872d44ae",
-   "source": "ncnewsline",
-   "title": "Trump ties NC Camp Lejeune settlements to GOP win, angering survivors",
-   "url": "https://ncnewsline.com/2026/10/21/trump-ties-nc-camp-lejeune-settlements-to-gop-win-angering-survivors/",
-   "published": "2026-10-21T21:13:18Z",
-   "summary": "GREENVILLE, N.C. — President Donald Trump told a crowd of supporters Tuesday that his administration would direct the U.S. Department of Justice to settle remaining claims from veterans and family members sickened by contaminated drinking water at Camp Lejeune, but would do so…"
   },
   {
    "id": "07f3091930ee",
