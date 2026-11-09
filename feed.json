@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T15:02:10Z",
+ "generatedAt": "2026-11-09T16:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,7 +89,7 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 27,
+    "itemCount": 28,
     "newest": "2026-11-09T10:00:00Z"
    }
   },
@@ -253,6 +253,14 @@
    "source": "wunc",
    "title": "Congress is coming back to Washington. Here's what to expect",
    "url": "https://www.wunc.org/2026-11-09/congress-is-coming-back-to-washington-heres-what-to-expect",
+   "published": "2026-11-09T10:00:00Z",
+   "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January."
+  },
+  {
+   "id": "428d4120b435",
+   "source": "wunc",
+   "title": "Congress is coming back to Washington. Here's what to expect",
+   "url": "https://www.wunc.org/politics/2026-11-09/congress-is-coming-back-to-washington-heres-what-to-expect",
    "published": "2026-11-09T10:00:00Z",
    "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January."
   },
