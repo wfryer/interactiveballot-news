@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T16:47:08Z",
+ "generatedAt": "2026-11-09T17:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 14,
-    "newest": "2026-11-05T21:30:00Z"
+    "itemCount": 15,
+    "newest": "2026-11-09T17:32:51Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "97cab709657c",
+   "source": "cardinalpine",
+   "title": "A North Carolina election denier, facing defeat, demands ‘election observers’",
+   "url": "https://cardinalpine.com/news/north-carolina-elections-still-being-counted/",
+   "published": "2026-11-09T17:32:51Z",
+   "summary": "A look at the North Carolina elections that still haven't been called. Plus: Bentonville's fall festival. The post A North Carolina election denier, facing defeat, demands ‘election observers’ appeared first on Cardinal & Pine ."
+  },
   {
    "id": "2602a584b363",
    "source": "carolinajournal",
