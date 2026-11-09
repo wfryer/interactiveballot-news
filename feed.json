@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T10:47:09Z",
+ "generatedAt": "2026-11-09T11:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-08T15:56:07Z"
+    "newest": "2026-11-09T11:00:15Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "22cb5f88a891",
+   "source": "ncnewsline",
+   "title": "Commentary: The vote is mightier than the map …",
+   "url": "https://ncnewsline.com/2026/11/09/the-vote-is-mightier-than-the-map/",
+   "published": "2026-11-09T11:00:15Z",
+   "summary": ""
+  },
   {
    "id": "424d302260cd",
    "source": "ncnewsline",
@@ -1570,14 +1578,6 @@
    "url": "https://www.carolinajournal.com/gop-faces-possible-wake-legislative-shutout-amid-3-close-races/",
    "published": "2026-10-21T21:00:00Z",
    "summary": "Population growth and shifting suburban voting patterns have eroded Republicans' advantage in several key Wake legislative districts. The post GOP faces possible Wake legislative shutout amid 3 close races appeared first on Carolina Journal ."
-  },
-  {
-   "id": "16d5c9769d47",
-   "source": "ncnewsline",
-   "title": "‘I wanted him to be the guy’: Trump stumps for Whatley, GOP slate as voting in NC gets underway",
-   "url": "https://ncnewsline.com/2026/10/20/i-wanted-him-to-be-the-guy-trump-stumps-for-whatley-gop-slate-as-voting-in-nc-gets-underway/",
-   "published": "2026-10-21T01:33:53Z",
-   "summary": "GREENVILLE, N.C. — Terry Holyfield, a retired factory worker from Burlington, once drove over four hours to see President Donald Trump speak. She said she’s seen him at least 10 times, and would drive even further to see him if she could. On Tuesday, she drove over two hours to…"
   },
   {
    "id": "775edea7d44a",
