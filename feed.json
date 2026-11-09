@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T14:02:08Z",
+ "generatedAt": "2026-11-09T15:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 32,
-    "newest": "2026-11-06T21:35:11Z"
+    "itemCount": 33,
+    "newest": "2026-11-09T14:56:54Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2602a584b363",
+   "source": "carolinajournal",
+   "title": "Rockingham Co., Kevin Berger file new motion to dismiss Page lawsuit",
+   "url": "https://www.carolinajournal.com/rockingham-co-kevin-berger-file-new-motion-to-dismiss-page-lawsuit/",
+   "published": "2026-11-09T14:56:54Z",
+   "summary": "Rockingham County and county commissioner Kevin Berger have filed a new motion to dismiss a lawsuit from outgoing Sheriff Sam Page. Page defeated Berger’s father in a state Senate primary this spring and won election to the state Senate last week. The post Rockingham Co., Kevin…"
+  },
   {
    "id": "8ab4fd442e27",
    "source": "wfae",
