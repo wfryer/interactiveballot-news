@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T12:47:09Z",
+ "generatedAt": "2026-11-09T14:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 26,
-    "newest": "2026-11-05T23:34:36Z"
+    "itemCount": 27,
+    "newest": "2026-11-09T10:00:00Z"
    }
   },
   {
@@ -239,6 +239,14 @@
    "url": "https://ncnewsline.com/2026/11/09/the-vote-is-mightier-than-the-map/",
    "published": "2026-11-09T11:00:15Z",
    "summary": ""
+  },
+  {
+   "id": "66771f365b67",
+   "source": "wunc",
+   "title": "Congress is coming back to Washington. Here's what to expect",
+   "url": "https://www.wunc.org/2026-11-09/congress-is-coming-back-to-washington-heres-what-to-expect",
+   "published": "2026-11-09T10:00:00Z",
+   "summary": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January."
   },
   {
    "id": "424d302260cd",
