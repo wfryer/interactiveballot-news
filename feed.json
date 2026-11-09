@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T19:02:10Z",
+ "generatedAt": "2026-11-09T19:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 39,
-    "newest": "2026-11-09T18:51:51Z"
+    "itemCount": 40,
+    "newest": "2026-11-09T19:21:57Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4e78e8d407b5",
+   "source": "wfae",
+   "title": "Voter turnout in blue Mecklenburg improves, but Democrats still have room to grow",
+   "url": "https://www.wfae.org/politics/2026-11-09/voter-turnout-in-blue-mecklenburg-improves-but-democrats-still-have-room-to-grow",
+   "published": "2026-11-09T19:21:57Z",
+   "summary": "Turnout in Mecklenburg County was 45% in the 2022 midterms, compared with 52% this year."
+  },
   {
    "id": "bfb6dadd01ea",
    "source": "wfae",
