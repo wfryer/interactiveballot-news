@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T20:47:11Z",
+ "generatedAt": "2026-11-09T21:02:12Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 28,
-    "newest": "2026-11-09T10:00:00Z"
+    "itemCount": 29,
+    "newest": "2026-11-09T20:50:37Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "c9884b12c017",
+   "source": "wunc",
+   "title": "Top Democrat says NC Senate will be more bipartisan regardless of final race outcome",
+   "url": "https://www.wunc.org/politics/2026-11-09/democrat-sydney-batch-nc-senate-more-bipartisan-election",
+   "published": "2026-11-09T20:50:37Z",
+   "summary": "Sen. Sydney Batch, D-Wake, says the close partisan split after last week's election will stop Republicans from passing bills with no input from Democrats. She spoke with WUNC News on Monday."
+  },
   {
    "id": "4e78e8d407b5",
    "source": "wfae",
