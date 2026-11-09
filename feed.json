@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T11:17:08Z",
+ "generatedAt": "2026-11-09T12:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -74,8 +74,8 @@
    "homepage": "https://www.wfae.org",
    "status": {
     "state": "ok",
-    "itemCount": 37,
-    "newest": "2026-11-06T14:31:21Z"
+    "itemCount": 38,
+    "newest": "2026-11-09T12:34:43Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "8ab4fd442e27",
+   "source": "wfae",
+   "title": "Sen. Tillis would push for an independent authority to oversee CLT if city doesn't approve lease",
+   "url": "https://www.wfae.org/politics/2026-11-09/sen-tillis-would-push-for-an-independent-authority-to-oversee-clt-if-city-doesnt-approve-lease",
+   "published": "2026-11-09T12:34:43Z",
+   "summary": "Charlotte City Council is expected to vote Monday on a new 10-year airline use and lease agreement for Charlotte Douglas International Airport that would support more than $20 billion in airport improvements and development."
+  },
   {
    "id": "22cb5f88a891",
    "source": "ncnewsline",
