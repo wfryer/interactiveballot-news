@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T21:02:12Z",
+ "generatedAt": "2026-11-09T21:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-09T19:21:57Z"
+    "newest": "2026-11-09T21:05:14Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "b1745128c336",
+   "source": "wfae",
+   "title": "How election upsets and seat flips could impact the balance of power in Raleigh and Washington",
+   "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-09/how-election-upsets-and-seat-flips-could-impact-the-balance-of-power-in-raleigh-and-washington",
+   "published": "2026-11-09T21:05:14Z",
+   "summary": "The results of the midterms are still reverberating with members of both parties trying to figure out their next moves. Democrats will now control both houses of Congress and the state House in North Carolina. We discuss how this will impact the balance of power and leadership."
+  },
   {
    "id": "c9884b12c017",
    "source": "wunc",
@@ -1293,14 +1301,6 @@
    "url": "https://ncnewsline.com/2026/11/02/new-numbers-expose-conservative-tough-on-crime-hypocrisy/",
    "published": "2026-11-02T19:17:36Z",
    "summary": "Crime. For decades, it’s long been a tried-and-true election tactic of the American political right to campaign under the “get tough on crime” banner. The model was cynically perfected during the 1988 presidential campaign in the infamous and racially charged “Willie Horton” ads…"
-  },
-  {
-   "id": "a15fa165ff02",
-   "source": "wfae",
-   "title": "The 1st Congressional District may be N.C.'s closest. Could a third-party candidate help decide it?",
-   "url": "https://www.wfae.org/2026-11-02/nc-libertarian-tom-bailey-first-district-third-party",
-   "published": "2026-11-02T18:36:34Z",
-   "summary": "Libertarian Tom Bailey is running in North Carolina's 1st Congressional District for the second consecutive election."
   },
   {
    "id": "6e7279ad556d",
