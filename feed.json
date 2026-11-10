@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T11:02:08Z",
+ "generatedAt": "2026-11-10T12:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -269,6 +269,14 @@
    "source": "wunc",
    "title": "Top Democrat says NC Senate will be more bipartisan regardless of final race outcome",
    "url": "https://www.wunc.org/politics/2026-11-09/democrat-sydney-batch-nc-senate-more-bipartisan-election",
+   "published": "2026-11-09T20:50:37Z",
+   "summary": "Sen. Sydney Batch, D-Wake, says the close partisan split after last week's election will stop Republicans from passing bills with no input from Democrats. She spoke with WUNC News on Monday."
+  },
+  {
+   "id": "0f011783e44d",
+   "source": "wfae",
+   "title": "Top Democrat says NC Senate will be more bipartisan regardless of final race outcome",
+   "url": "https://www.wfae.org/2026-11-09/democrat-sydney-batch-nc-senate-more-bipartisan-election",
    "published": "2026-11-09T20:50:37Z",
    "summary": "Sen. Sydney Batch, D-Wake, says the close partisan split after last week's election will stop Republicans from passing bills with no input from Democrats. She spoke with WUNC News on Monday."
   },
@@ -1285,14 +1293,6 @@
    "url": "https://www.wfae.org/politics/2026-11-03/its-election-day-how-to-cast-your-ballot-in-2026",
    "published": "2026-11-03T09:00:00Z",
    "summary": "Polls are open in the Carolinas. Here is what you need to know before you head to the ballot box."
-  },
-  {
-   "id": "e119cdaedde0",
-   "source": "wfae",
-   "title": "Who's ahead in fundraising as midterm campaigns wrap up?",
-   "url": "https://www.wfae.org/2026-11-02/nc-republican-democrat-fundraising-north-carolina-midterm-campaigns",
-   "published": "2026-11-02T21:20:53Z",
-   "summary": "The N.C. Democratic and Republican parties are reporting similar overall fundraising totals for state-level races this year, but there are big differences in how the money is being allocated for individual races."
   },
   {
    "id": "61b2ef0bb769",
