@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T21:47:10Z",
+ "generatedAt": "2026-11-10T22:47:12Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-10T21:07:28Z"
+    "newest": "2026-11-10T22:13:31Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "319624768b80",
+   "source": "ncnewsline",
+   "title": "Do North Carolinians have an appetite for impeachment? Here’s what a new poll finds.",
+   "url": "https://ncnewsline.com/2026/11/10/do-north-carolinians-have-an-appetite-for-impeachment-heres-what-a-new-poll-finds/",
+   "published": "2026-11-10T22:13:31Z",
+   "summary": "A week after the 2026 midterm that saw Democrats winning control of both the U.S. House and Senate, a new Elon University poll finds support for the idea of impeachment. The survey of 800 North Carolina adults was conducted before the Nov. 3rd election and released Tuesday. It…"
+  },
   {
    "id": "244c5ea64b6b",
    "source": "ncnewsline",
@@ -1659,14 +1667,6 @@
    "published": "2026-10-27T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "a0dc7b7a9de1",
-   "source": "ncnewsline",
-   "title": "Vantage points: The view from where NC county election directors sit",
-   "url": "https://ncnewsline.com/2026/10/26/vantage-points-the-view-from-where-nc-county-election-directors-sit/",
-   "published": "2026-10-26T18:25:34Z",
-   "summary": "In the first eight days of early voting, Wake County Election Director Olivia McCall has seen 70% higher turnout than in the 2022 midterm election. It’s “unprecedented,” she said. But it’s too early to tell whether the higher turnout foreshadows record-breaking overall turnout…"
   },
   {
    "id": "d263800fe642",
