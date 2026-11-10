@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T16:17:10Z",
+ "generatedAt": "2026-11-10T19:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-10T11:00:01Z"
+    "newest": "2026-11-10T19:20:04Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "9d932f45daba",
+   "source": "ncnewsline",
+   "title": "Likely Speaker-elect Reives signals bipartisan approach as Democrats flip NC House",
+   "url": "https://ncnewsline.com/2026/11/10/likely-speaker-elect-reives-signals-bipartisan-approach-as-democrats-flip-nc-house/",
+   "published": "2026-11-10T19:20:04Z",
+   "summary": "Republicans have controlled both legislative chambers since 2011, often with a veto-proof supermajority."
+  },
   {
    "id": "b1745128c336",
    "source": "wfae",
@@ -1650,14 +1658,6 @@
    "url": "https://ncnewsline.com/2026/10/26/scary-season/",
    "published": "2026-10-26T16:31:07Z",
    "summary": ""
-  },
-  {
-   "id": "c867e3719c8c",
-   "source": "ncnewsline",
-   "title": "Commentary: 3 ballot amendments would cost everyday North Carolinians dearly",
-   "url": "https://ncnewsline.com/2026/10/23/three-ballot-amendments-would-cost-everyday-north-carolinians-dearly/",
-   "published": "2026-10-23T17:02:05Z",
-   "summary": "Early voting has started, but North Carolina voters are hearing very little about three constitutional amendments tucked away at the end of the ballot. While the amendments are worded in a seemingly simple way, the three proposals are deceptive. Carolina Federation, an…"
   },
   {
    "id": "d263800fe642",
