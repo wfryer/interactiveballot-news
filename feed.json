@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T14:02:10Z",
+ "generatedAt": "2026-11-10T16:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,7 +89,7 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 32,
+    "itemCount": 34,
     "newest": "2026-11-10T11:30:00Z"
    }
   },
@@ -249,12 +249,28 @@
    "summary": "Here's what Democrats' election wins could mean for PFAS, or \"forever chemicals,\" in North Carolina. The post Democrats’ wins in North Carolina could put PFAS pollution back in spotlight appeared first on Cardinal & Pine ."
   },
   {
+   "id": "ce85bb13adb2",
+   "source": "wunc",
+   "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+   "url": "https://www.wunc.org/politics/2026-11-10/house-republicans-to-elect-a-new-leader-as-they-look-to-rebuild-from-midterm-defeat",
+   "published": "2026-11-10T10:01:00Z",
+   "summary": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he's stepping down as the chamber's top Republican."
+  },
+  {
    "id": "28ee7608136a",
    "source": "wunc",
    "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
    "url": "https://www.wunc.org/2026-11-10/house-republicans-to-elect-a-new-leader-as-they-look-to-rebuild-from-midterm-defeat",
    "published": "2026-11-10T10:01:00Z",
    "summary": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he's stepping down as the chamber's top Republican."
+  },
+  {
+   "id": "e9aed13b9bb6",
+   "source": "wunc",
+   "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+   "url": "https://www.wunc.org/politics/2026-11-10/the-democratic-party-gained-power-across-the-country-in-the-midterms-now-what",
+   "published": "2026-11-10T10:00:00Z",
+   "summary": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go."
   },
   {
    "id": "1f8dd8b9db0a",
