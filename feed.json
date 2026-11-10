@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T00:17:10Z",
+ "generatedAt": "2026-11-10T11:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-09T23:00:34Z"
+    "newest": "2026-11-10T11:00:01Z"
    }
   },
   {
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 15,
-    "newest": "2026-11-09T17:32:51Z"
+    "itemCount": 16,
+    "newest": "2026-11-10T11:00:00Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "02aa9fdd4d78",
+   "source": "ncnewsline",
+   "title": "Meet North Carolina’s US House members for the 120th Congress",
+   "url": "https://ncnewsline.com/2026/11/10/meet-north-carolinas-us-house-members-for-the-120th-congress/",
+   "published": "2026-11-10T11:00:01Z",
+   "summary": "North Carolina appears to be sending 10 Democrats and four Republicans to Washington in January."
+  },
+  {
+   "id": "4038886e87af",
+   "source": "cardinalpine",
+   "title": "Democrats’ wins in North Carolina could put PFAS pollution back in spotlight",
+   "url": "https://cardinalpine.com/news/environment/democrats-north-carolina-pfas-pollution/",
+   "published": "2026-11-10T11:00:00Z",
+   "summary": "Here's what Democrats' election wins could mean for PFAS, or \"forever chemicals,\" in North Carolina. The post Democrats’ wins in North Carolina could put PFAS pollution back in spotlight appeared first on Cardinal & Pine ."
+  },
   {
    "id": "bb8aaeedfb8f",
    "source": "ncnewsline",
@@ -1602,14 +1618,6 @@
    "url": "https://ncnewsline.com/2026/10/23/three-ballot-amendments-would-cost-everyday-north-carolinians-dearly/",
    "published": "2026-10-23T17:02:05Z",
    "summary": "Early voting has started, but North Carolina voters are hearing very little about three constitutional amendments tucked away at the end of the ballot. While the amendments are worded in a seemingly simple way, the three proposals are deceptive. Carolina Federation, an…"
-  },
-  {
-   "id": "5f296dfa5f9c",
-   "source": "ncnewsline",
-   "title": "Cooper rallies support one week into North Carolina’s early voting",
-   "url": "https://ncnewsline.com/2026/10/22/cooper-rallies-support-one-week-into-north-carolinas-early-voting/",
-   "published": "2026-10-23T01:29:36Z",
-   "summary": "More than 1 million North Carolinians cast their ballots during the first week of early voting."
   },
   {
    "id": "d263800fe642",
