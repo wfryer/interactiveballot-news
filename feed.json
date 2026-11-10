@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T16:02:10Z",
+ "generatedAt": "2026-11-10T16:17:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-09T21:05:14Z"
+    "newest": "2026-11-10T14:00:00Z"
    }
   },
   {
@@ -225,6 +225,14 @@
  ],
  "items": [
   {
+   "id": "b1745128c336",
+   "source": "wfae",
+   "title": "How election upsets and seat flips could impact the balance of power in Raleigh and Washington",
+   "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-09/how-election-upsets-and-seat-flips-could-impact-the-balance-of-power-in-raleigh-and-washington",
+   "published": "2026-11-10T14:00:00Z",
+   "summary": "The results of the midterms are still reverberating with members of both parties trying to figure out their next moves. Democrats will now control both houses of Congress and the state House in North Carolina. We discuss how this will impact the balance of power and leadership."
+  },
+  {
    "id": "3c1029008ca1",
    "source": "wunc",
    "title": "Why did California's billionaire tax fail to surf the blue wave?",
@@ -295,14 +303,6 @@
    "url": "https://ncnewsline.com/2026/11/09/nc-senate-democratic-leader-sees-a-path-to-bipartisanship-next-year/",
    "published": "2026-11-09T21:29:02Z",
    "summary": "Sen. Sydney Batch, a Wake County Democrat and the leader of her caucus in the North Carolina Senate, may have one of the most challenging jobs in the General Assembly next year. She’ll likely be balancing the expectations that come from Democrats being able to pass anything they…"
-  },
-  {
-   "id": "b1745128c336",
-   "source": "wfae",
-   "title": "How election upsets and seat flips could impact the balance of power in Raleigh and Washington",
-   "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-09/how-election-upsets-and-seat-flips-could-impact-the-balance-of-power-in-raleigh-and-washington",
-   "published": "2026-11-09T21:05:14Z",
-   "summary": "The results of the midterms are still reverberating with members of both parties trying to figure out their next moves. Democrats will now control both houses of Congress and the state House in North Carolina. We discuss how this will impact the balance of power and leadership."
   },
   {
    "id": "c9884b12c017",
