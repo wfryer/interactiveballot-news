@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T21:02:09Z",
+ "generatedAt": "2026-11-10T21:47:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-10T19:20:04Z"
+    "newest": "2026-11-10T21:07:28Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "244c5ea64b6b",
+   "source": "ncnewsline",
+   "title": "North Carolina challenges public school students to read 10 million books in 2027",
+   "url": "https://ncnewsline.com/2026/11/10/north-carolina-challenges-public-school-students-to-read-10-million-books-in-2027/",
+   "published": "2026-11-10T21:07:28Z",
+   "summary": "Can North Carolina public school students read 10 million books in one year? State Superintendent Maurice “Mo” Green thinks they can. Green announced the 10 Million Book Challenge on Tuesday, asking the state’s 1.5 million public school students to collectively read 10 million…"
+  },
   {
    "id": "9d932f45daba",
    "source": "ncnewsline",
@@ -1659,14 +1667,6 @@
    "url": "https://ncnewsline.com/2026/10/26/vantage-points-the-view-from-where-nc-county-election-directors-sit/",
    "published": "2026-10-26T18:25:34Z",
    "summary": "In the first eight days of early voting, Wake County Election Director Olivia McCall has seen 70% higher turnout than in the 2022 midterm election. It’s “unprecedented,” she said. But it’s too early to tell whether the higher turnout foreshadows record-breaking overall turnout…"
-  },
-  {
-   "id": "75a29fc0e998",
-   "source": "ncnewsline",
-   "title": "Commentary: Scary season",
-   "url": "https://ncnewsline.com/2026/10/26/scary-season/",
-   "published": "2026-10-26T16:31:07Z",
-   "summary": ""
   },
   {
    "id": "d263800fe642",
