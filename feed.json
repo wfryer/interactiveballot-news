@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T19:47:09Z",
+ "generatedAt": "2026-11-10T21:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -13,8 +13,8 @@
    "about": "https://www.ncsbe.gov/about",
    "status": {
     "state": "ok",
-    "itemCount": 16,
-    "newest": "2026-11-05T12:00:00Z"
+    "itemCount": 17,
+    "newest": "2026-11-10T12:00:00Z"
    }
   },
   {
@@ -239,6 +239,15 @@
    "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-09/how-election-upsets-and-seat-flips-could-impact-the-balance-of-power-in-raleigh-and-washington",
    "published": "2026-11-10T14:00:00Z",
    "summary": "The results of the midterms are still reverberating with members of both parties trying to figure out their next moves. Democrats will now control both houses of Congress and the state House in North Carolina. We discuss how this will impact the balance of power and leadership."
+  },
+  {
+   "id": "57ef0efab326",
+   "source": "ncsbe",
+   "title": "How to Know Your Vote Counted in North Carolina",
+   "url": "https://www.ncsbe.gov/news/press-releases/2026/11/10/how-know-your-vote-counted-north-carolina",
+   "published": "2026-11-10T12:00:00Z",
+   "summary": "",
+   "dateOnly": true
   },
   {
    "id": "3c1029008ca1",
