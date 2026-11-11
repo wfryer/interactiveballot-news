@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T13:17:09Z",
+ "generatedAt": "2026-11-11T13:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T00:18:53Z"
+    "newest": "2026-11-11T13:36:01Z"
    }
   },
   {
@@ -103,9 +103,10 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 33,
-    "newest": "2026-11-09T14:56:54Z"
+    "newest": "2026-11-09T14:56:54Z",
+    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
    }
   },
   {
@@ -224,6 +225,14 @@
   }
  ],
  "items": [
+  {
+   "id": "baa2501c26b8",
+   "source": "wfae",
+   "title": "Mark Robinson, wife file for Chapter 13 bankruptcy protection",
+   "url": "https://www.wfae.org/politics/2026-11-11/mark-robinson-wife-file-for-chapter-13-bankruptcy-protection",
+   "published": "2026-11-11T13:36:01Z",
+   "summary": "Former North Carolina Lt. Gov. Mark Robinson and his wife have filed for Chapter 13 bankruptcy protection, a process that allows debtors to reorganize their finances while retaining some assets.WRAL reported that the couple listed less than $800 in bank accounts and nearly…"
+  },
   {
    "id": "ee6b1f1f5eb1",
    "source": "ncnewsline",
@@ -1347,14 +1356,6 @@
    "url": "https://www.wunc.org/politics/2026-11-03/election-day-2026-midterms-cooper-whatley-senate-congress-legislature-bond-constitutional-amendment",
    "published": "2026-11-03T14:18:24Z",
    "summary": "The 2026 Midterms are here. WUNC News has you covered with last minute voting guides and how to track results as they come in tonight."
-  },
-  {
-   "id": "93be9af1b8bd",
-   "source": "wfae",
-   "title": "Mooresville approves 12-month moratorium on new data center projects",
-   "url": "https://www.wfae.org/politics/2026-11-03/mooresville-approves-12-month-moratorium-on-new-data-center-projects",
-   "published": "2026-11-03T12:23:17Z",
-   "summary": "Mooresville is the latest North Carolina community to implement a moratorium on new data center projects.WJZY reports that commissioners voted unanimously Monday night to impose a 12-month pause on new applications for the facilities.Town leaders said they want to find a balance…"
   },
   {
    "id": "aa1cba0dab90",
