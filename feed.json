@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T17:02:13Z",
+ "generatedAt": "2026-11-11T17:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T15:07:32Z"
+    "newest": "2026-11-11T17:11:05Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "965e0436e79d",
+   "source": "ncnewsline",
+   "title": "GOP incumbent Britt maintains 228-vote lead in closely watched NC Senate race",
+   "url": "https://ncnewsline.com/2026/11/11/gop-incumbent-britt-maintains-228-vote-lead-in-closely-watched-nc-senate-race/",
+   "published": "2026-11-11T17:11:05Z",
+   "summary": "Republican state Sen. Danny Britt maintained a narrow lead over Democratic challenger Catina Hamm in North Carolina’s 24th Senate District. The candidates were separated by just 228 votes Wednesday after officials counted provisional and cured ballots as the race moves toward…"
+  },
   {
    "id": "a4f6063f7759",
    "source": "carolinajournal",
@@ -1617,14 +1625,6 @@
    "url": "https://www.carolinajournal.com/fact-check-ad-targeting-echevarria-omits-customer-savings-requirement/",
    "published": "2026-10-29T17:19:36Z",
    "summary": "An attack ad cites Echevarria's support for SB 266, but the law includes regulatory conditions on early financing charges and canceled projects. The post Fact check: Ad targeting Echevarria omits customer-savings requirement appeared first on Carolina Journal ."
-  },
-  {
-   "id": "1cd770c9900a",
-   "source": "ncnewsline",
-   "title": "Prediction markets diverge from traditional polls in NC races as Election Day nears",
-   "url": "https://ncnewsline.com/2026/10/29/prediction-markets-diverge-from-traditional-polls-in-nc-races-as-election-day-nears/",
-   "published": "2026-10-29T12:00:19Z",
-   "summary": "With Election Day less than a week away, prediction markets are signaling strong chances for some North Carolina congressional candidates, even as some traditional polling remains uncertain. In North Carolina’s 1st Congressional District, polls have consistently shown Democratic…"
   },
   {
    "id": "2c6e9030ad77",
