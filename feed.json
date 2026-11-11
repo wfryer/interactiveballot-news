@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T17:47:08Z",
+ "generatedAt": "2026-11-11T18:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 36,
-    "newest": "2026-11-11T00:18:53Z"
+    "itemCount": 37,
+    "newest": "2026-11-11T17:42:26Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "224a17729f53",
+   "source": "wunc",
+   "title": "NC legislature has a lame-duck session next week. The agenda is a mystery.",
+   "url": "https://www.wunc.org/politics/2026-11-11/nc-legislature-has-a-lame-duck-session-next-week-the-agenda-is-a-mystery",
+   "published": "2026-11-11T17:42:26Z",
+   "summary": "The state legislature is scheduled to return to Raleigh next week, but no one seems to know what's on the agenda, when votes will take place, or how long it will last."
+  },
   {
    "id": "965e0436e79d",
    "source": "ncnewsline",
