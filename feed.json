@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T22:47:12Z",
+ "generatedAt": "2026-11-11T00:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 34,
-    "newest": "2026-11-10T11:30:00Z"
+    "itemCount": 35,
+    "newest": "2026-11-11T00:18:53Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "ead2d78eae24",
+   "source": "wunc",
+   "title": "With provisional ballots counted, Dems poised to pick up yet another N.C. Congressional seat, their 11th",
+   "url": "https://www.wunc.org/politics/2026-11-10/with-provisional-ballots-counted-dems-poised-to-pick-up-yet-another-n-c-congressional-seat-their-11th",
+   "published": "2026-11-11T00:18:53Z",
+   "summary": "In North Carolina's Third Congressional District, Democrat Raymond Smith took a small lead over U.S. Rep. Greg Murphy. Republicans' stronghold on the district was weakened as part of redistricting."
+  },
   {
    "id": "319624768b80",
    "source": "ncnewsline",
