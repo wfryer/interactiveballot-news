@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T18:02:10Z",
+ "generatedAt": "2026-11-11T21:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T13:36:01Z"
+    "newest": "2026-11-11T21:27:34Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "b06614921911",
+   "source": "wfae",
+   "title": "Elon poll: 47% of NC adults would support Trump impeachment",
+   "url": "https://www.wfae.org/2026-11-11/elon-university-poll-nc-attitudes-impeachment-2028-presidency",
+   "published": "2026-11-11T21:27:34Z",
+   "summary": "A recent poll from Elon University found a large number of North Carolinians could favor impeachments in the White House. Survey respondents also shared who they'd want to see run for president in 2028."
+  },
   {
    "id": "224a17729f53",
    "source": "wunc",
@@ -1379,14 +1387,6 @@
    "url": "https://www.carolinajournal.com/nc-libertarian-posts-ballot-selfie-while-awaiting-4th-circuit-ruling/",
    "published": "2026-11-03T15:39:25Z",
    "summary": "The Libertarian voter challenging North Carolina’s ban on “ballot selfies” posted a photo of her completed ballot on social media Tuesday morning. Susan Hogarth posted the photo while she awaits a federal Appeals Court ruling in her ongoing legal challenge. The post NC…"
-  },
-  {
-   "id": "38ae1217ed4d",
-   "source": "wfae",
-   "title": "How much money candidates raised — and spent — in some of greater Charlotte’s contested races",
-   "url": "https://www.wfae.org/politics/2026-11-03/how-much-money-candidates-raised-and-spent-in-some-of-greater-charlottes-contested-races",
-   "published": "2026-11-03T15:32:36Z",
-   "summary": "Candidates across North Carolina have made their final ad purchases and donors have given their last contributions in races covering Mecklenburg County and the surrounding area — some of which are expected to be close."
   },
   {
    "id": "ea83001ebf91",
