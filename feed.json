@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T08:02:07Z",
+ "generatedAt": "2026-11-11T11:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-10T14:00:00Z"
+    "newest": "2026-11-11T00:18:53Z"
    }
   },
   {
@@ -245,6 +245,14 @@
    "source": "wunc",
    "title": "With provisional ballots counted, Dems poised to pick up yet another N.C. Congressional seat, their 11th",
    "url": "https://www.wunc.org/politics/2026-11-10/with-provisional-ballots-counted-dems-poised-to-pick-up-yet-another-n-c-congressional-seat-their-11th",
+   "published": "2026-11-11T00:18:53Z",
+   "summary": "In North Carolina's Third Congressional District, Democrat Raymond Smith took a small lead over U.S. Rep. Greg Murphy. Republicans' stronghold on the district was weakened as part of redistricting."
+  },
+  {
+   "id": "4381effffbc8",
+   "source": "wfae",
+   "title": "With provisional ballots counted, Dems poised to pick up yet another N.C. Congressional seat, their 11th",
+   "url": "https://www.wfae.org/2026-11-10/with-provisional-ballots-counted-dems-poised-to-pick-up-yet-another-n-c-congressional-seat-their-11th",
    "published": "2026-11-11T00:18:53Z",
    "summary": "In North Carolina's Third Congressional District, Democrat Raymond Smith took a small lead over U.S. Rep. Greg Murphy. Republicans' stronghold on the district was weakened as part of redistricting."
   },
@@ -1382,14 +1390,6 @@
    "url": "https://ncnewsline.com/2026/11/03/national-pollster-says-message-discipline-to-benefit-nc-democrats-in-2026-midterms/",
    "published": "2026-11-03T11:01:01Z",
    "summary": "Months of campaigning and endless political commercials draw to a close Tuesday as voters cast their final ballots in the 2026 midterm elections. Thirty-six percent of North Carolina’s registered voters cast ballots before Election Day. New records were also set during the early…"
-  },
-  {
-   "id": "a5d27ebc7a03",
-   "source": "wfae",
-   "title": "It's Election Day: How to cast your ballot in 2026",
-   "url": "https://www.wfae.org/politics/2026-11-03/its-election-day-how-to-cast-your-ballot-in-2026",
-   "published": "2026-11-03T09:00:00Z",
-   "summary": "Polls are open in the Carolinas. Here is what you need to know before you head to the ballot box."
   },
   {
    "id": "61b2ef0bb769",
