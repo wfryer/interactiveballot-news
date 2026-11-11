@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T00:32:09Z",
+ "generatedAt": "2026-11-11T01:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-10T22:13:31Z"
+    "newest": "2026-11-11T01:04:27Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "7171974fe240",
+   "source": "ncnewsline",
+   "title": "Voting rights group flags thousands of NC provisional ballots for review",
+   "url": "https://ncnewsline.com/2026/11/10/voting-rights-group-flags-thousands-of-nc-provisional-ballots-for-review/",
+   "published": "2026-11-11T01:04:27Z",
+   "summary": "A North Carolina voting rights organization is urging state election officials to closely review thousands of provisional ballots cast in last week’s general election. The group says its team found voters who may have been eligible to vote in their counties but were required to…"
+  },
   {
    "id": "ead2d78eae24",
    "source": "wunc",
@@ -1633,14 +1641,6 @@
    "url": "https://www.wunc.org/politics/2026-10-28/voters-11-nc-counties-will-decide-whether-to-raise-their-sales-taxes",
    "published": "2026-10-28T17:29:11Z",
    "summary": "The question is on the ballot in Bladen, Dare and Columbus counties, as well as Hoke, Sampson and Currituck. Guilford County is the only urban community with a sales tax referendum this election."
-  },
-  {
-   "id": "b028a853ba55",
-   "source": "ncnewsline",
-   "title": "Democrats see opening for Barringer in NC-13 race against freshman Republican Knott",
-   "url": "https://ncnewsline.com/2026/10/28/democrats-see-opening-for-barringer-in-nc-13-race-against-freshman-republican-knott/",
-   "published": "2026-10-28T12:00:44Z",
-   "summary": "Democrat Paul Barringer is challenging freshman GOP U.S. Rep. Brad Knott for the seat."
   },
   {
    "id": "97b5c4c4db58",
