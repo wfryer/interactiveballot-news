@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T14:02:09Z",
+ "generatedAt": "2026-11-11T15:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T01:08:15Z"
+    "newest": "2026-11-11T15:07:32Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "5be9aefde6b4",
+   "source": "ncnewsline",
+   "title": "Hubbard appears to have ousted Foxx in NC-05 as provisionals, cured ballots counted",
+   "url": "https://ncnewsline.com/2026/11/11/hubbard-appears-to-defeat-foxx-in-nc-05-as-provisionals-cured-ballots-counted/",
+   "published": "2026-11-11T15:07:32Z",
+   "summary": "In unofficial returns on election night, Hubbard held a razor-slim lead over Foxx of 99 votes."
+  },
   {
    "id": "baa2501c26b8",
    "source": "wfae",
@@ -1617,14 +1625,6 @@
    "url": "https://www.carolinajournal.com/voter-id-tax-cap-amendments-from-2018-face-nc-appeals-court-hearing/",
    "published": "2026-10-28T22:32:28Z",
    "summary": "The North Carolina Court of Appeals is tackling a seven-year-old legal battle over state constitutional amendments voters approved in 2018 to lower the state income tax cap and require photo identification for in-person voters. The post Voter ID, tax cap amendments from 2018…"
-  },
-  {
-   "id": "673895fffbfa",
-   "source": "ncnewsline",
-   "title": "US Justice Department to send election monitors to these NC counties",
-   "url": "https://ncnewsline.com/2026/10/28/us-justice-department-to-send-election-monitors-to-these-nc-counties/",
-   "published": "2026-10-28T22:13:30Z",
-   "summary": "U.S. Department of Justice election monitors will be in Wake, Alamance, and Mecklenburg counties on Election Day, according to the state Board of Elections. The Justice Department announced it would send monitors to every state as part of the largest monitoring effort in…"
   },
   {
    "id": "7515c1e9cf53",
