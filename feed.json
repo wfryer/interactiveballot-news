@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T21:32:08Z",
+ "generatedAt": "2026-11-11T21:47:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 34,
-    "newest": "2026-11-11T17:00:00Z"
+    "itemCount": 35,
+    "newest": "2026-11-11T21:36:06Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "136b27187e3e",
+   "source": "carolinajournal",
+   "title": "Greg Murphy concedes in NC-3",
+   "url": "https://www.carolinajournal.com/greg-murphy-concedes-in-nc-3/",
+   "published": "2026-11-11T21:36:06Z",
+   "summary": "Murphy concedes NC-3 to Raymond Smith after provisional ballots erase his 233-vote Election Night lead. Smith leads by 293 in unofficial totals. The post Greg Murphy concedes in NC-3 appeared first on Carolina Journal ."
+  },
   {
    "id": "b06614921911",
    "source": "wfae",
