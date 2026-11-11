@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T01:17:09Z",
+ "generatedAt": "2026-11-11T01:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T01:04:27Z"
+    "newest": "2026-11-11T01:08:15Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "ee6b1f1f5eb1",
+   "source": "ncnewsline",
+   "title": "Democratic wave in NC flips a sixth Congressional seat as counting wraps up",
+   "url": "https://ncnewsline.com/2026/11/10/democratic-wave-in-nc-flips-a-sixth-congressional-seat-as-counting-wraps-up/",
+   "published": "2026-11-11T01:08:15Z",
+   "summary": "Last Tuesday was a good night for North Carolina Democrats, who rode a blue wave to upset five Republican congressional incumbents. As counting continues, one more seat appears to have been added to that list. After provisional and cured absentee ballots were counted Tuesday, in…"
+  },
   {
    "id": "7171974fe240",
    "source": "ncnewsline",
@@ -1617,14 +1625,6 @@
    "url": "https://ncnewsline.com/2026/10/28/us-justice-department-to-send-election-monitors-to-these-nc-counties/",
    "published": "2026-10-28T22:13:30Z",
    "summary": "U.S. Department of Justice election monitors will be in Wake, Alamance, and Mecklenburg counties on Election Day, according to the state Board of Elections. The Justice Department announced it would send monitors to every state as part of the largest monitoring effort in…"
-  },
-  {
-   "id": "07fa2b158856",
-   "source": "ncnewsline",
-   "title": "Vance urges GOP base to head to the polls during North Carolina visit",
-   "url": "https://ncnewsline.com/2026/10/28/vance-urges-gop-to-head-to-the-polls-during-north-carolina-visit/",
-   "published": "2026-10-28T22:01:06Z",
-   "summary": "The challenging political climate has left Republicans playing defense in more states than expected."
   },
   {
    "id": "7515c1e9cf53",
