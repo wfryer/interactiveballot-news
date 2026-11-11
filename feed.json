@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T16:47:12Z",
+ "generatedAt": "2026-11-11T17:02:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 33,
-    "newest": "2026-11-09T14:56:54Z"
+    "itemCount": 34,
+    "newest": "2026-11-11T17:00:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a4f6063f7759",
+   "source": "carolinajournal",
+   "title": "NC voters reject 9 of 11 county sales tax referendums",
+   "url": "https://www.carolinajournal.com/nc-voters-reject-9-of-11-county-sales-tax-referendums/",
+   "published": "2026-11-11T17:00:00Z",
+   "summary": "North Carolina retailers paid more than $283 million in credit card swipe fees on sales taxes they collected in 2024. The post NC voters reject 9 of 11 county sales tax referendums appeared first on Carolina Journal ."
+  },
   {
    "id": "5be9aefde6b4",
    "source": "ncnewsline",
