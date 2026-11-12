@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T11:17:09Z",
+ "generatedAt": "2026-11-12T14:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 37,
-    "newest": "2026-11-11T17:42:26Z"
+    "itemCount": 38,
+    "newest": "2026-11-12T10:00:00Z"
    }
   },
   {
@@ -231,6 +231,14 @@
    "url": "https://ncnewsline.com/2026/11/12/i-got-to-tell-him-ojeda-wins-nc-09-seat-just-days-before-father-passes-away/",
    "published": "2026-11-12T11:00:48Z",
    "summary": "Richard Ojeda unseated GOP Rep. Richard Hudson in a surprise upset."
+  },
+  {
+   "id": "0539e3d89f92",
+   "source": "wunc",
+   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "url": "https://www.wunc.org/2026-11-12/a-blue-wave-helped-offset-for-now-a-falling-tally-of-black-members-in-the-u-s-house",
+   "published": "2026-11-12T10:00:00Z",
+   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
   },
   {
    "id": "136b27187e3e",
