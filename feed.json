@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:02:09Z",
+ "generatedAt": "2026-11-12T17:17:14Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 16,
-    "newest": "2026-11-10T11:00:00Z"
+    "itemCount": 17,
+    "newest": "2026-11-12T17:12:42Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "08c2135c184b",
+   "source": "cardinalpine",
+   "title": "Democrats made gains in Western NC. Now comes the hard part.",
+   "url": "https://cardinalpine.com/news/politics/democrats-gains-western-nc-what-comes-next/",
+   "published": "2026-11-12T17:12:42Z",
+   "summary": "“The morning of the election, I said to my campaign manager, we're about to find out just how tired America is - and it turned out they were pretty tired.\" The post Democrats made gains in Western NC. Now comes the hard part. appeared first on Cardinal & Pine ."
+  },
   {
    "id": "e0c8242f35f0",
    "source": "carolinapublicpress",
