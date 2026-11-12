@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T14:02:09Z",
+ "generatedAt": "2026-11-12T14:17:11Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 35,
-    "newest": "2026-11-11T21:36:06Z"
+    "itemCount": 36,
+    "newest": "2026-11-12T14:11:30Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "fe85a3383ef7",
+   "source": "carolinajournal",
+   "title": "4 NC congressional, 6 legislative races in recount territory",
+   "url": "https://www.carolinajournal.com/4-nc-congressional-6-legislative-races-in-recount-territory/",
+   "published": "2026-11-12T14:11:30Z",
+   "summary": "Four US House races and six North Carolina legislative races remained close enough for potential recounts after county election officials counted provisional ballots Tuesday, according to unofficial State Board of Elections results. State law allows trailing candidates to…"
+  },
   {
    "id": "295fdf63bcca",
    "source": "ncnewsline",
