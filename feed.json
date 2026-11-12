@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T19:02:10Z",
+ "generatedAt": "2026-11-12T20:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,7 +89,7 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 38,
+    "itemCount": 39,
     "newest": "2026-11-12T10:00:00Z"
    }
   },
@@ -269,6 +269,14 @@
    "source": "wunc",
    "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
    "url": "https://www.wunc.org/2026-11-12/a-blue-wave-helped-offset-for-now-a-falling-tally-of-black-members-in-the-u-s-house",
+   "published": "2026-11-12T10:00:00Z",
+   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
+  },
+  {
+   "id": "040b70ab3e57",
+   "source": "wunc",
+   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "url": "https://www.wunc.org/politics/2026-11-12/a-blue-wave-helped-offset-for-now-a-falling-tally-of-black-members-in-the-u-s-house",
    "published": "2026-11-12T10:00:00Z",
    "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
   },
