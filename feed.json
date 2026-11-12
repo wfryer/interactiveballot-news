@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T06:02:09Z",
+ "generatedAt": "2026-11-12T11:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T17:11:05Z"
+    "newest": "2026-11-12T11:00:48Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "295fdf63bcca",
+   "source": "ncnewsline",
+   "title": "‘I got to tell him’: Ojeda wins NC-09 seat just days before father passes away",
+   "url": "https://ncnewsline.com/2026/11/12/i-got-to-tell-him-ojeda-wins-nc-09-seat-just-days-before-father-passes-away/",
+   "published": "2026-11-12T11:00:48Z",
+   "summary": "Richard Ojeda unseated GOP Rep. Richard Hudson in a surprise upset."
+  },
   {
    "id": "136b27187e3e",
    "source": "carolinajournal",
@@ -1617,14 +1625,6 @@
    "url": "https://ncnewsline.com/2026/10/29/eastern-nc-congressional-race-is-most-expensive-in-us-history/",
    "published": "2026-10-29T21:28:06Z",
    "summary": "A mammoth $52.9 million has poured into ad spending and reservations for North Carolina's 1st Congressional District."
-  },
-  {
-   "id": "63ad6733ccd0",
-   "source": "ncnewsline",
-   "title": "New campaign aims to help NC Medicaid recipients keep coverage under new rules",
-   "url": "https://ncnewsline.com/2026/10/29/new-campaign-aims-to-help-nc-medicaid-recipients-keep-coverage-under-new-rules/",
-   "published": "2026-10-29T20:45:25Z",
-   "summary": "A new campaign launching in North Carolina aims to help Medicaid recipients navigate upcoming federal requirements and avoid losing coverage because of confusing paperwork or reporting rules. Keep Your Care, a national campaign focused on helping people maintain Medicaid…"
   },
   {
    "id": "84cb53ed2f78",
