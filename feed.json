@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T14:17:11Z",
+ "generatedAt": "2026-11-12T14:32:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 8,
-    "newest": "2026-11-06T17:34:31Z"
+    "itemCount": 9,
+    "newest": "2026-11-12T14:24:49Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "e0c8242f35f0",
+   "source": "carolinapublicpress",
+   "title": "Still counting votes. Some NC contests have flipped and others remain too close to call.",
+   "url": "https://carolinapublicpress.org/83025/still-counting-votes-some-nc-contests-have-flipped-and-others-remain-too-close-to-call/",
+   "published": "2026-11-12T14:24:49Z",
+   "summary": "NC county boards of election will conduct canvass of votes on Nov. 13, after which protests or recount requests could still delay results. Still counting votes. Some NC contests have flipped and others remain too close to call. is a story from Carolina Public Press , an…"
+  },
   {
    "id": "fe85a3383ef7",
    "source": "carolinajournal",
