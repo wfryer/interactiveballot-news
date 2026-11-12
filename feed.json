@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T17:17:14Z",
+ "generatedAt": "2026-11-12T19:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 36,
-    "newest": "2026-11-12T14:11:30Z"
+    "itemCount": 37,
+    "newest": "2026-11-12T19:00:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "0f346b431168",
+   "source": "carolinajournal",
+   "title": "Democrats complain ad rate dispute with FCC could extend into 2028",
+   "url": "https://www.carolinajournal.com/democrats-complain-ad-rate-dispute-with-fcc-could-extend-into-2028/",
+   "published": "2026-11-12T19:00:00Z",
+   "summary": "A broadcast election ad rate dispute pitting four Democratic candidates against the Federal Communications Commission could extend into the 2028 election cycle. Lawyers representing the Democrats delivered that warning this week in a US Supreme Court filing. The post Democrats…"
+  },
   {
    "id": "08c2135c184b",
    "source": "cardinalpine",
