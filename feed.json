@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T20:17:09Z",
+ "generatedAt": "2026-11-13T11:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-12T11:00:48Z"
+    "newest": "2026-11-13T11:00:32Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "1a5e28d3a4aa",
+   "source": "ncnewsline",
+   "title": "Republicans bet everything on anti-trans messaging this cycle. It didn’t pay off.",
+   "url": "https://ncnewsline.com/2026/11/13/republicans-bet-everything-on-anti-trans-messaging-this-cycle-it-didnt-pay-off/",
+   "published": "2026-11-13T11:00:32Z",
+   "summary": "This story was originally reported by Brooke Migdon and Orion Rummler of The 19th. Meet Brooke and Orion and read more of their reporting on gender, politics and policy. Florida Gov. Ron DeSantis, a Republican who has passed some of the most extreme anti-LGBTQ+ laws in the…"
+  },
   {
    "id": "0f346b431168",
    "source": "carolinajournal",
@@ -1665,14 +1673,6 @@
    "url": "https://ncnewsline.com/2026/10/29/federal-prosecutors-announce-more-indictments-in-nc-for-illegal-voting/",
    "published": "2026-10-29T21:39:05Z",
    "summary": "The U.S. Department of Justice on Thursday announced it has indicted 18 more people living in North Carolina with voting illegally in 2024. Two weeks ago, on the first day of early voting, the Justice Department announced the indictments of 10 people on charges of voting…"
-  },
-  {
-   "id": "4491a391c011",
-   "source": "ncnewsline",
-   "title": "Eastern NC congressional race is most expensive in US history",
-   "url": "https://ncnewsline.com/2026/10/29/eastern-nc-congressional-race-is-most-expensive-in-us-history/",
-   "published": "2026-10-29T21:28:06Z",
-   "summary": "A mammoth $52.9 million has poured into ad spending and reservations for North Carolina's 1st Congressional District."
   },
   {
    "id": "84cb53ed2f78",
