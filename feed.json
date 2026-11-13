@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T20:32:08Z",
+ "generatedAt": "2026-11-13T21:32:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-13T19:55:38Z"
+    "newest": "2026-11-13T21:00:24Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "d4a2d6c8e18f",
+   "source": "ncnewsline",
+   "title": "Oklahoma law enforcement offers hard lessons as NC weighs cannabis legalization recommendations",
+   "url": "https://ncnewsline.com/2026/11/13/oklahoma-law-enforcement-offers-hard-lessons-as-nc-weighs-cannabis-legalization-recommendations/",
+   "published": "2026-11-13T21:00:24Z",
+   "summary": "Lt. Col. Mitch Smith with the Oklahoma Bureau of Narcotics and Dangerous Drugs says there have been many unintended consequences in the eight years since the Sooner state voted to legalize medical marijuana. Smith, director of the bureau’s marijuana enforcement unit, said North…"
+  },
   {
    "id": "a7daf197d349",
    "source": "carolinajournal",
@@ -1648,14 +1656,6 @@
    "url": "https://cardinalpine.com/local/viral-jonestown-guy-trump-rally-charlotte/",
    "published": "2026-10-30T17:52:25Z",
    "summary": "A Charlotte man flipped the script on Fox News. Plus: Adorable otter pups! The post That viral ‘Jonestown’ guy at the Trump rally? He’s from Charlotte appeared first on Cardinal & Pine ."
-  },
-  {
-   "id": "49ac86c85a6d",
-   "source": "ncnewsline",
-   "title": "Commentary: Handing out ballots and counting them up",
-   "url": "https://ncnewsline.com/2026/10/30/handing-out-ballots-and-counting-them-up/",
-   "published": "2026-10-30T16:45:52Z",
-   "summary": "“Low visibility ahead,” a Google Maps alert read one recent morning as I drove west on U.S. 421 toward Yadkin County for a meeting of the county board of elections. And sure enough, when I hit the bridge to cross the muddy Yadkin, a soft fog hung over the river, the effect of…"
   },
   {
    "id": "1f47298a8b38",
