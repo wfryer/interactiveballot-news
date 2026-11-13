@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T20:17:08Z",
+ "generatedAt": "2026-11-13T20:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 37,
-    "newest": "2026-11-12T19:00:00Z"
+    "itemCount": 38,
+    "newest": "2026-11-13T20:19:59Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a7daf197d349",
+   "source": "carolinajournal",
+   "title": "NC House Republicans weigh final moves before Democrats take control",
+   "url": "https://www.carolinajournal.com/nc-house-republicans-weigh-final-moves-before-democrats-take-control/",
+   "published": "2026-11-13T20:19:59Z",
+   "summary": "With Democrats set to control the NC House in January, Republican leaders face decisions on veto overrides, unfinished legislation, and possible power shifts. The post NC House Republicans weigh final moves before Democrats take control appeared first on Carolina Journal ."
+  },
   {
    "id": "e8e948e8074a",
    "source": "ncnewsline",
