@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T11:17:08Z",
+ "generatedAt": "2026-11-13T16:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -13,8 +13,8 @@
    "about": "https://www.ncsbe.gov/about",
    "status": {
     "state": "ok",
-    "itemCount": 17,
-    "newest": "2026-11-10T12:00:00Z"
+    "itemCount": 18,
+    "newest": "2026-11-13T12:00:00Z"
    }
   },
   {
@@ -224,6 +224,15 @@
   }
  ],
  "items": [
+  {
+   "id": "b00afda44add",
+   "source": "ncsbe",
+   "title": "North Carolina's Recount Process, Explained",
+   "url": "https://www.ncsbe.gov/news/press-releases/2026/11/13/north-carolinas-recount-process-explained",
+   "published": "2026-11-13T12:00:00Z",
+   "summary": "",
+   "dateOnly": true
+  },
   {
    "id": "1a5e28d3a4aa",
    "source": "ncnewsline",
