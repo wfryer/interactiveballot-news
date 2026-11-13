@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T17:17:09Z",
+ "generatedAt": "2026-11-13T20:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-13T11:00:32Z"
+    "newest": "2026-11-13T19:55:38Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "e8e948e8074a",
+   "source": "ncnewsline",
+   "title": "Prediction markets offered another way to forecast NC’s elections. But should voters trust them?",
+   "url": "https://ncnewsline.com/2026/11/13/prediction-markets-offered-another-way-to-forecast-ncs-elections-but-should-voters-trust-them/",
+   "published": "2026-11-13T19:55:38Z",
+   "summary": "The growing popularity of platforms such as Kalshi and Polymarket has brought prediction markets into mainstream political coverage, with their odds increasingly appearing on-screen alongside traditional polling and election forecasts. Those markets correctly anticipated…"
+  },
   {
    "id": "b2ca8d0fc5cc",
    "source": "cardinalpine",
@@ -1682,14 +1690,6 @@
    "published": "2026-10-30T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "dc0709ecc69f",
-   "source": "ncnewsline",
-   "title": "Federal prosecutors announce more indictments in NC for illegal voting",
-   "url": "https://ncnewsline.com/2026/10/29/federal-prosecutors-announce-more-indictments-in-nc-for-illegal-voting/",
-   "published": "2026-10-29T21:39:05Z",
-   "summary": "The U.S. Department of Justice on Thursday announced it has indicted 18 more people living in North Carolina with voting illegally in 2024. Two weeks ago, on the first day of early voting, the Justice Department announced the indictments of 10 people on charges of voting…"
   },
   {
    "id": "84cb53ed2f78",
