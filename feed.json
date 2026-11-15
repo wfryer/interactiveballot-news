@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T04:32:11Z",
+ "generatedAt": "2026-11-15T06:17:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -73,9 +73,10 @@
    "description": "Charlotte's NPR member station. Reports on elections, local government and early voting in the Charlotte region. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.wfae.org",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 40,
-    "newest": "2026-11-11T21:27:34Z"
+    "newest": "2026-11-11T21:27:34Z",
+    "error": "https://www.wfae.org/politics.rss: TimeoutError: The read operation timed out"
    }
   },
   {
@@ -88,9 +89,10 @@
    "description": "North Carolina public radio from Chapel Hill and an NPR member. Covers state politics and the 2026 election. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.wunc.org",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 39,
-    "newest": "2026-11-12T10:00:00Z"
+    "newest": "2026-11-12T10:00:00Z",
+    "error": "https://www.wunc.org/politics.rss: TimeoutError: The read operation timed out"
    }
   },
   {
@@ -103,9 +105,10 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 38,
-    "newest": "2026-11-13T20:19:59Z"
+    "newest": "2026-11-13T20:19:59Z",
+    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
    }
   },
   {
