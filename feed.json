@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:32:08Z",
+ "generatedAt": "2026-11-15T06:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -88,10 +88,9 @@
    "description": "North Carolina public radio from Chapel Hill and an NPR member. Covers state politics and the 2026 election. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.wunc.org",
    "status": {
-    "state": "error",
+    "state": "ok",
     "itemCount": 39,
-    "newest": "2026-11-12T10:00:00Z",
-    "error": "https://www.wunc.org/politics.rss: TimeoutError: The read operation timed out"
+    "newest": "2026-11-12T10:00:00Z"
    }
   },
   {
