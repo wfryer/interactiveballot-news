@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:47:09Z",
+ "generatedAt": "2026-11-16T20:32:17Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -89,8 +89,8 @@
    "homepage": "https://www.wunc.org",
    "status": {
     "state": "ok",
-    "itemCount": 39,
-    "newest": "2026-11-12T10:00:00Z"
+    "itemCount": 40,
+    "newest": "2026-11-16T19:32:14Z"
    }
   },
   {
@@ -229,6 +229,14 @@
    "source": "wfae",
    "title": "Democrat Ashley Bell requests recount in NC's 10th Congressional District",
    "url": "https://www.wfae.org/2026-11-16/democrat-ashley-bell-requests-recount-in-ncs-10th-congressional-district",
+   "published": "2026-11-16T19:32:14Z",
+   "summary": "Democrat Ashley Bell has requested a recount in North Carolina's 10th Congressional District, where Republican Pat Harrigan leads by about 2,500 votes. The recount is set to begin Tuesday in Forsyth County."
+  },
+  {
+   "id": "257b276c669c",
+   "source": "wunc",
+   "title": "Democrat Ashley Bell requests recount in NC's 10th Congressional District",
+   "url": "https://www.wunc.org/2026-11-16/democrat-ashley-bell-requests-recount-in-ncs-10th-congressional-district",
    "published": "2026-11-16T19:32:14Z",
    "summary": "Democrat Ashley Bell has requested a recount in North Carolina's 10th Congressional District, where Republican Pat Harrigan leads by about 2,500 votes. The recount is set to begin Tuesday in Forsyth County."
   },
