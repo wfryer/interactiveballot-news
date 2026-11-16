@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:17:08Z",
+ "generatedAt": "2026-11-16T15:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 18,
-    "newest": "2026-11-13T17:06:05Z"
+    "itemCount": 19,
+    "newest": "2026-11-16T15:25:59Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "415cc2e5f9a4",
+   "source": "cardinalpine",
+   "title": "‘Lame duck’ NC General Assembly returns: Will there be shenanigans?",
+   "url": "https://cardinalpine.com/news/politics/lame-duck-nc-general-assembly-returns/",
+   "published": "2026-11-16T15:25:59Z",
+   "summary": "Shenanigans or no shenanigans? What to expect of the \"lame duck\" NC General Assembly. Plus: The NC Chinese Lantern Festival returns. The post ‘Lame duck’ NC General Assembly returns: Will there be shenanigans? appeared first on Cardinal & Pine ."
+  },
   {
    "id": "0bd8ffa9e619",
    "source": "wfae",
