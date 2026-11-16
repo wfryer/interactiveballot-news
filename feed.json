@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:32:09Z",
+ "generatedAt": "2026-11-16T16:17:15Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 19,
-    "newest": "2026-11-16T15:25:59Z"
+    "itemCount": 20,
+    "newest": "2026-11-16T15:57:35Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "da3cde1fadac",
+   "source": "cardinalpine",
+   "title": "North Carolina’s Jamie Ager leads push for congressional stock trading ban",
+   "url": "https://cardinalpine.com/news/politics/north-carolina-jamie-ager-stock-trading-ban/",
+   "published": "2026-11-16T15:57:35Z",
+   "summary": "Newly elected US Rep. Jamie Ager says members of Congress and their spouses shouldn't be allowed to own or trade stocks. The post North Carolina’s Jamie Ager leads push for congressional stock trading ban appeared first on Cardinal & Pine ."
+  },
   {
    "id": "415cc2e5f9a4",
    "source": "cardinalpine",
