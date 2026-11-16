@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T17:02:31Z",
+ "generatedAt": "2026-11-16T17:17:11Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-13T21:00:24Z"
+    "newest": "2026-11-16T17:00:01Z"
    }
   },
   {
@@ -103,10 +103,9 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "error",
+    "state": "ok",
     "itemCount": 39,
-    "newest": "2026-11-16T09:00:00Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
+    "newest": "2026-11-16T09:00:00Z"
    }
   },
   {
@@ -225,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "b4656ea725ab",
+   "source": "ncnewsline",
+   "title": "Who will be the NC Senate’s next leader and money man?",
+   "url": "https://ncnewsline.com/2026/11/16/nc-legislature/",
+   "published": "2026-11-16T17:00:01Z",
+   "summary": "An election that only 50 North Carolinians will get to vote in will be hugely consequential for what happens in state government for the next two years. Senate Republicans, who seem likely to hold onto a slim one-vote majority in 2027, will decide soon which person they’re going…"
+  },
   {
    "id": "da3cde1fadac",
    "source": "cardinalpine",
@@ -1624,14 +1631,6 @@
    "url": "https://cardinalpine.com/news/nc-cities-free-transportation-election-day/",
    "published": "2026-11-02T17:13:05Z",
    "summary": "Election Day transportation, college basketball tips off, and going deep on Cherokee history. Here are 3 things happening in NC this week. The post Some North Carolina cities are offering free transportation to Election Day polling places appeared first on Cardinal & Pine ."
-  },
-  {
-   "id": "3da7e1ebe3a3",
-   "source": "ncnewsline",
-   "title": "Democrats and unaffiliated voters cast about 73% of ballots in NC’s record-setting early turnout",
-   "url": "https://ncnewsline.com/2026/11/02/democrats-and-unaffiliated-voters-cast-about-73-of-ballots-in-ncs-record-setting-early-turnout/",
-   "published": "2026-11-02T13:30:19Z",
-   "summary": "Early voting in a midterm election set a record this year in North Carolina, with more than 2.7 million people voting in person by Saturday afternoon. With mail-in ballots included, 2.8 million votes have been cast, meaning 36% of registered voters have cast ballots before…"
   },
   {
    "id": "3d696b1733e8",
