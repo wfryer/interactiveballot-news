@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T14:32:09Z",
+ "generatedAt": "2026-11-16T15:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-11T21:27:34Z"
+    "newest": "2026-11-16T15:07:38Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "0bd8ffa9e619",
+   "source": "wfae",
+   "title": "Democrats’ N.C. gains may last beyond 2026",
+   "url": "https://www.wfae.org/politics/2026-11-16/democrats-n-c-gains-may-last-beyond-2026",
+   "published": "2026-11-16T15:07:38Z",
+   "summary": "Were North Carolina Democrats’ midterm gains part of a national wave or a sign of a lasting shift? In this week’s Inside Politics, WFAE’s Steve Harrison examines the state’s changing electorate and what it could mean for future elections. Plus, a Charlotte airport lease vote…"
+  },
   {
    "id": "d97eb2e96720",
    "source": "carolinajournal",
@@ -1490,14 +1498,6 @@
    "source": "wunc",
    "title": "Federal election monitors present in three NC counties",
    "url": "https://www.wunc.org/2026-11-03/federal-election-monitors-present-in-three-nc-counties",
-   "published": "2026-11-03T17:31:10Z",
-   "summary": "Federal election monitors are present in Alamance, Wake and Mecklenburg counties today. State election officials say their presence is routine and shouldn't alarm voters."
-  },
-  {
-   "id": "0e56131d957c",
-   "source": "wfae",
-   "title": "Federal election monitors present in three NC counties",
-   "url": "https://www.wfae.org/2026-11-03/federal-election-monitors-present-in-three-nc-counties",
    "published": "2026-11-03T17:31:10Z",
    "summary": "Federal election monitors are present in Alamance, Wake and Mecklenburg counties today. State election officials say their presence is routine and shouldn't alarm voters."
   },
