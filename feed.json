@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:32:17Z",
+ "generatedAt": "2026-11-16T20:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T17:00:01Z"
+    "newest": "2026-11-16T20:35:20Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4de9d506dd51",
+   "source": "ncnewsline",
+   "title": "Commentary: NC GOP leaders kneecap state and local government on their way out the door",
+   "url": "https://ncnewsline.com/2026/11/16/nc-gop-leaders-kneecap-state-and-local-government-on-their-way-out-the-door/",
+   "published": "2026-11-16T20:35:20Z",
+   "summary": "While the magnitude of recent Democratic gains in North Carolina state legislative races ended up being much larger than what even many optimistic partisans had predicted and hoped for, the general trend was not, in the end, surprising. Ever since primary voters sent veteran…"
+  },
   {
    "id": "2fb28b9fb422",
    "source": "wfae",
@@ -1623,14 +1631,6 @@
    "url": "https://www.wunc.org/politics/2026-11-02/knightdales-bond-referendum-community-center-raise-property-taxes",
    "published": "2026-11-02T20:16:12Z",
    "summary": "This Election Day, voters will weigh in on the Knightdale Parks & Recreation Bond. If passed, the funds will go toward a new community center designed to support the town's growing population."
-  },
-  {
-   "id": "ea792b03cb4b",
-   "source": "ncnewsline",
-   "title": "Commentary: New numbers expose conservative ‘tough on crime’ hypocrisy",
-   "url": "https://ncnewsline.com/2026/11/02/new-numbers-expose-conservative-tough-on-crime-hypocrisy/",
-   "published": "2026-11-02T19:17:36Z",
-   "summary": "Crime. For decades, it’s long been a tried-and-true election tactic of the American political right to campaign under the “get tough on crime” banner. The model was cynically perfected during the 1988 presidential campaign in the infamous and racially charged “Willie Horton” ads…"
   },
   {
    "id": "6e7279ad556d",
