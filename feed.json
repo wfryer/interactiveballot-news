@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:02:16Z",
+ "generatedAt": "2026-11-16T19:17:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -103,10 +103,9 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "error",
-    "itemCount": 39,
-    "newest": "2026-11-16T09:00:00Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
+    "state": "ok",
+    "itemCount": 40,
+    "newest": "2026-11-16T18:48:32Z"
    }
   },
   {
@@ -225,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2f602237df1f",
+   "source": "carolinajournal",
+   "title": "Asheville mayor-elect, DSA aligned on past endorsements, policy pledges",
+   "url": "https://www.carolinajournal.com/asheville-mayor-elect-dsa-aligned-on-past-endorsements-policy-pledges/",
+   "published": "2026-11-16T18:48:32Z",
+   "summary": "Roney did not respond to Carolina Journal's multiple requests for an interview about her relationship with the DSA and her priorities as mayor. The post Asheville mayor-elect, DSA aligned on past endorsements, policy pledges appeared first on Carolina Journal ."
+  },
   {
    "id": "b4656ea725ab",
    "source": "ncnewsline",
