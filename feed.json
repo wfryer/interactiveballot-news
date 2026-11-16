@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T04:02:16Z",
+ "generatedAt": "2026-11-16T09:02:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -104,8 +104,8 @@
    "homepage": "https://www.carolinajournal.com",
    "status": {
     "state": "ok",
-    "itemCount": 38,
-    "newest": "2026-11-13T20:19:59Z"
+    "itemCount": 39,
+    "newest": "2026-11-16T09:00:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "d97eb2e96720",
+   "source": "carolinajournal",
+   "title": "Womack discusses religion, policy, pending charge",
+   "url": "https://www.carolinajournal.com/womack-discusses-religion-policy-pending-charge/",
+   "published": "2026-11-16T09:00:00Z",
+   "summary": "Mecklenburg margin delivered the district over incumbent Tim Moore. Womack's felony rental-car case remains pending. The post Womack discusses religion, policy, pending charge appeared first on Carolina Journal ."
+  },
   {
    "id": "d4a2d6c8e18f",
    "source": "ncnewsline",
