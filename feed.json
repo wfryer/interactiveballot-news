@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:17:07Z",
+ "generatedAt": "2026-11-16T19:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T15:07:38Z"
+    "newest": "2026-11-16T19:32:14Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "2fb28b9fb422",
+   "source": "wfae",
+   "title": "Democrat Ashley Bell requests recount in NC's 10th Congressional District",
+   "url": "https://www.wfae.org/2026-11-16/democrat-ashley-bell-requests-recount-in-ncs-10th-congressional-district",
+   "published": "2026-11-16T19:32:14Z",
+   "summary": "Democrat Ashley Bell has requested a recount in North Carolina's 10th Congressional District, where Republican Pat Harrigan leads by about 2,500 votes. The recount is set to begin Tuesday in Forsyth County."
+  },
   {
    "id": "2f602237df1f",
    "source": "carolinajournal",
@@ -1476,14 +1484,6 @@
    "url": "https://www.wfae.org/politics/2026-11-03/nc-extends-voting-hours-at-five-polling-places-after-technical-issues-results-will-be-delayed",
    "published": "2026-11-03T20:31:13Z",
    "summary": "The North Carolina State Board of Elections has extended voting hours at five polling places that opened late Tuesday morning because of computer and printer problems.Two of the affected sites are in Hertford County. The others are in Wilson, Lenoir and Columbus…"
-  },
-  {
-   "id": "4e57ec4ac167",
-   "source": "wfae",
-   "title": "Trump, taxes and schools: Charlotte-area voters weigh national and local issues in Tuesday midterms",
-   "url": "https://www.wfae.org/politics/2026-11-03/trump-taxes-and-schools-charlotte-area-voters-weigh-national-and-local-issues-in-tuesday-midterms",
-   "published": "2026-11-03T19:27:55Z",
-   "summary": "It’s Election Day for the 2026 midterms, and WFAE reporters are talking to voters outside polling stations throughout the region.A record 2.8 million North Carolinians cast their ballots early this year, with long lines reported at the end of the early voting period on Saturday…"
   },
   {
    "id": "cf49d8aa16e2",
