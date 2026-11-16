@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:02:10Z",
+ "generatedAt": "2026-11-16T22:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -90,7 +90,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T19:32:14Z"
+    "newest": "2026-11-16T22:14:44Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "cdfec1e0adcc",
+   "source": "wunc",
+   "title": "Election recounts scheduled this week in NC congressional, legislative races",
+   "url": "https://www.wunc.org/politics/2026-11-16/election-recounts-scheduled-this-week-in-nc-congressional-legislative-races",
+   "published": "2026-11-16T22:14:44Z",
+   "summary": "Election recounts will get under way starting Tuesday in more than 20 counties across North Carolina. The recounts include close races for Congress and state legislature, but some eligible candidates aren't asking for them."
+  },
   {
    "id": "4de9d506dd51",
    "source": "ncnewsline",
@@ -1795,14 +1803,6 @@
    "published": "2026-10-28T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "830de2e20697",
-   "source": "wunc",
-   "title": "Here's how Democrats in Congress are preparing for election fraud claims",
-   "url": "https://www.wunc.org/politics/2026-10-28/heres-how-democrats-in-congress-are-preparing-for-election-fraud-claims",
-   "published": "2026-10-28T09:00:00Z",
-   "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
   },
   {
    "id": "61bf77be607a",
