@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T22:17:08Z",
+ "generatedAt": "2026-11-16T23:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -59,8 +59,8 @@
    "homepage": "https://carolinapublicpress.org",
    "status": {
     "state": "ok",
-    "itemCount": 9,
-    "newest": "2026-11-12T14:24:49Z"
+    "itemCount": 10,
+    "newest": "2026-11-16T23:19:06Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "07f6bd59acbc",
+   "source": "carolinapublicpress",
+   "title": "Recounts on tap in several NC election contests",
+   "url": "https://carolinapublicpress.org/83069/recounts-on-tap-in-several-nc-election-contests/",
+   "published": "2026-11-16T23:19:06Z",
+   "summary": "Canvass flips Macon referendum but outcome of most races remains unchanged. Several protests could also affect final results in NC. Recounts on tap in several NC election contests is a story from Carolina Public Press , an award-winning independent newsroom. Our breakthrough…"
+  },
   {
    "id": "cdfec1e0adcc",
    "source": "wunc",
