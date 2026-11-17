@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T15:47:10Z",
+ "generatedAt": "2026-11-17T17:02:12Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T20:35:20Z"
+    "newest": "2026-11-17T16:32:44Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a3f7816249ab",
+   "source": "ncnewsline",
+   "title": "NC House Dems elect Reives, Butler to 2027 leadership roles",
+   "url": "https://ncnewsline.com/2026/11/17/nc-house-dems-elect-reives-butler-to-2027-leadership-roles/",
+   "published": "2026-11-17T16:32:44Z",
+   "summary": "The full state House of Representatives will vote on key leadership positions on Jan. 13 when lawmakers come to Raleigh for the 2027 session."
+  },
   {
    "id": "10d79ede17d8",
    "source": "wfae",
@@ -1607,14 +1615,6 @@
    "published": "2026-11-03T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "56bda0f57729",
-   "source": "ncnewsline",
-   "title": "National pollster says ‘message discipline’ to benefit NC Democrats in 2026 midterms",
-   "url": "https://ncnewsline.com/2026/11/03/national-pollster-says-message-discipline-to-benefit-nc-democrats-in-2026-midterms/",
-   "published": "2026-11-03T11:01:01Z",
-   "summary": "Months of campaigning and endless political commercials draw to a close Tuesday as voters cast their final ballots in the 2026 midterm elections. Thirty-six percent of North Carolina’s registered voters cast ballots before Election Day. New records were also set during the early…"
   },
   {
    "id": "61b2ef0bb769",
