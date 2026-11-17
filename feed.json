@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:17:09Z",
+ "generatedAt": "2026-11-17T22:32:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -103,9 +103,10 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 40,
-    "newest": "2026-11-16T18:48:32Z"
+    "newest": "2026-11-16T18:48:32Z",
+    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
    }
   },
   {
@@ -225,6 +226,14 @@
  ],
  "items": [
   {
+   "id": "8306029e761d",
+   "source": "wunc",
+   "title": "In lame-duck session, ousted NC legislators get new roles in state government",
+   "url": "https://www.wunc.org/politics/2026-11-17/lame-duck-session-ousted-nc-legislators-new-roles-state-government",
+   "published": "2026-11-17T22:01:14Z",
+   "summary": "State lawmakers returned to Raleigh Tuesday for a lame-duck session before Democrats take control of the House next year. The legislature passed a bill that appoints several Republican lawmakers who lost their election to new roles in state government."
+  },
+  {
    "id": "4ef67645bc4a",
    "source": "wunc",
    "title": "In lame-duck session, ousted NC legislators get new roles in state government",
@@ -237,6 +246,14 @@
    "source": "wunc",
    "title": "NC Speaker of the House Hall says he expects to continue leading House Republicans",
    "url": "https://www.wunc.org/politics/2026-11-17/nc-speaker-of-the-house-hall-says-he-expects-to-continue-leading-house-republicans",
+   "published": "2026-11-17T21:47:29Z",
+   "summary": "Hall pointed to a blue wave election and an \"uncontested U.S. Senate race\" as reasons for House Republicans' loss of at least 22 seats, putting the party in the minority for the first time since 2010."
+  },
+  {
+   "id": "172086b9949e",
+   "source": "wunc",
+   "title": "NC Speaker of the House Hall says he expects to continue leading House Republicans",
+   "url": "https://www.wunc.org/politics/2026-11-17/nc-speaker-destin-hall-house-republicans",
    "published": "2026-11-17T21:47:29Z",
    "summary": "Hall pointed to a blue wave election and an \"uncontested U.S. Senate race\" as reasons for House Republicans' loss of at least 22 seats, putting the party in the minority for the first time since 2010."
   },
@@ -1738,14 +1755,6 @@
    "summary": "Democrats appear to have a larger advantage among early voters than in previous years, but GOP could turn out well on Election Day. Reading the NC political winds from early voters in 2026 is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
   },
   {
-   "id": "2199cce894c8",
-   "source": "wunc",
-   "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-   "url": "https://www.wunc.org/2026-10-30/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-   "published": "2026-10-30T15:00:00Z",
-   "summary": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024."
-  },
-  {
    "id": "23a53848e577",
    "source": "carolinajournal",
    "title": "Davis-Buckhout contest sets spending record at $52.9 million",
@@ -1786,14 +1795,6 @@
    "url": "https://www.carolinajournal.com/fact-check-ad-targeting-echevarria-omits-customer-savings-requirement/",
    "published": "2026-10-29T17:19:36Z",
    "summary": "An attack ad cites Echevarria's support for SB 266, but the law includes regulatory conditions on early financing charges and canceled projects. The post Fact check: Ad targeting Echevarria omits customer-savings requirement appeared first on Carolina Journal ."
-  },
-  {
-   "id": "2c6e9030ad77",
-   "source": "wunc",
-   "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-   "url": "https://www.wunc.org/politics/2026-10-29/these-are-the-house-races-to-watch-in-the-2026-midterm-election-on-nov-3",
-   "published": "2026-10-29T09:00:00Z",
-   "summary": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas."
   },
   {
    "id": "39d8ea82a08c",
