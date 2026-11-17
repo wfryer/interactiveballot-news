@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:47:16Z",
+ "generatedAt": "2026-11-17T23:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T22:02:48Z"
+    "newest": "2026-11-17T22:45:37Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "fabec71113a3",
+   "source": "ncnewsline",
+   "title": "No veto overrides in the NC House for now, but GOP leader expects at least one before 2027",
+   "url": "https://ncnewsline.com/2026/11/17/no-veto-overrides-in-the-nc-house-for-now-but-gop-leader-expects-at-least-one-before-2027/",
+   "published": "2026-11-17T22:45:37Z",
+   "summary": "The state House Tuesday didn’t touch the four vetoed bills lingering on its calendar, teed up for override votes. House Speaker Destin Hall, R-Caldwell, told reporters Tuesday he still wants to override the vetoes, and the House will have another chance. No more votes will come…"
+  },
   {
    "id": "15062d613c47",
    "source": "ncnewsline",
@@ -1548,14 +1556,6 @@
    "url": "https://cardinalpine.com/news/elections/north-carolina-2026-election-results/",
    "published": "2026-11-04T01:15:00Z",
    "summary": "Democrats claimed big wins in the US Senate, US House, the courts, and won a majority in one chamber of the NC General Assembly. The post North Carolina’s 2026 election: Democrats’ big night keeps getting bigger appeared first on Cardinal & Pine ."
-  },
-  {
-   "id": "2023e83d7ee6",
-   "source": "ncnewsline",
-   "title": "Black, Hispanic, Asian early voter turnout in North Carolina outpaces 2022 midterms",
-   "url": "https://ncnewsline.com/2026/11/03/black-hispanic-asian-early-voter-turnout-in-north-carolina-outpaces-2022-midterms/",
-   "published": "2026-11-03T23:11:35Z",
-   "summary": "Black voters in North Carolina turned out for early voting at a higher rate than white voters in this year’s midterm election, reversing a trend from recent cycles, according to an analysis by the Southern Coalition for Social Justice. About 39% of registered Black voters cast…"
   },
   {
    "id": "4c5eb5603743",
