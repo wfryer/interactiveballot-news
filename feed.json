@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:32:13Z",
+ "generatedAt": "2026-11-17T22:47:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T16:32:44Z"
+    "newest": "2026-11-17T22:02:48Z"
    }
   },
   {
@@ -103,10 +103,9 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "error",
+    "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T18:48:32Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
+    "newest": "2026-11-16T18:48:32Z"
    }
   },
   {
@@ -225,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "15062d613c47",
+   "source": "ncnewsline",
+   "title": "After election gains, NC Democrats and advocates push for voting rights, redistricting reforms",
+   "url": "https://ncnewsline.com/2026/11/17/after-election-gains-nc-democrats-and-advocates-push-for-voting-rights-redistricting-reforms/",
+   "published": "2026-11-17T22:02:48Z",
+   "summary": "For the first time since 2010, Democrats will control one chamber of the North Carolina General Assembly, and voting rights advocates are already pressing the incoming legislature to pass a state Voting Rights Act and establish an independent commission to draw voting districts…"
+  },
   {
    "id": "8306029e761d",
    "source": "wunc",
@@ -1557,14 +1564,6 @@
    "url": "https://www.carolinajournal.com/lawmakers-respond-to-stein-appeal-of-election-appointment-ruling/",
    "published": "2026-11-03T20:55:19Z",
    "summary": "North Carolina’s top legislative leaders “do not oppose” the state Supreme Court taking up Gov. Josh Stein’s appeal of a lower court ruling on state elections board appointments. But top lawmakers disagree with Stein about the case’s ultimate outcome. The post Lawmakers respond…"
-  },
-  {
-   "id": "cf49d8aa16e2",
-   "source": "ncnewsline",
-   "title": "Election workers, volunteers work to protect and promote the right to vote in NC on Election Day",
-   "url": "https://ncnewsline.com/2026/11/03/election-workers-volunteers-work-to-protect-and-promote-the-right-to-vote-in-nc-on-election-day/",
-   "published": "2026-11-03T19:26:18Z",
-   "summary": "For Ren Pridgeon, 72, working on Election Day is a five-decade tradition. “I have never missed an election,” said Pridgeon with a broad smile. “I worked my first election when I was 22 years old.” Pridgeon was serving as a poll worker Tuesday outside of John Chavis Community…"
   },
   {
    "id": "364347534545",
