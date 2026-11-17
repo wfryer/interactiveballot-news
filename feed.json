@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:02:10Z",
+ "generatedAt": "2026-11-17T22:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -90,7 +90,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T21:47:29Z"
+    "newest": "2026-11-17T22:01:14Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4ef67645bc4a",
+   "source": "wunc",
+   "title": "In lame-duck session, ousted NC legislators get new roles in state government",
+   "url": "https://www.wunc.org/politics/2026-11-17/lame-duck-session-ousted-nc-legislators-new-roles-in-state-government",
+   "published": "2026-11-17T22:01:14Z",
+   "summary": "State lawmakers returned to Raleigh Tuesday for a lame-duck session before Democrats take control of the House next year. The legislature passed a bill that appoints several Republican lawmakers who lost their election to new roles in state government."
+  },
   {
    "id": "ef58875f650d",
    "source": "wunc",
@@ -1794,14 +1802,6 @@
    "url": "https://www.carolinajournal.com/voter-id-tax-cap-amendments-from-2018-face-nc-appeals-court-hearing/",
    "published": "2026-10-28T22:32:28Z",
    "summary": "The North Carolina Court of Appeals is tackling a seven-year-old legal battle over state constitutional amendments voters approved in 2018 to lower the state income tax cap and require photo identification for in-person voters. The post Voter ID, tax cap amendments from 2018…"
-  },
-  {
-   "id": "7515c1e9cf53",
-   "source": "wunc",
-   "title": "Property tax limit amendment could be tweaked by future legislators — again and again",
-   "url": "https://www.wunc.org/2026-10-28/property-tax-limit-amendment-could-be-tweaked-by-future-legislators-again-and-again",
-   "published": "2026-10-28T20:21:00Z",
-   "summary": "There are three constitutional amendments on the ballot for Tuesday's election."
   },
   {
    "id": "97b5c4c4db58",
