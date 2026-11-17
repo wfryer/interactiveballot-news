@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:32:09Z",
+ "generatedAt": "2026-11-17T13:02:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T19:32:14Z"
+    "newest": "2026-11-16T22:14:44Z"
    }
   },
   {
@@ -237,6 +237,14 @@
    "source": "wunc",
    "title": "Election recounts scheduled this week in NC congressional, legislative races",
    "url": "https://www.wunc.org/politics/2026-11-16/election-recounts-scheduled-this-week-in-nc-congressional-legislative-races",
+   "published": "2026-11-16T22:14:44Z",
+   "summary": "Election recounts will get under way starting Tuesday in more than 20 counties across North Carolina. The recounts include close races for Congress and state legislature, but some eligible candidates aren't asking for them."
+  },
+  {
+   "id": "02b496083aa6",
+   "source": "wfae",
+   "title": "Election recounts scheduled this week in NC congressional, legislative races",
+   "url": "https://www.wfae.org/2026-11-16/election-recounts-scheduled-this-week-in-nc-congressional-legislative-races",
    "published": "2026-11-16T22:14:44Z",
    "summary": "Election recounts will get under way starting Tuesday in more than 20 counties across North Carolina. The recounts include close races for Congress and state legislature, but some eligible candidates aren't asking for them."
   },
@@ -1508,14 +1516,6 @@
    "url": "https://www.carolinajournal.com/lawmakers-respond-to-stein-appeal-of-election-appointment-ruling/",
    "published": "2026-11-03T20:55:19Z",
    "summary": "North Carolina’s top legislative leaders “do not oppose” the state Supreme Court taking up Gov. Josh Stein’s appeal of a lower court ruling on state elections board appointments. But top lawmakers disagree with Stein about the case’s ultimate outcome. The post Lawmakers respond…"
-  },
-  {
-   "id": "a0340aabb971",
-   "source": "wfae",
-   "title": "NC extends voting hours at five polling places after technical issues; Results will be delayed",
-   "url": "https://www.wfae.org/politics/2026-11-03/nc-extends-voting-hours-at-five-polling-places-after-technical-issues-results-will-be-delayed",
-   "published": "2026-11-03T20:31:13Z",
-   "summary": "The North Carolina State Board of Elections has extended voting hours at five polling places that opened late Tuesday morning because of computer and printer problems.Two of the affected sites are in Hertford County. The others are in Wilson, Lenoir and Columbus…"
   },
   {
    "id": "cf49d8aa16e2",
