@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T14:02:08Z",
+ "generatedAt": "2026-11-17T15:47:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T22:14:44Z"
+    "newest": "2026-11-17T15:40:28Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "10d79ede17d8",
+   "source": "wfae",
+   "title": "House Democrats choose leadership team for majority, Mecklenburg reps to hold prominent roles",
+   "url": "https://www.wfae.org/politics/2026-11-17/house-democrats-choose-leadership-team-for-majority-mecklenburg-reps-to-hold-prominent-roles",
+   "published": "2026-11-17T15:40:28Z",
+   "summary": "North Carolina House Democrats have elected their leadership team for next year as they prepare to take the majority in the chamber.Rep. Deb Butler of Wilmington will serve as speaker pro tempore under incoming House Speaker Robert Reives of Chatham County.Rep. Terry Brown of…"
+  },
   {
    "id": "07f6bd59acbc",
    "source": "carolinapublicpress",
@@ -1474,14 +1482,6 @@
    "source": "wunc",
    "title": "Democrat Roy Cooper wins U.S. Senate race",
    "url": "https://www.wunc.org/politics/2026-11-03/democrat-roy-cooper-wins-u-s-senate-race",
-   "published": "2026-11-04T01:32:43Z",
-   "summary": "Democrat Roy Cooper won North Carolina’s open U.S. Senate seat Tuesday, according to a race call from The Associated Press. Cooper, the former governor, becomes the first Democrat elected to the Senate in North Carolina since 2008."
-  },
-  {
-   "id": "3f42656ff109",
-   "source": "wfae",
-   "title": "Democrat Roy Cooper wins U.S. Senate race",
-   "url": "https://www.wfae.org/2026-11-03/democrat-roy-cooper-wins-u-s-senate-race",
    "published": "2026-11-04T01:32:43Z",
    "summary": "Democrat Roy Cooper won North Carolina’s open U.S. Senate seat Tuesday, according to a race call from The Associated Press. Cooper, the former governor, becomes the first Democrat elected to the Senate in North Carolina since 2008."
   },
