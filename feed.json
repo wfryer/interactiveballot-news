@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:32:07Z",
+ "generatedAt": "2026-11-17T22:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -90,7 +90,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T22:14:44Z"
+    "newest": "2026-11-17T21:47:29Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "ef58875f650d",
+   "source": "wunc",
+   "title": "NC Speaker of the House Hall says he expects to continue leading House Republicans",
+   "url": "https://www.wunc.org/politics/2026-11-17/nc-speaker-of-the-house-hall-says-he-expects-to-continue-leading-house-republicans",
+   "published": "2026-11-17T21:47:29Z",
+   "summary": "Hall pointed to a blue wave election and an \"uncontested U.S. Senate race\" as reasons for House Republicans' loss of at least 22 seats, putting the party in the minority for the first time since 2010."
+  },
   {
    "id": "a3f7816249ab",
    "source": "ncnewsline",
@@ -1794,14 +1802,6 @@
    "url": "https://www.wunc.org/2026-10-28/property-tax-limit-amendment-could-be-tweaked-by-future-legislators-again-and-again",
    "published": "2026-10-28T20:21:00Z",
    "summary": "There are three constitutional amendments on the ballot for Tuesday's election."
-  },
-  {
-   "id": "f28dbd277d11",
-   "source": "wunc",
-   "title": "Voters in 11 NC counties will decide whether to raise their sales taxes",
-   "url": "https://www.wunc.org/politics/2026-10-28/voters-11-nc-counties-will-decide-whether-to-raise-their-sales-taxes",
-   "published": "2026-10-28T17:29:11Z",
-   "summary": "The question is on the ballot in Bladen, Dare and Columbus counties, as well as Hoke, Sampson and Currituck. Guilford County is the only urban community with a sales tax referendum this election."
   },
   {
    "id": "97b5c4c4db58",
