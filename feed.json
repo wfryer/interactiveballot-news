@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:02:12Z",
+ "generatedAt": "2026-11-18T19:32:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T21:47:29Z"
+    "newest": "2026-11-18T19:21:38Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "37ac5ae26ad8",
+   "source": "wfae",
+   "title": "CMS breakup proposal may wait, but lawmaker pushes for new election for all board seats",
+   "url": "https://www.wfae.org/politics/2026-11-18/cms-breakup-proposal-may-wait-but-lawmaker-pushes-for-new-election-for-all-board-seats",
+   "published": "2026-11-18T19:21:38Z",
+   "summary": "State Rep. David Willis says his proposal to split Charlotte-Mecklenburg Schools into two districts may need to wait while officials study whether such a move is feasible. Instead, Willis said he plans to push for a special election that would put all nine CMS Board of Education…"
+  },
   {
    "id": "6ca62256694f",
    "source": "ncnewsline",
@@ -1532,14 +1540,6 @@
    "url": "https://ncnewsline.com/2026/11/03/democrat-jamie-ager-flips-western-north-carolina-us-house-seat/",
    "published": "2026-11-04T02:00:46Z",
    "summary": "Democrat Jamie Ager appears to have won North Carolina’s 11th Congressional District, flipping the seat. Ager, the owner of Hickory Nut Gap Farm in Fairview, defeated state Rep. Jennifer Balkcom, a Republican from Hendersonville, at 57% to 41% with all precincts reporting in…"
-  },
-  {
-   "id": "36c54edcb02c",
-   "source": "wfae",
-   "title": "Challenger McCool holds early voting lead over incumbent Cotham",
-   "url": "https://www.wfae.org/politics/2026-11-03/challenger-mccool-holds-early-voting-lead-over-incumbent-cotham",
-   "published": "2026-11-04T01:56:59Z",
-   "summary": "Democratic challenger Ken McCool held a large lead in early voting for a key state House seat over Republican incumbent Tricia Cotham."
   },
   {
    "id": "e584635d3d05",
