@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:32:10Z",
+ "generatedAt": "2026-11-18T23:17:17Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-18T19:30:25Z"
+    "newest": "2026-11-18T22:46:51Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4ca0427304b4",
+   "source": "ncnewsline",
+   "title": "NC needs an e-bike safety law, NC task force members say",
+   "url": "https://ncnewsline.com/2026/11/18/nc-needs-an-e-bike-safety-law-nc-task-force-members-say/",
+   "published": "2026-11-18T22:46:51Z",
+   "summary": "A push for a stronger safety law for e-bikes may be coming in response to the rapid increase in serious accidents in North Carolina. A committee of the N.C. Child Fatality Task Force on Wednesday voted to push ahead on recommendations for age restrictions, helmet requirements…"
+  },
   {
    "id": "cdfa9e9a131e",
    "source": "ncnewsline",
@@ -1468,14 +1476,6 @@
    "url": "https://carolinapublicpress.org/82873/earls-keeps-seat-on-nc-supreme-court/",
    "published": "2026-11-04T03:52:08Z",
    "summary": "Democratic Associate Justice Earls fends off Republican challenger with implications for looming post-2030 NC redistricting decisions. Earls keeps seat on NC Supreme Court is a story from Carolina Public Press , an award-winning independent newsroom. Our breakthrough journalism…"
-  },
-  {
-   "id": "0e549f98483b",
-   "source": "ncnewsline",
-   "title": "Democratic Justice Anita Earls wins reelection to the NC Supreme Court",
-   "url": "https://ncnewsline.com/2026/11/03/democrat-anita-earls-wins-reelection-to-the-nc-supreme-court/",
-   "published": "2026-11-04T03:50:48Z",
-   "summary": "North Carolina voters reelected Democratic Justice Anita Earls to the state Supreme Court Tuesday. She defeated Republican challenger Sarah Stevens, a former state lawmaker and longtime attorney. At the same time, three Court of Appeals contests helped determine whether…"
   },
   {
    "id": "84e439ccbf3d",
