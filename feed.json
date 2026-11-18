@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:17:08Z",
+ "generatedAt": "2026-11-18T00:47:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T22:45:37Z"
+    "newest": "2026-11-18T00:30:39Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "6ca62256694f",
+   "source": "ncnewsline",
+   "title": "‘Handing them out like candy’: NC GOP lawmakers give new jobs to outgoing colleagues",
+   "url": "https://ncnewsline.com/2026/11/17/handing-them-out-like-candy-nc-gop-lawmakers-give-new-jobs-to-outgoing-colleagues/",
+   "published": "2026-11-18T00:30:39Z",
+   "summary": "North Carolina lawmakers approved a package of appointments Tuesday, handing eight outgoing Republicans in the General Assembly jobs on public boards and other powerful positions. The appointments bill passed the Senate by a 28-17 vote. The House of Representatives approved the…"
+  },
   {
    "id": "fabec71113a3",
    "source": "ncnewsline",
@@ -1540,14 +1548,6 @@
    "url": "https://www.wunc.org/politics/2026-11-03/democrat-roy-cooper-wins-u-s-senate-race",
    "published": "2026-11-04T01:32:43Z",
    "summary": "Democrat Roy Cooper won North Carolina’s open U.S. Senate seat Tuesday, according to a race call from The Associated Press. Cooper, the former governor, becomes the first Democrat elected to the Senate in North Carolina since 2008."
-  },
-  {
-   "id": "8bec74108e8a",
-   "source": "ncnewsline",
-   "title": "Cooper becomes first Democrat to win US Senate race in NC since 2008",
-   "url": "https://ncnewsline.com/2026/11/03/cooper-becomes-first-democrat-to-win-us-senate-race-in-nc-since-2008/",
-   "published": "2026-11-04T01:28:25Z",
-   "summary": "Former Gov. Roy Cooper has secured North Carolina’s U.S. Senate seat, becoming the first Democrat to win a Senate election in the Tar Heel State since 2008. He appears to have defeated Republican Michael Whatley by nearly 20 points, 59% to 39%, in unofficial returns as of…"
   },
   {
    "id": "8e8c0f5a8836",
