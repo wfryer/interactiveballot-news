@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T12:32:10Z",
+ "generatedAt": "2026-11-18T13:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T15:40:28Z"
+    "newest": "2026-11-17T21:47:29Z"
    }
   },
   {
@@ -269,6 +269,14 @@
    "source": "wunc",
    "title": "NC Speaker of the House Hall says he expects to continue leading House Republicans",
    "url": "https://www.wunc.org/politics/2026-11-17/nc-speaker-of-the-house-hall-says-he-expects-to-continue-leading-house-republicans",
+   "published": "2026-11-17T21:47:29Z",
+   "summary": "Hall pointed to a blue wave election and an \"uncontested U.S. Senate race\" as reasons for House Republicans' loss of at least 22 seats, putting the party in the minority for the first time since 2010."
+  },
+  {
+   "id": "51e14315af50",
+   "source": "wfae",
+   "title": "NC Speaker of the House Hall says he expects to continue leading House Republicans",
+   "url": "https://www.wfae.org/2026-11-17/nc-speaker-destin-hall-house-republicans",
    "published": "2026-11-17T21:47:29Z",
    "summary": "Hall pointed to a blue wave election and an \"uncontested U.S. Senate race\" as reasons for House Republicans' loss of at least 22 seats, putting the party in the minority for the first time since 2010."
   },
@@ -1532,14 +1540,6 @@
    "url": "https://www.wfae.org/politics/2026-11-03/challenger-mccool-holds-early-voting-lead-over-incumbent-cotham",
    "published": "2026-11-04T01:56:59Z",
    "summary": "Democratic challenger Ken McCool held a large lead in early voting for a key state House seat over Republican incumbent Tricia Cotham."
-  },
-  {
-   "id": "9db113c47441",
-   "source": "wfae",
-   "title": "Constitutional amendments on track to pass in North Carolina",
-   "url": "https://www.wfae.org/politics/2026-11-03/constitutional-amendments-on-track-to-pass-in-north-carolina",
-   "published": "2026-11-04T01:51:46Z",
-   "summary": "Three amendments to the North Carolina Constitution were on track to pass Tuesday: future limits on state income taxes and local property taxes and stricter voter ID requirements for mail-in ballots."
   },
   {
    "id": "e584635d3d05",
