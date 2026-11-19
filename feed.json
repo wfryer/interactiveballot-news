@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T16:47:08Z",
+ "generatedAt": "2026-11-19T17:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-18T22:46:51Z"
+    "newest": "2026-11-19T17:16:02Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "f604fd37d84f",
+   "source": "ncnewsline",
+   "title": "‘2028 starts now’: NC Dem Chair Anderson Clayton eyes future after historic wins",
+   "url": "https://ncnewsline.com/2026/11/19/2028-starts-now-nc-dem-chair-anderson-clayton-eyes-future-after-historic-wins/",
+   "published": "2026-11-19T17:16:02Z",
+   "summary": "Two weeks after the Nov. 3 midterm election, Anderson Clayton apologizes for her voice. The North Carolina Democratic Party Chair was still hoarse from celebrating a blue wave that saw her party capture a U.S. Senate seat, flip seven U.S. House seats, secure a critical state…"
+  },
   {
    "id": "9d35907ca165",
    "source": "cardinalpine",
@@ -1380,14 +1388,6 @@
    "url": "https://www.wunc.org/politics/2026-11-04/richard-ojeda-defeats-republican-hudson-9th-district",
    "published": "2026-11-04T05:30:55Z",
    "summary": "Hudson was the fifth-highest ranking Republican in Congress."
-  },
-  {
-   "id": "563b1abe7c80",
-   "source": "ncnewsline",
-   "title": "US Rep. Don Davis defeats Republican Laurie Buckhout in rematch for NC’s 1st Congressional District",
-   "url": "https://ncnewsline.com/2026/11/04/us-rep-don-davis-defeats-republican-laurie-buckhout-in-rematch-for-ncs-1st-congressional-district/",
-   "published": "2026-11-04T05:17:35Z",
-   "summary": "Democratic U.S. Rep. Don Davis is headed back to Washington after defeating Republican challenger Laurie Buckhout in the most expensive U.S. House race in general election history. With all 290 precincts reporting, Davis received just under 50% of the vote to Buckhout’s 47%…"
   },
   {
    "id": "9eae8dd24da7",
