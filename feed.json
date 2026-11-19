@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:32:08Z",
+ "generatedAt": "2026-11-19T16:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 21,
-    "newest": "2026-11-19T15:29:33Z"
+    "itemCount": 22,
+    "newest": "2026-11-19T16:39:17Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "9d35907ca165",
+   "source": "cardinalpine",
+   "title": "Opinion: The North Carolina connection to Scott Colom’s shocking win in Mississippi",
+   "url": "https://cardinalpine.com/local/north-carolina-scott-colom-hiram-revels/",
+   "published": "2026-11-19T16:39:17Z",
+   "summary": "Democrat Scott Colom name-checked the historic senator, Hiram Revels. There's a big North Carolina connection. The post Opinion: The North Carolina connection to Scott Colom’s shocking win in Mississippi appeared first on Cardinal & Pine ."
+  },
   {
    "id": "81aefacf3c62",
    "source": "cardinalpine",
