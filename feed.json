@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:17:17Z",
+ "generatedAt": "2026-11-19T15:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -103,10 +103,9 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "error",
+    "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-16T18:48:32Z",
-    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
+    "newest": "2026-11-19T15:07:50Z"
    }
   },
   {
@@ -120,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 20,
-    "newest": "2026-11-16T15:57:35Z"
+    "itemCount": 21,
+    "newest": "2026-11-19T15:29:33Z"
    }
   },
   {
@@ -225,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "81aefacf3c62",
+   "source": "cardinalpine",
+   "title": "‘Handing them out like candy’: NC GOP lawmakers give new jobs to colleagues who lost",
+   "url": "https://cardinalpine.com/news/politics/nc-gop-lawmakers-new-jobs-after-election/",
+   "published": "2026-11-19T15:29:33Z",
+   "summary": "Some Democrats questioned the appointments, calling them political favoritism and accusing Republicans of cronyism. The post ‘Handing them out like candy’: NC GOP lawmakers give new jobs to colleagues who lost appeared first on Cardinal & Pine ."
+  },
+  {
+   "id": "4e86c6f1b479",
+   "source": "carolinajournal",
+   "title": "CJ Poll: Trump approval among NC voters falls to 35%",
+   "url": "https://www.carolinajournal.com/cj-poll-trump-approval-among-nc-voters-falls-to-35/",
+   "published": "2026-11-19T15:07:50Z",
+   "summary": "President Donald Trump’s job approval among North Carolina voters fell to 35% in the first Carolina Journal poll since the Nov. 3 election, down from 44% in October. Most voters said tariffs have raised their cost of living, and 58% want Congress to play a stronger role in…"
+  },
   {
    "id": "4ca0427304b4",
    "source": "ncnewsline",
@@ -1853,14 +1868,6 @@
    "url": "https://www.carolinajournal.com/nc-3-gains-late-attention-with-early-vote-surge-ratings-shift/",
    "published": "2026-10-22T07:43:00Z",
    "summary": "So far, about 25,660 Democrats have cast ballots in NC-3, while Republicans have cast less than half that, at about 12,400. The post NC-3 gains late attention with early vote surge, ratings shift appeared first on Carolina Journal ."
-  },
-  {
-   "id": "07f3091930ee",
-   "source": "carolinajournal",
-   "title": "GOP faces possible Wake legislative shutout amid 3 close races",
-   "url": "https://www.carolinajournal.com/gop-faces-possible-wake-legislative-shutout-amid-3-close-races/",
-   "published": "2026-10-21T21:00:00Z",
-   "summary": "Population growth and shifting suburban voting patterns have eroded Republicans' advantage in several key Wake legislative districts. The post GOP faces possible Wake legislative shutout amid 3 close races appeared first on Carolina Journal ."
   },
   {
    "id": "775edea7d44a",
