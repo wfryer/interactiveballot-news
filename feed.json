@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:32:07Z",
+ "generatedAt": "2026-11-19T22:17:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-19T17:16:02Z"
+    "newest": "2026-11-19T22:00:10Z"
    }
   },
   {
@@ -103,9 +103,10 @@
    "description": "Published by the John Locke Foundation, a North Carolina free-market policy organization. Reports on state politics and elections. Only posts that mention elections or voting are shown here.",
    "homepage": "https://www.carolinajournal.com",
    "status": {
-    "state": "ok",
+    "state": "error",
     "itemCount": 40,
-    "newest": "2026-11-19T15:07:50Z"
+    "newest": "2026-11-19T15:07:50Z",
+    "error": "https://www.carolinajournal.com/category/politics/feed/: HTTPError: HTTP Error 415: Unsupported Media Type"
    }
   },
   {
@@ -224,6 +225,14 @@
   }
  ],
  "items": [
+  {
+   "id": "a18a8792c2fa",
+   "source": "ncnewsline",
+   "title": "NC Gov Stein takes aim at housing supply, affordability on national stage",
+   "url": "https://ncnewsline.com/2026/11/19/nc-gov-stein-takes-aim-at-housing-supply-affordability-on-national-stage/",
+   "published": "2026-11-19T22:00:10Z",
+   "summary": "North Carolina is the top state for net domestic migration."
+  },
   {
    "id": "f604fd37d84f",
    "source": "ncnewsline",
@@ -1364,14 +1373,6 @@
    "url": "https://ncnewsline.com/2026/11/04/democrats-sweep-triangle-area-legislative-races/",
    "published": "2026-11-04T05:54:33Z",
    "summary": "Strong Democratic turnout turned the Triangle’s legislative delegation solid blue Tuesday night, unseating two Republican House members and a Republican senator in a neighboring county. Voters in southern Wake County opted to flip House District 37, electing newcomer Winn Decker…"
-  },
-  {
-   "id": "4f8d9ebc2fe7",
-   "source": "ncnewsline",
-   "title": "Strong Democratic turnout flips at least 5 US House seats across North Carolina",
-   "url": "https://ncnewsline.com/2026/11/04/strong-democratic-turnout-flips-at-least-5-us-house-seats-across-north-carolina/",
-   "published": "2026-11-04T05:45:39Z",
-   "summary": "In unofficial results from election night, North Carolina voters appear to have ousted at least half of North Carolina’s Republican U.S. House delegation in a string of upset elections in what were drawn to be safe Republican seats. Rep. Richard Hudson, 9th Congressional…"
   },
   {
    "id": "975fd0b65a80",
