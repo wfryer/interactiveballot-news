@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T23:47:09Z",
+ "generatedAt": "2026-11-20T11:02:10Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -119,8 +119,8 @@
    "homepage": "https://cardinalpine.com",
    "status": {
     "state": "ok",
-    "itemCount": 22,
-    "newest": "2026-11-19T16:39:17Z"
+    "itemCount": 23,
+    "newest": "2026-11-20T11:00:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "eb54f8dc223a",
+   "source": "cardinalpine",
+   "title": "Dozens in NC have been charged with voting as noncitizens. But will the charges stick?",
+   "url": "https://cardinalpine.com/news/immigration/nc-charges-noncitizens-voting-rarely-sticks/",
+   "published": "2026-11-20T11:00:00Z",
+   "summary": "The problem with the noncitizen voting cases in North Carolina tends to be facts. The post Dozens in NC have been charged with voting as noncitizens. But will the charges stick? appeared first on Cardinal & Pine ."
+  },
   {
    "id": "a18a8792c2fa",
    "source": "ncnewsline",
