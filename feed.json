@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T20:17:08Z",
+ "generatedAt": "2026-11-20T21:02:13Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -29,8 +29,8 @@
    "about": "https://www.commoncause.org/north-carolina/about-us/",
    "status": {
     "state": "ok",
-    "itemCount": 1,
-    "newest": "2026-10-09T20:53:35Z"
+    "itemCount": 2,
+    "newest": "2026-11-20T21:02:13Z"
    }
   },
   {
@@ -224,6 +224,15 @@
   }
  ],
  "items": [
+  {
+   "id": "271d8fd522e4",
+   "source": "commoncause",
+   "title": "‘Drop Sunday:’ Text messages show the State Auditor’s politics is behind Pasquotank’s local voting options",
+   "url": "https://www.commoncause.org/north-carolina/articles/pasquotank-voting/",
+   "published": "2026-11-20T21:02:13Z",
+   "summary": "",
+   "dateApprox": true
+  },
   {
    "id": "61126dcf03e2",
    "source": "cardinalpine",
