@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T21:32:13Z",
+ "generatedAt": "2026-11-22T22:02:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-19T22:00:10Z"
+    "newest": "2026-11-22T21:50:36Z"
    }
   },
   {
@@ -90,7 +90,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-17T22:01:14Z"
+    "newest": "2026-11-22T21:57:21Z"
    }
   },
   {
@@ -224,6 +224,22 @@
   }
  ],
  "items": [
+  {
+   "id": "e24c003bb624",
+   "source": "wunc",
+   "title": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+   "url": "https://www.wunc.org/politics/2026-11-22/chuck-hubbard-defeats-rep-virginia-foxx",
+   "published": "2026-11-22T21:57:21Z",
+   "summary": "Democrat Chuck Hubbard has been elected to the House from North Carolina, defeating Republican Virginia Foxx. The veteran Republican congresswoman, who chairs the powerful House Rules Committee, conceded on Sunday after a recount failed to close the narrow gap."
+  },
+  {
+   "id": "ab28c410a9c7",
+   "source": "ncnewsline",
+   "title": "Virginia Foxx concedes congressional seat in NC’s closely watched 5th Congressional District",
+   "url": "https://ncnewsline.com/2026/11/22/virginia-foxx-concedes-congressional-seat-in-ncs-closely-watched-5th-congressional-district/",
+   "published": "2026-11-22T21:50:36Z",
+   "summary": "“The voters of the Fifth Congressional District exercised their Constitutional rights and made their voices heard,” U.S. Rep. Virginia Foxx wrote on Sunday as she conceded her seat to Democratic challenger Chuck Hubbard. The 83-year-old Republican said she was saddened not to…"
+  },
   {
    "id": "01ed4f3f0fda",
    "source": "ncsbe",
@@ -1400,14 +1416,6 @@
    "summary": "North Carolina voters approved all three constitutional amendments on the ballot Tuesday. The amendments authorize lawmakers to impose limits on local governments’ power to raise property taxes, cap the state income tax, and require photo ID for all voters — not just those…"
   },
   {
-   "id": "8029e9a5e7a9",
-   "source": "ncnewsline",
-   "title": "Democrats appear to win the NC House majority and gain seats in the Senate",
-   "url": "https://ncnewsline.com/2026/11/04/democrats-appear-to-win-the-nc-house-majority-and-gain-seats-in-the-senate/",
-   "published": "2026-11-04T05:58:36Z",
-   "summary": "In a huge upset Tuesday night, Democrats appeared to win the majority in the North Carolina House, with Democratic candidates scoring stunning victories in districts held by influential, veteran Republicans. Democrats have not controlled a chamber of the General Assembly since…"
-  },
-  {
    "id": "975fd0b65a80",
    "source": "wunc",
    "title": "Voters approve constitutional amendments around voter ID and capping taxes",
@@ -1753,14 +1761,6 @@
    "url": "https://cardinalpine.com/news/nc-cities-free-transportation-election-day/",
    "published": "2026-11-02T17:13:05Z",
    "summary": "Election Day transportation, college basketball tips off, and going deep on Cherokee history. Here are 3 things happening in NC this week. The post Some North Carolina cities are offering free transportation to Election Day polling places appeared first on Cardinal & Pine ."
-  },
-  {
-   "id": "3d696b1733e8",
-   "source": "wunc",
-   "title": "A record 2.8 million North Carolinians voted early in this midterm election",
-   "url": "https://www.wunc.org/2026-11-02/a-midterm-record-2-8-million-north-carolinians-voted-early-this-election",
-   "published": "2026-11-02T13:01:17Z",
-   "summary": "Turnout for early voting was up more than 30% compared to the 2022 midterms."
   },
   {
    "id": "a60a6a1d0435",
