@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:02:09Z",
+ "generatedAt": "2026-11-23T15:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-18T19:21:38Z"
+    "newest": "2026-11-23T15:28:52Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4d120e717607",
+   "source": "wfae",
+   "title": "CMS breakup might not happen. But lawmaker says both parties want special school board election",
+   "url": "https://www.wfae.org/politics/2026-11-23/cms-breakup-might-not-happen-but-lawmaker-says-both-parties-want-special-school-board-election",
+   "published": "2026-11-23T15:28:52Z",
+   "summary": "Republican State Sen. David Willis said this week that his plan to split Charlotte-Mecklenburg Schools into smaller districts is on hold — for now. He said it’s too complicated to do in a month and first needs a feasibility study."
+  },
   {
    "id": "6e6b2cb7636e",
    "source": "wunc",
@@ -1615,14 +1623,6 @@
    "url": "https://www.carolinajournal.com/cooper-defeats-whatley-flips-nc-us-senate-seat-for-democrats/",
    "published": "2026-11-04T02:10:53Z",
    "summary": "For North Carolina, Cooper's election represents another chapter in a political career that has spanned nearly 40 years and six successful statewide elections. The post Cooper defeats Whatley, flips NC US Senate seat for Democrats appeared first on Carolina Journal ."
-  },
-  {
-   "id": "760b0343fab3",
-   "source": "wfae",
-   "title": "City of Charlotte bonds leading with large margins in early results",
-   "url": "https://www.wfae.org/politics/2026-11-03/city-of-charlotte-bonds-leading-with-large-margins-in-early-results",
-   "published": "2026-11-04T02:04:55Z",
-   "summary": "Charlotte voters appeared on their way to approve three bond issues Tuesday, setting the city up to invest hundreds of millions in affordable housing and transportation improvements."
   },
   {
    "id": "e584635d3d05",
