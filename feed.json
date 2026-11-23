@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:47:08Z",
+ "generatedAt": "2026-11-23T21:02:14Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -29,8 +29,8 @@
    "about": "https://www.commoncause.org/north-carolina/about-us/",
    "status": {
     "state": "ok",
-    "itemCount": 1,
-    "newest": "2026-10-09T20:53:35Z"
+    "itemCount": 0,
+    "newest": null
    }
   },
   {
@@ -1955,14 +1955,6 @@
    "published": "2026-10-13T12:00:00Z",
    "summary": "",
    "dateOnly": true
-  },
-  {
-   "id": "8a7e7c96554a",
-   "source": "commoncause",
-   "title": "How Granville won the war on early voting",
-   "url": "https://www.commoncause.org/north-carolina/articles/how-granville-won-the-war-on-early-voting/",
-   "published": "2026-10-09T20:53:35Z",
-   "summary": ""
   }
  ]
 }
