@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:02:08Z",
+ "generatedAt": "2026-11-23T12:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-22T21:50:36Z"
+    "newest": "2026-11-23T12:23:34Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "3e1bdb98b45a",
+   "source": "ncnewsline",
+   "title": "Commentary: Holiday Hubris",
+   "url": "https://ncnewsline.com/2026/11/23/holiday-hubris/",
+   "published": "2026-11-23T12:23:34Z",
+   "summary": ""
+  },
   {
    "id": "e24c003bb624",
    "source": "wunc",
@@ -1406,14 +1414,6 @@
    "url": "https://carolinapublicpress.org/82900/gop-gerrymander-backfires-in-nc-as-states-congressional-map-goes-blue/",
    "published": "2026-11-04T07:03:59Z",
    "summary": "Not only did gerrymander not rip away Don Davis' congressional seat, but NC Republicans assumed to be safe ended up losing. GOP gerrymander backfires in NC, as state’s congressional map goes blue is a story from Carolina Public Press , an award-winning independent newsroom. Our…"
-  },
-  {
-   "id": "6a7b04512086",
-   "source": "ncnewsline",
-   "title": "NC voters approve all 3 constitutional amendments on ballot",
-   "url": "https://ncnewsline.com/2026/11/04/nc-voters-approve-all-three-constitutional-amendments-on-ballot/",
-   "published": "2026-11-04T06:08:32Z",
-   "summary": "North Carolina voters approved all three constitutional amendments on the ballot Tuesday. The amendments authorize lawmakers to impose limits on local governments’ power to raise property taxes, cap the state income tax, and require photo ID for all voters — not just those…"
   },
   {
    "id": "975fd0b65a80",
