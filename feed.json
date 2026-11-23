@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:32:08Z",
+ "generatedAt": "2026-11-23T16:47:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -105,7 +105,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-19T15:07:50Z"
+    "newest": "2026-11-23T16:35:37Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "eb5db6dcb455",
+   "source": "carolinajournal",
+   "title": "GOP legislators, elections board defend voter ID at 4th Circuit",
+   "url": "https://www.carolinajournal.com/gop-legislators-elections-board-defend-voter-id-at-4th-circuit/",
+   "published": "2026-11-23T16:35:37Z",
+   "summary": "Top Republican lawmakers and the North Carolina State Board of Elections defended the state’s voter identification law in their latest filings at the 4th US Circuit Court of Appeals. State and local NAACP groups are asking appellate judges to throw out the 2018 voter ID law. The…"
+  },
   {
    "id": "4d120e717607",
    "source": "wfae",
@@ -1911,14 +1919,6 @@
    "url": "https://www.carolinajournal.com/complaint-alleges-illegal-contribution-to-nc-house-candidate-lorenza-wilkins/",
    "published": "2026-10-22T10:38:00Z",
    "summary": "The complaint alleges the $9,800 “office furniture donation” from Blue Ridge Realty, Inc. violated laws against both corporate giving and donations of over $6,800 per election. The post Complaint alleges illegal contribution to NC House candidate Lorenza Wilkins appeared first…"
-  },
-  {
-   "id": "4d384ac1cdd4",
-   "source": "carolinajournal",
-   "title": "NC-3 gains late attention with early vote surge, ratings shift",
-   "url": "https://www.carolinajournal.com/nc-3-gains-late-attention-with-early-vote-surge-ratings-shift/",
-   "published": "2026-10-22T07:43:00Z",
-   "summary": "So far, about 25,660 Democrats have cast ballots in NC-3, while Republicans have cast less than half that, at about 12,400. The post NC-3 gains late attention with early vote surge, ratings shift appeared first on Carolina Journal ."
   },
   {
    "id": "775edea7d44a",
