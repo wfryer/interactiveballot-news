@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:02:09Z",
+ "generatedAt": "2026-11-23T19:47:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-23T12:23:34Z"
+    "newest": "2026-11-23T19:24:43Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "64f24b93c7d3",
+   "source": "ncnewsline",
+   "title": "‘Dummymander’ helps propel Rep.-elect Smith to Congress in NC-03 victory",
+   "url": "https://ncnewsline.com/2026/11/23/dummymander-helps-propel-rep-elect-smith-to-congress-in-nc-03-victory/",
+   "published": "2026-11-23T19:24:43Z",
+   "summary": "Four years ago, Smith lost his N.C. House seat to redistricting. This year, a new round of redistricting sent him to Congress."
+  },
   {
    "id": "eb5db6dcb455",
    "source": "carolinajournal",
@@ -1237,14 +1245,6 @@
    "url": "https://www.wfae.org/politics/2026-11-04/monroe-elects-first-black-woman-mayor",
    "published": "2026-11-04T20:56:38Z",
    "summary": "Voters in Monroe elected Surluta Anthony as the city's next mayor, part of a broader Democratic sweep in local races. Anthony defeated Republican City Council member David Dotson by 16 percentage points. She will become the first Black woman elected mayor of Monroe."
-  },
-  {
-   "id": "cf768392e873",
-   "source": "ncnewsline",
-   "title": "US Rep. Virginia Foxx says vote count isn’t over as she trails Dem in NC’s 5th District",
-   "url": "https://ncnewsline.com/2026/11/04/us-rep-virginia-foxx-says-vote-count-isnt-over-as-she-trails-dem-in-ncs-5th-district/",
-   "published": "2026-11-04T20:47:20Z",
-   "summary": "Republican U.S. Rep. Virginia Foxx trails her Democratic challenger by just 99 votes – less than 1% – in North Carolina’s 5th Congressional District, leaving one of the state’s closest congressional races undecided following Tuesday’s midterm elections. With all 230 precincts…"
   },
   {
    "id": "e66ebfb0da43",
