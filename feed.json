@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:32:08Z",
+ "generatedAt": "2026-11-23T14:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -90,7 +90,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-22T21:57:21Z"
+    "newest": "2026-11-23T13:56:57Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "6e6b2cb7636e",
+   "source": "wunc",
+   "title": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
+   "url": "https://www.wunc.org/2026-11-23/voters-oust-sheriffs-signed-pacts-trump-immigration-enforcement",
+   "published": "2026-11-23T13:56:57Z",
+   "summary": "Some sheriffs who aided President Donald Trump's immigration crackdown have been ousted from office by voters."
+  },
   {
    "id": "3e1bdb98b45a",
    "source": "ncnewsline",
@@ -1745,14 +1753,6 @@
    "url": "https://www.wunc.org/politics/2026-11-02/knightdales-bond-referendum-community-center-raise-property-taxes",
    "published": "2026-11-02T20:16:12Z",
    "summary": "This Election Day, voters will weigh in on the Knightdale Parks & Recreation Bond. If passed, the funds will go toward a new community center designed to support the town's growing population."
-  },
-  {
-   "id": "6e7279ad556d",
-   "source": "wunc",
-   "title": "The 1st Congressional District may be N.C.'s closest. Could a third-party candidate help decide it?",
-   "url": "https://www.wunc.org/politics/2026-11-02/nc-libertarian-tom-bailey-first-district-third-party",
-   "published": "2026-11-02T18:36:34Z",
-   "summary": "Libertarian Tom Bailey is running in North Carolina's 1st Congressional District for the second consecutive election."
   },
   {
    "id": "759023e5b349",
