@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:17:15Z",
+ "generatedAt": "2026-11-24T21:04:24Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-23T19:24:43Z"
+    "newest": "2026-11-24T20:40:47Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "06795fba5552",
+   "source": "ncnewsline",
+   "title": "Mecklenburg County DA dismisses charge against Rep.-elect Womack of NC-14",
+   "url": "https://ncnewsline.com/2026/11/24/mecklenburg-county-da-dismisses-charge-against-rep-elect-womack-of-nc-14/",
+   "published": "2026-11-24T20:40:47Z",
+   "summary": "LaKesha Womack ousted one of the state’s most powerful politicians when she defeated Republican U.S. Rep. Tim Moore in a surprise upset earlier this month."
+  },
   {
    "id": "f0998a41bba7",
    "source": "ncsbe",
@@ -1230,14 +1238,6 @@
    "url": "https://www.carolinajournal.com/nc-house-senate-majorities-take-shape-as-close-races-remain-unresolved/",
    "published": "2026-11-04T21:27:40Z",
    "summary": "Unofficial results project a 71-seat Democratic House majority and a 26-24 Republican Senate edge, with six legislative races in recount range. The post NC House, Senate majorities take shape as close races remain unresolved appeared first on Carolina Journal ."
-  },
-  {
-   "id": "72a77d8fbf44",
-   "source": "ncnewsline",
-   "title": "‘Wow. Just… wow’: Political scientist Chris Cooper on North Carolina’s historic 2026 midterms",
-   "url": "https://ncnewsline.com/2026/11/04/wow-just-wow-political-scientist-chris-cooper-on-north-carolinas-historic-2026-midterms/",
-   "published": "2026-11-04T21:10:51Z",
-   "summary": "Tectonic. Generational. A Blue-nami. A bloodbath. Just a few of the terms out there today as people in North Carolina, around the country — and around the world — try to make sense of what just happened in American politics. North Carolina had arguably one of the biggest shifts…"
   },
   {
    "id": "b0b9f06c19da",
