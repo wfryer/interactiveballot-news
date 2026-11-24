@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:04:24Z",
+ "generatedAt": "2026-11-24T23:17:09Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -90,7 +90,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-23T13:56:57Z"
+    "newest": "2026-11-24T23:08:07Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "56235f320279",
+   "source": "wunc",
+   "title": "Trump tabs outgoing Forsyth County DA Jim O'Neill for federal judge appointment",
+   "url": "https://www.wunc.org/politics/2026-11-24/trump-forsyth-county-jim-oneill-federal-judge",
+   "published": "2026-11-24T23:08:07Z",
+   "summary": "O'Neill has served more than four terms as Forsyth County's prosecutor, but lost a bid for re-election this November. He must be confirmed by the U.S. Senate."
+  },
   {
    "id": "06795fba5552",
    "source": "ncnewsline",
@@ -1771,14 +1779,6 @@
    "url": "https://www.carolinajournal.com/nc-early-voting-tops-2-8m-as-democrats-match-2018s-12-turnout-edge/",
    "published": "2026-11-02T20:27:47Z",
    "summary": "Democrats cast more than a million, or 38.37%, early ballots; unaffiliated voters held the second-largest bloc with 991,939, or 35.18%; and registered Republicans cast 737,349 ballots, or 26.15%. The post NC early voting tops 2.8M as Democrats match 2018’s 12% turnout edge…"
-  },
-  {
-   "id": "315c6e1da59b",
-   "source": "wunc",
-   "title": "Knightdale's $55 million bond referendum would fund new community center, raise property taxes",
-   "url": "https://www.wunc.org/politics/2026-11-02/knightdales-bond-referendum-community-center-raise-property-taxes",
-   "published": "2026-11-02T20:16:12Z",
-   "summary": "This Election Day, voters will weigh in on the Knightdale Parks & Recreation Bond. If passed, the funds will go toward a new community center designed to support the town's growing population."
   },
   {
    "id": "759023e5b349",
