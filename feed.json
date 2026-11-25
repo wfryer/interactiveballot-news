@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T23:17:09Z",
+ "generatedAt": "2026-11-25T00:02:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-24T20:40:47Z"
+    "newest": "2026-11-24T23:36:08Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "451d7ff25412",
+   "source": "ncnewsline",
+   "title": "NC voting rights advocates warn against lame-duck election changes as state certifies results",
+   "url": "https://ncnewsline.com/2026/11/24/nc-voting-rights-advocates-warn-against-lame-duck-election-changes-as-state-board-certifies-results/",
+   "published": "2026-11-24T23:36:08Z",
+   "summary": "Voting rights groups gathered outside the North Carolina State Board of Elections Tuesday, urging lawmakers to avoid making changes to election laws during the final weeks of Republican control of the legislature. The rally at Halifax Mall, organized by the Our Future Our Vote…"
+  },
   {
    "id": "56235f320279",
    "source": "wunc",
@@ -1230,14 +1238,6 @@
    "url": "https://www.wunc.org/politics/2026-11-04/alamance-county-voters-oust-sheriff-terry-johnson",
    "published": "2026-11-04T22:39:24Z",
    "summary": "Alamance County voters unseated Sheriff Terry Johnson, who oversaw a tenure with controversies and accusations of racism."
-  },
-  {
-   "id": "a23d080f7fbc",
-   "source": "ncnewsline",
-   "title": "With Democrats taking control of Congress, Stein hopes for more Western NC recovery funds",
-   "url": "https://ncnewsline.com/2026/11/04/with-democrats-taking-control-of-congress-stein-hopes-for-more-western-nc-recovery-funds/",
-   "published": "2026-11-04T22:00:59Z",
-   "summary": "North Carolina will send more Democrats than Republicans to Congress next year."
   },
   {
    "id": "00ab830ae159",
