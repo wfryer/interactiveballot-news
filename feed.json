@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:02:11Z",
+ "generatedAt": "2026-11-25T18:17:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -75,7 +75,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-23T15:28:52Z"
+    "newest": "2026-11-25T18:05:52Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "bf39d62d73af",
+   "source": "wfae",
+   "title": "Hispanic midterms vote in Mecklenburg more than doubled 2022 total",
+   "url": "https://www.wfae.org/race-equity/2026-11-25/hispanic-midterms-vote-in-mecklenburg-more-than-doubled-2022-total",
+   "published": "2026-11-25T18:05:52Z",
+   "summary": "More than twice as many registered Hispanic voters in Mecklenburg County cast ballots this year compared to the last midterm elections in 2022."
+  },
   {
    "id": "451d7ff25412",
    "source": "ncnewsline",
@@ -1632,14 +1640,6 @@
    "url": "https://www.carolinajournal.com/ager-projected-to-flip-nc-11/",
    "published": "2026-11-04T02:25:08Z",
    "summary": "Democrat defeats Balkcom after a late Republican candidate change in a race shaped by Helene recovery and a fundraising gap. The post Ager projected to flip NC-11 appeared first on Carolina Journal ."
-  },
-  {
-   "id": "bce6e398f581",
-   "source": "wfae",
-   "title": "Democratic challenger Ager flips U.S. House seat in western N.C.; Moore trails in NC-14",
-   "url": "https://www.wfae.org/politics/2026-11-03/adams-coasts-to-reelection-democratic-challenger-ager-flips-u-s-house-seat-in-western-n-c",
-   "published": "2026-11-04T02:21:16Z",
-   "summary": "Incumbent Democratic U.S. Rep. Alma Adams easily won reelection Monday night, and Democratic challenger Jamie Ager flipped a Republican-held district in western North Carolina."
   },
   {
    "id": "28db720e9507",
