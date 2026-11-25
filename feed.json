@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T18:17:08Z",
+ "generatedAt": "2026-11-25T23:02:16Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -105,7 +105,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-23T16:35:37Z"
+    "newest": "2026-11-25T23:00:00Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "3e1982152bc4",
+   "source": "carolinajournal",
+   "title": "Legislators seek dismissal of 2018 voter ID, tax cap amendments suit",
+   "url": "https://www.carolinajournal.com/legislators-seek-dismissal-of-2018-voter-id-tax-cap-amendments-suit/",
+   "published": "2026-11-25T23:00:00Z",
+   "summary": "Republican legislative leaders are asking North Carolina’s second-highest court to dismiss an appeal in a lawsuit challenging two 2018 state constitutional amendments. A court filing this week argues that the recent election renders the lawsuit moot. The post Legislators seek…"
+  },
   {
    "id": "bf39d62d73af",
    "source": "wfae",
@@ -1920,14 +1928,6 @@
    "url": "https://www.carolinajournal.com/cj-poll-cooper-leads-whatley-by-10-as-republicans-return-to-whatley/",
    "published": "2026-10-22T16:56:12Z",
    "summary": "Roy Cooper leads Michael Whatley 49% to 39% in the new Carolina Journal poll, down from a 15-point lead in September. Whatley’s gain came from Republicans returning from undecided, while Democrats lost ground on both tax amendments. The post CJ Poll: Cooper leads Whatley by 10…"
-  },
-  {
-   "id": "e30548c6cdf3",
-   "source": "carolinajournal",
-   "title": "Complaint alleges illegal contribution to NC House candidate Lorenza Wilkins",
-   "url": "https://www.carolinajournal.com/complaint-alleges-illegal-contribution-to-nc-house-candidate-lorenza-wilkins/",
-   "published": "2026-10-22T10:38:00Z",
-   "summary": "The complaint alleges the $9,800 “office furniture donation” from Blue Ridge Realty, Inc. violated laws against both corporate giving and donations of over $6,800 per election. The post Complaint alleges illegal contribution to NC House candidate Lorenza Wilkins appeared first…"
   },
   {
    "id": "775edea7d44a",
