@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T13:17:08Z",
+ "generatedAt": "2026-11-26T13:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -29,8 +29,8 @@
    "about": "https://www.commoncause.org/north-carolina/about-us/",
    "status": {
     "state": "ok",
-    "itemCount": 4,
-    "newest": "2026-11-26T13:17:08Z"
+    "itemCount": 0,
+    "newest": null
    }
   },
   {
@@ -224,42 +224,6 @@
   }
  ],
  "items": [
-  {
-   "id": "e062b70a5b33",
-   "source": "commoncause",
-   "title": "5 Things to Know: Harmful proposed voting rules changes in North Carolina – and what you can do",
-   "url": "https://www.commoncause.org/north-carolina/articles/5-things-to-know-sboe-rules/",
-   "published": "2026-11-26T13:17:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "96ce3a463465",
-   "source": "commoncause",
-   "title": "Tell NC lawmakers: Say NO to anti-voter House Bill 958",
-   "url": "https://www.commoncause.org/north-carolina/articles/h958/",
-   "published": "2026-11-26T13:17:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "6d4a57d5c743",
-   "source": "commoncause",
-   "title": "NC election protection advocates speak out against anti-voter House Bill 958",
-   "url": "https://www.commoncause.org/north-carolina/articles/nc-election-protection-advocates-speak-out-against-anti-voter-house-bill-958/",
-   "published": "2026-11-26T13:17:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
-  {
-   "id": "61f1eca6149c",
-   "source": "commoncause",
-   "title": "North Carolinians speak up at the We Will Protect Our Vote Rally in Raleigh",
-   "url": "https://www.commoncause.org/north-carolina/articles/north-carolinians-speak-up-at-the-we-will-protect-our-vote-rally-in-raleigh/",
-   "published": "2026-11-26T13:17:08Z",
-   "summary": "",
-   "dateApprox": true
-  },
   {
    "id": "3ec5d0ddef0f",
    "source": "ncnewsline",
