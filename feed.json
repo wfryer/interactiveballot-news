@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:02:09Z",
+ "generatedAt": "2026-11-26T11:32:08Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -45,7 +45,7 @@
    "status": {
     "state": "ok",
     "itemCount": 40,
-    "newest": "2026-11-24T23:36:08Z"
+    "newest": "2026-11-26T11:00:14Z"
    }
   },
   {
@@ -224,6 +224,14 @@
   }
  ],
  "items": [
+  {
+   "id": "3ec5d0ddef0f",
+   "source": "ncnewsline",
+   "title": "Could a data center’s waste heat warm a North Carolina town?",
+   "url": "https://ncnewsline.com/2026/11/26/could-a-data-centers-waste-heat-warm-a-north-carolina-town/",
+   "published": "2026-11-26T11:00:14Z",
+   "summary": "In the Carolinas, Ohio, Texas, and many other states, Democrats routed incumbent Republicans in this month’s elections at least in part because voters fear an onslaught of AI data centers — the massive computer warehouses that threaten to suck up water supplies, increase climate…"
+  },
   {
    "id": "3e1982152bc4",
    "source": "carolinajournal",
@@ -1238,14 +1246,6 @@
    "url": "https://www.wfae.org/politics/2026-11-04/how-lakesha-womacks-56-000-campaign-and-president-trump-sunk-powerful-republican-tim-moore",
    "published": "2026-11-04T23:36:09Z",
    "summary": "North Carolina's congressional delegation could change from Republicans having 10 of 14 seats to Democrats having 10 of 14 seats."
-  },
-  {
-   "id": "f124623263cf",
-   "source": "ncnewsline",
-   "title": "US Reps. Hudson and McDowell concede races in 2 of NC’s most stunning election upsets",
-   "url": "https://ncnewsline.com/2026/11/04/us-reps-hudson-and-mcdowell-concede-races-in-2-of-ncs-most-stunning-election-upsets/",
-   "published": "2026-11-04T23:00:19Z",
-   "summary": "Two Republican members of North Carolina’s congressional delegation acknowledged Wednesday there was no path to victory in their respective districts after Tuesday’s midterm elections. Both were in districts widely considered to be safe Republican seats and were not expected to…"
   },
   {
    "id": "308e67ea01d7",
