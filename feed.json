@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T11:47:11Z",
+ "generatedAt": "2026-11-28T12:02:07Z",
  "sources": [
   {
    "id": "ncsbe",
@@ -13,7 +13,7 @@
    "about": "https://www.ncsbe.gov/about",
    "status": {
     "state": "ok",
-    "itemCount": 20,
+    "itemCount": 18,
     "newest": "2026-11-24T12:00:00Z"
    }
   },
@@ -1935,24 +1935,6 @@
    "title": "Encounter an Issue While Voting? Tell an Election Official",
    "url": "https://www.ncsbe.gov/news/press-releases/2026/10/19/encounter-issue-while-voting-tell-election-official",
    "published": "2026-10-19T12:00:00Z",
-   "summary": "",
-   "dateOnly": true
-  },
-  {
-   "id": "e794294092b7",
-   "source": "ncsbe",
-   "title": "Election Officials to Host Media Availability for the Start of Early Voting",
-   "url": "https://www.ncsbe.gov/news/press-releases/2026/10/14/election-officials-host-media-availability-start-early-voting",
-   "published": "2026-10-14T12:00:00Z",
-   "summary": "",
-   "dateOnly": true
-  },
-  {
-   "id": "3a957587119d",
-   "source": "ncsbe",
-   "title": "Fact: In NC, Election Workers Often Do Have to Write on Your Ballot",
-   "url": "https://www.ncsbe.gov/news/press-releases/2026/10/14/fact-nc-election-workers-often-do-have-write-your-ballot",
-   "published": "2026-10-14T12:00:00Z",
    "summary": "",
    "dateOnly": true
   }
